@@ -27,7 +27,7 @@ import SwiperCarousel from '@site/src/components/01-int-players/SwiperCarousel';
     <h3>Control the Sound:</h3>
     <div className="container">
       <iframe
-        src="https://play.maar.world/?g=335&s=1&c=0"
+        src="https://play.plantasia.space/?g=335&s=1&c=0"
         className="responsive-iframe"
         title="Control the Sound Interactive"
         frameBorder="0"
@@ -48,7 +48,7 @@ import SwiperCarousel from '@site/src/components/01-int-players/SwiperCarousel';
     <h3>Explore Regenerative Modes:</h3>
     <div className="container">
       <iframe
-        src="https://play.maar.world/?g=8&s=0&c=21"
+        src="https://play.plantasia.space/?g=8&s=0&c=21"
         className="responsive-iframe"
         title="Explore Regenerative Modes Interactive"
         frameBorder="0"
@@ -68,7 +68,7 @@ import SwiperCarousel from '@site/src/components/01-int-players/SwiperCarousel';
   <div className="hero__content">
     <h3>Innovative Tradition</h3>
     <img
-      src="/img/int-players/maar-world-banner-ovni.jpg"
+      src="/img/int-players/plantasia-space-banner-ovni.jpg"
       alt="Innovative Tradition"
       style={{ maxWidth: '100%', height: 'auto', marginTop: '20px' }}
     />

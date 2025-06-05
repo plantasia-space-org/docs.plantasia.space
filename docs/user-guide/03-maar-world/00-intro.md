@@ -5,25 +5,25 @@ cover: /img/covers/information-cover.jpg
 sidebar_position: 0
 ---
 
-Maar World is an exoplanet located in the Cygnus constellation. It has four moons and two suns. The inhabitants of this planet are mainly eternal children, innocent, happy, kind, generous, loving, organic beings. They are also imperfect, and they have a lot of work to do to improve themselves.
+plantasia.space is an exoplanet located in the Cygnus constellation. It has four moons and two suns. The inhabitants of this planet are mainly eternal children, innocent, happy, kind, generous, loving, organic beings. They are also imperfect, and they have a lot of work to do to improve themselves.
 
 The inhabitants have adopted a trinary logic approach, which has enabled them to survive and thrive on their planet. They believe that by acknowledging and learning from their mistakes, they can reconcile different perspectives and find common ground. This inclusive and holistic approach has led to a quantum stage where multiple truths can coexist without conflict.
 
 The trinary logic allows the inhabitants to develop smart tools for integration with other species, to maintain harmony with the environment, and to defend their new world and its nature. One example of this is the creation of ENTs, which are designed to bridge the gap between different species and cultures, fostering understanding and cooperation.
 
-![Maar World Information](/img/int-players/07_ip-card.jpg)
+![plantasia.space Information](/img/int-players/07_ip-card.jpg)
 
 ## Beyond Conventions: Aural Creations Born at the Intersection of Art, Science, and Technology
 
-Entangled creations born at the intersection of the physical and digital worlds, an imaginary that crosses the borders of scientific discoveries, technological development, and artistic creation. Maar World is a proof of concept for a new era of aural creations in a creator-owned creative economy.
+Entangled creations born at the intersection of the physical and digital worlds, an imaginary that crosses the borders of scientific discoveries, technological development, and artistic creation. plantasia.space is a proof of concept for a new era of aural creations in a creator-owned creative economy.
 
-## The Cosmopolitan Ancestry of Maar World: A Global Village Connected by Love and Creativity
+## The Cosmopolitan Ancestry of plantasia.space: A Global Village Connected by Love and Creativity
 
-All this work has been done by one artist supported by a beloved community. Maar World is born between individual and collective experiences. An accumulation of adventures between Uruguay, Chile, Spain, Germany, and a global upbringing.
+All this work has been done by one artist supported by a beloved community. plantasia.space is born between individual and collective experiences. An accumulation of adventures between Uruguay, Chile, Spain, Germany, and a global upbringing.
 
 This movement represents a blend of innovation and a continuation of tradition, a "let's go together," another world is possible. Time to build bridges, blur borders, and create from the love that unites us and sustains us as individuals united in the form of a network, and not an abyss.
 
-A human-machine commonwealth, from the brush to the machine learning models that reinterpret these creations and expand the stories of an imaginary world, a representation of Maar World where my cosmopolitan ancestry lives and interacts with a global village.
+A human-machine commonwealth, from the brush to the machine learning models that reinterpret these creations and expand the stories of an imaginary world, a representation of plantasia.space where my cosmopolitan ancestry lives and interacts with a global village.
 
 I hear this Earth calls to our love; let's create together protected areas to allow this planet to regenerate, and so heal and take care of ourselves.
 

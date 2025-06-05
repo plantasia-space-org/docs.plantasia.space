@@ -52,7 +52,7 @@ const SwiperCarousel = () => {
         <div className="text-content">
           <h2>III</h2>
           <p>
-            We are in the very beginning of this journey, <a href="https://maar.world/subscribe" target="_blank" rel="noopener noreferrer">stay connected</a> for more.
+            We are in the very beginning of this journey, <a href="https://plantasia.space/subscribe" target="_blank" rel="noopener noreferrer">stay connected</a> for more.
           </p>
         </div>
       </SwiperSlide>

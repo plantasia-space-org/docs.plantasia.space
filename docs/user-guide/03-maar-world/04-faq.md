@@ -8,27 +8,27 @@ sidebar_position: 4
 ### Frequently Asked Questions
 
 <details>
-  <summary>Q: What is Maar World?</summary>
+  <summary>Q: What is plantasia.space?</summary>
   
-  **A:** Maar World is a proof of concept for a new era of aural creations that exist at the intersection of the physical and digital worlds. It is an imaginary world that combines scientific discoveries, technological development, and artistic creation, and serves as a platform for exploring new forms of audio expression.
+  **A:** plantasia.space is a proof of concept for a new era of aural creations that exist at the intersection of the physical and digital worlds. It is an imaginary world that combines scientific discoveries, technological development, and artistic creation, and serves as a platform for exploring new forms of audio expression.
 </details>
 
 <details>
-  <summary>Q: What is the goal of Maar World?</summary>
+  <summary>Q: What is the goal of plantasia.space?</summary>
   
-  **A:** The goal of Maar World is to establish a creator-owned creative economy that prioritizes the human experience and creativity. By combining traditional craftsmanship with modern manufacturing techniques, and exploring the intersection of physical and digital worlds, Maar World seeks to create sustainable, profitable, and socially responsible businesses that empower, inspire, and amplify human potential in creative endeavors.
+  **A:** The goal of plantasia.space is to establish a creator-owned creative economy that prioritizes the human experience and creativity. By combining traditional craftsmanship with modern manufacturing techniques, and exploring the intersection of physical and digital worlds, plantasia.space seeks to create sustainable, profitable, and socially responsible businesses that empower, inspire, and amplify human potential in creative endeavors.
 </details>
 
 <details>
-  <summary>Q: What is Maar World's approach to technology?</summary>
+  <summary>Q: What is plantasia.space's approach to technology?</summary>
   
-  **A:** Maar World prioritizes the human experience and creativity by developing technologies that empower, inspire, and amplify human potential in creative endeavors. Rather than dictating the creative process, Maar World seeks to create tools that walk with humans and expand their possibilities as creators.
+  **A:** plantasia.space prioritizes the human experience and creativity by developing technologies that empower, inspire, and amplify human potential in creative endeavors. Rather than dictating the creative process, plantasia.space seeks to create tools that walk with humans and expand their possibilities as creators.
 </details>
 
 <details>
-  <summary>Q: How does Maar World balance artisanship and automation in its production?</summary>
+  <summary>Q: How does plantasia.space balance artisanship and automation in its production?</summary>
   
-  **A:** Maar World combines traditional craftsmanship with modern manufacturing techniques to preserve the beauty and uniqueness of handcrafted items while increasing production capacity, quality, and affordability. The project recognizes the value of skilled workmanship while also acknowledging the potential benefits of automation in improving productivity and reducing waste. All products are 100% ecologically produced in Italy with solar energy and feature 100% handmade packaging made in Uruguay using locally-sourced materials. The papers and inks used in production are 100% eco-friendly and recyclable.
+  **A:** plantasia.space combines traditional craftsmanship with modern manufacturing techniques to preserve the beauty and uniqueness of handcrafted items while increasing production capacity, quality, and affordability. The project recognizes the value of skilled workmanship while also acknowledging the potential benefits of automation in improving productivity and reducing waste. All products are 100% ecologically produced in Italy with solar energy and feature 100% handmade packaging made in Uruguay using locally-sourced materials. The papers and inks used in production are 100% eco-friendly and recyclable.
 </details>
 
 <details>

@@ -6,19 +6,19 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Maar World',
+  title: 'plantasia.space',
   tagline: 'Comprehensive Documentation',
   favicon: 'img/favicon.ico',
 
   // Production URL of your site
-  url: 'https://docs.maar.world',
+  url: 'https://docs.plantasia.space',
   // Base URL pathname
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you're not using GitHub pages, you can remove these.
-  organizationName: 'maar34', // Your GitHub org/user name.
-  projectName: 'docs.maar.world', // Your repository name.
+  organizationName: 'plantasia-space', // Your GitHub org/user name.
+  projectName: 'docs.plantasia.space', // Your repository name.
 
   // Handle broken links and markdown links
   onBrokenLinks: 'warn', // 'throw' for production builds
@@ -42,13 +42,13 @@ const config = {
           // Path to your sidebar configuration
           sidebarPath: require.resolve('./sidebars.js'),
           // Edit URL for the documentation pages
-          editUrl: 'https://github.com/maar34/docs.maar.world/edit/main/', // Update to your GitHub repo
+          editUrl: 'https://github.com/plantasia-space/docs.plantasia.space/edit/main/', // Update to your GitHub repo
           routeBasePath: 'docs', // Base path for documentation
           remarkPlugins: [require("remark-breaks")],
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/maar34/docs.maar.world/edit/main/blog/', // Update to your GitHub repo
+          editUrl: 'https://github.com/plantasia-space/docs.plantasia.space/edit/main/blog/', // Update to your GitHub repo
           path: './blog',
           routeBasePath: 'blog', // Base path for blog
         },
@@ -66,9 +66,9 @@ const config = {
       // Social card image for meta tags
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Maar World Docs',
+        title: 'plantasia.space Docs',
         logo: {
-          alt: 'Maar World Logo',
+          alt: 'plantasia.space Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -88,7 +88,7 @@ const config = {
             ],
           },
               {
-            href: 'https://github.com/maar34/docs.maar.world',
+            href: 'https://github.com/plantasia-space/docs.plantasia.space',
             label: 'GitHub',
             position: 'right',
           },
@@ -133,12 +133,12 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/maar34/docs.maar.world',
+                href: 'https://github.com/plantasia-space/docs.plantasia.space',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Maar World Docs.`,
+        copyright: `Copyright © ${new Date().getFullYear()} plantasia.space Docs.`,
       },
       prism: {
         theme: prismThemes.github,
