@@ -8,7 +8,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 const config = {
   title: 'plantasia.space',
   tagline: 'Comprehensive Documentation',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favico.ico',
 
   // Production URL of your site
   url: 'https://docs.plantasia.space',
