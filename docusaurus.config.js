@@ -69,7 +69,7 @@ const config = {
         title: 'plantasia.space Docs',
         logo: {
           alt: 'plantasia.space Logo',
-          src: 'img/logo.svg',
+          src: 'img/ps.svg',
         },
         items: [
           {
