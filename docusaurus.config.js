@@ -82,9 +82,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'xplorerGuidesSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: '👨🏿‍🏫 xPlorer Guides',
+            label: 'xPlorer Guide',
           },
           {
             type: 'localeDropdown',
@@ -104,8 +104,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'xPlorer Guides',
-                to: '/docs/xplorer-guides', // Auto-generated sidebar link
+                label: 'Documentation',
+                to: '/docs/index', // Auto-generated sidebar link
               },
             ],
           },

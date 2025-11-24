@@ -11,9 +11,9 @@
     "message": "More",
     "description": "The title of the footer links column with title=More in the footer"
   },
-  "link.item.label.xPlorer Guides": {
-    "message": "xPlorer Guides",
-    "description": "The label of footer link with label=xPlorer Guides linking to /docs/xplorer-guides"
+  "link.item.label.Documentation": {
+    "message": "Documentación",
+    "description": "The label of footer link with label=Documentation linking to /docs/index"
   },
   "link.item.label.Discord": {
     "message": "Discord",

@@ -132,3 +132,8 @@ ul li {
 .text-content p {
   font-size: 1.2em;
 }
+
+/* Invert icons in dark mode */
+[data-theme='dark'] .invert-on-dark {
+  filter: invert(1);
+}

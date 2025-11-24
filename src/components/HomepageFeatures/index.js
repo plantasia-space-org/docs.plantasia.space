@@ -6,30 +6,44 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'xPlorer Guides',
-    Svg: require('@site/static/img/xplorer.svg').default,
-    description: (
-      <>
-        Learn how to release and use the Orbiters, Entangled worlds, and discover the unique sonic experiences they offer. 
-      </>
-    ),
-    link: '/docs/xplorer-guides', // Link to your xPlorer Guides section
-    buttonText: 'xPlorer Guides',
+    title: 'plantasia.space',
+    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
+    link: '/docs/00-plantasia.space/00-intro',
+  },
+  {
+    title: 'Tracks',
+    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg',
+    link: '/docs/01-tracks/00-intro',
+  },
+  {
+    title: 'Entangled Worlds',
+    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg',
+    link: '/docs/02-entangled-worlds/00-intro',
+  },
+  {
+    title: 'Orbiters',
+    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/orbiter.svg',
+    link: '/docs/03-orbiters/00-intro',
+  },
+  {
+    title: 'Collections',
+    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg',
+    link: '/docs/04-collections/00-intro',
   },
 ];
 
-function Feature({ Svg, title, description, link, buttonText }) {
+function Feature({ image, title, link }) {
   return (
-    <div className={clsx('col col--6')}>
+    <div className={clsx('col col--4 margin-bottom--lg')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <Link to={link}>
+          <img src={image} className={clsx(styles.featureSvg, 'invert-on-dark')} alt={title} />
+        </Link>
       </div>
       <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-        <Link className="button button--primary button--lg" to={link}>
-          {buttonText}
-        </Link>
+        <Heading as="h3">
+          <Link to={link}>{title}</Link>
+        </Heading>
       </div>
     </div>
   );
