@@ -10,7 +10,7 @@ const FeatureList = [
     Svg: require('@site/static/img/xplorer.svg').default,
     description: (
       <>
-        Learn how to use the Interplanetary Players, explore features, and discover the unique sonic experiences they offer. 
+        Learn how to use the Orbiters, explore features, and discover the unique sonic experiences they offer. 
         Start your journey into a new realm of music.
       </>
     ),

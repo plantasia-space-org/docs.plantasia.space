@@ -1,4 +1,4 @@
-// src/components/01-int-players/SwiperCarousel.js
+// src/components/01-orbiters/SwiperCarousel.js
 import React from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Autoplay } from 'swiper/modules';
@@ -17,7 +17,7 @@ const SwiperCarousel = () => {
     >
       <SwiperSlide>
         <img
-          src="/img/int-players/07_ip-card.jpg"
+          src="/img/orbiters/07_ip-card.jpg"
           alt="IP Card I"
           style={{ maxWidth: '800px', width: '100%', height: 'auto' }}
         />
@@ -31,7 +31,7 @@ const SwiperCarousel = () => {
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="/img/int-players/10_ip-transit.png"
+          src="/img/orbiters/10_ip-transit.png"
           alt="IP Transit II"
           style={{ maxWidth: '800px', width: '100%', height: 'auto' }}
         />
@@ -45,7 +45,7 @@ const SwiperCarousel = () => {
       </SwiperSlide>
       <SwiperSlide>
         <img
-          src="/img/int-players/08_ip-max-24.jpg"
+          src="/img/orbiters/08_ip-max-24.jpg"
           alt="IP Max III"
           style={{ maxWidth: '800px', width: '100%', height: 'auto' }}
         />

@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.xplorerGuidesSidebar.category.Orbiters": {
+    "message": "Orbiters",
+    "description": "The label for category Interplanetary Players in sidebar xplorerGuidesSidebar"
+  },
+  "sidebar.xplorerGuidesSidebar.category.Interplanetary Players.link.generated-index.description": {
+    "message": "Learn more about Interplanetary Players.",
+    "description": "The generated-index page description for category Interplanetary Players in sidebar xplorerGuidesSidebar"
+  },
+  "sidebar.xplorerGuidesSidebar.category.Ent Cards": {
+    "message": "Ent Cards",
+    "description": "The label for category Ent Cards in sidebar xplorerGuidesSidebar"
+  },
+  "sidebar.xplorerGuidesSidebar.category.Ent Cards.link.generated-index.description": {
+    "message": "Learn more about ENT Cards.",
+    "description": "The generated-index page description for category Ent Cards in sidebar xplorerGuidesSidebar"
+  },
+  "sidebar.xplorerGuidesSidebar.category.plantasia.space": {
+    "message": "plantasia.space",
+    "description": "The label for category plantasia.space in sidebar xplorerGuidesSidebar"
+  },
+  "sidebar.xplorerGuidesSidebar.category.plantasia.space.link.generated-index.description": {
+    "message": "Learn more.",
+    "description": "The generated-index page description for category plantasia.space in sidebar xplorerGuidesSidebar"
+  }
+}

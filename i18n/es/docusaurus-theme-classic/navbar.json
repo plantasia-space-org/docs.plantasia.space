@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "plantasia.space Docs",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "plantasia.space Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.👨🏿‍🏫 xPlorer Guides": {
+    "message": "👨🏿‍🏫 xPlorer Guides",
+    "description": "Navbar item with label 👨🏿‍🏫 xPlorer Guides"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

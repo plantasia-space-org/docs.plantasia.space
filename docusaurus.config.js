@@ -27,7 +27,15 @@ const config = {
   // Internationalization configuration
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      es: {
+        htmlLang: 'es-ES',
+      },
+    },
   },
 
   // Presets for Docusaurus
@@ -77,6 +85,10 @@ const config = {
             sidebarId: 'xplorerGuidesSidebar',
             position: 'left',
             label: '👨🏿‍🏫 xPlorer Guides',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/plantasia-space/docs.plantasia.space',
@@ -143,7 +155,7 @@ const config = {
         docsRouteBasePath: '/docs', // The route base path for docs
         indexDocs: true, // Index docs (default: true)
         indexPages: true, // Index pages other than docs (default: false)
-        language: ['en'], // Specify the language(s) to be indexed
+        language: ['en', 'es'], // Specify the language(s) to be indexed
         highlightSearchTermsOnTargetPage: true, // Highlight search terms on the target page
         explicitSearchResultPath: true, // Explicitly define search result paths
       },
