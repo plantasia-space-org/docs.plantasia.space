@@ -79,15 +79,6 @@ const config = {
             label: '👨🏿‍🏫 User Guide',
           },
           {
-            type: 'dropdown',
-            label: '👩🏻‍💻 Developer’s Guide',
-            position: 'left',
-            items: [
-              { to: '/docs/developers-guide', label: 'Developers-Wiki' },
-              { to: '/docs/api/CoreModule', label: 'Interplanetary Players API' }, // Link to the API docs
-            ],
-          },
-              {
             href: 'https://github.com/plantasia-space/docs.plantasia.space',
             label: 'GitHub',
             position: 'right',
@@ -104,10 +95,6 @@ const config = {
                 label: 'User Guide',
                 to: '/docs/user-guide', // Auto-generated sidebar link
               },
-              {
-                label: 'Developers Guide',
-                to: '/docs/developers-guide', // Auto-generated sidebar link
-              },
             ],
           },
           {
@@ -115,11 +102,11 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.com/invite/Esnvk2MMne',
+                href: 'https://discord.gg/ArcGZhws',
               },
               {
                 label: 'Instagram',
-                href: 'https://instagram.com/maar_world_',
+                href: 'https://instagram.com/plantasia_space',
               },
             ],
           },

@@ -17,17 +17,6 @@ const FeatureList = [
     link: '/docs/user-guide', // Link to your User Guide section
     buttonText: 'Explore User Guide',
   },
-  {
-    title: 'Developer’s Guide',
-    Svg: require('@site/static/img/sound_engine.svg').default,
-    description: (
-      <>
-        Dive into the technical documentation for developers. Learn how to customize, extend, and contribute to the Interplanetary Players.
-      </>
-    ),
-    link: '/docs/developers-guide', // Link to your Developer's Guide section
-    buttonText: 'View Developer’s Guide',
-  },
 ];
 
 function Feature({ Svg, title, description, link, buttonText }) {
