@@ -5,11 +5,11 @@
   },
   "sidebar.xplorerGuidesSidebar.category.Orbiters": {
     "message": "Orbiters",
-    "description": "The label for category Interplanetary Players in sidebar xplorerGuidesSidebar"
+    "description": "The label for category Orbiters in sidebar xplorerGuidesSidebar"
   },
-  "sidebar.xplorerGuidesSidebar.category.Interplanetary Players.link.generated-index.description": {
-    "message": "Learn more about Interplanetary Players.",
-    "description": "The generated-index page description for category Interplanetary Players in sidebar xplorerGuidesSidebar"
+  "sidebar.xplorerGuidesSidebar.category.Orbiters.link.generated-index.description": {
+    "message": "Learn more about Orbiters.",
+    "description": "The generated-index page description for category Orbiters in sidebar xplorerGuidesSidebar"
   },
   "sidebar.xplorerGuidesSidebar.category.Ent Cards": {
     "message": "Ent Cards",

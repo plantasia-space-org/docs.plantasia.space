@@ -17,23 +17,12 @@ An acoustic community is defined as an aggregation of species that produces soun
 
 An environment of SOUND (or sonic environment) with emphasis on the way it is perceived and understood by the individual, or by a society. It thus depends on the relationship between the individual and any such environment. The term may refer to actual environments, or to abstract constructions such as musical compositions and tape montages, particularly when considered as an artificial environment. <a href="https://www.sfu.ca/sonic-studio-webdav/handbook/Soundscape.html" target="_blank">Truax, Handbook for Acoustic Ecology</a>
 
-### Certificate of Authenticity
-
-It is a document used as authentication for a piece of artwork. A system which verifies that the program is a genuine, legal copy.
-
-### ENT
-
-A creation that's not purely physical nor purely digital; it exists as both physical and digital. Entangled Tokens (ENTs) exist as unique physical objects and as unique digital data recorded on the blockchain (NFT). This hybrid existence is interconnected since its creation with a certificate of authenticity linking both worlds. In addition to its features, the ENT is also associated with a sister project focused on promoting the regeneration of Earth's biodiversity or enhancing the well-being of all its inhabitants.
-
-### Interplanetary Players
+### Orbiters
 
 An initiative that explores the intersection of digital and physical worlds through the design of intelligent music players and meta-musical instruments. Conceived as a global network of intelligent music tools that use algorithmic approaches to facilitate music listening and creation, allowing users to take control of their sound in new and exciting ways. These tools are designed to be accessible to anyone, regardless of musical training or technical knowledge, and aim to reactivate auditory consciousness and push the boundaries of what's possible in musical creation and exploration.
 
-### ENT Cards
 
-A new paradigm for music distribution of independent artists, merging physical and digital releases, music making, and listening.
-
-### ENT Worlds
+### Entangled Worlds
 
 ENT Worlds is a network of interconnected sonic planets and objects that exist at the intersection of digital and physical worlds.
 

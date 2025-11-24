@@ -17,7 +17,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you're not using GitHub pages, you can remove these.
-  organizationName: 'plantasia-space', // Your GitHub org/user name.
+  organizationName: 'plantasia-space-org', // Your GitHub org/user name.
   projectName: 'docs.plantasia.space', // Your repository name.
 
   // Handle broken links and markdown links
@@ -50,13 +50,13 @@ const config = {
           // Path to your sidebar configuration
           sidebarPath: require.resolve('./sidebars.js'),
           // Edit URL for the documentation pages
-          editUrl: 'https://github.com/plantasia-space/docs.plantasia.space/edit/main/', // Update to your GitHub repo
+          editUrl: 'https://github.com/plantasia-space-org-org/docs.plantasia.space/edit/main/', // Update to your GitHub repo
           routeBasePath: 'docs', // Base path for documentation
           remarkPlugins: [require("remark-breaks")],
         },
         blog: {
           showReadingTime: true,
-          editUrl: 'https://github.com/plantasia-space/docs.plantasia.space/edit/main/blog/', // Update to your GitHub repo
+          editUrl: 'https://github.com/plantasia-space-org/docs.plantasia.space/edit/main/blog/', // Update to your GitHub repo
           path: './blog',
           routeBasePath: 'blog', // Base path for blog
         },
@@ -91,7 +91,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/plantasia-space/docs.plantasia.space',
+            href: 'https://github.com/plantasia-space-org/docs.plantasia.space',
             label: 'GitHub',
             position: 'right',
           },
@@ -132,7 +132,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/plantasia-space/docs.plantasia.space',
+                href: 'https://github.com/plantasia-space-org/docs.plantasia.space',
               },
             ],
           },

@@ -11,7 +11,7 @@ The inhabitants have adopted a trinary logic approach, which has enabled them to
 
 The trinary logic allows the inhabitants to develop smart tools for integration with other species, to maintain harmony with the environment, and to defend their new world and its nature. One example of this is the creation of ENTs, which are designed to bridge the gap between different species and cultures, fostering understanding and cooperation.
 
-![plantasia.space Information](/img/int-players/07_ip-card.jpg)
+![Orbiters](/img/orbiters/07_ip-card.jpg)
 
 ## Beyond Conventions: Aural Creations Born at the Intersection of Art, Science, and Technology
 

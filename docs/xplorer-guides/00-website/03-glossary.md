@@ -25,7 +25,7 @@ It is a document used as authentication for a piece of artwork. A system which v
 
 A creation that's not purely physical nor purely digital; it exists as both physical and digital. Entangled Tokens (ENTs) exist as unique physical objects and as unique digital data recorded on the blockchain (NFT). This hybrid existence is interconnected since its creation with a certificate of authenticity linking both worlds. In addition to its features, the ENT is also associated with a sister project focused on promoting the regeneration of Earth's biodiversity or enhancing the well-being of all its inhabitants.
 
-### Interplanetary Players
+### Orbiters
 
 An initiative that explores the intersection of digital and physical worlds through the design of intelligent music players and meta-musical instruments. Conceived as a global network of intelligent music tools that use algorithmic approaches to facilitate music listening and creation, allowing users to take control of their sound in new and exciting ways. These tools are designed to be accessible to anyone, regardless of musical training or technical knowledge, and aim to reactivate auditory consciousness and push the boundaries of what's possible in musical creation and exploration.
 

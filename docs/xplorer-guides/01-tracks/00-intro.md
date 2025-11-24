@@ -1,11 +1,11 @@
 ---
 title: Introduction
 sidebar_label: Introduction
-cover: /img/int-players/int-players-cover.jpeg
+cover: /img/orbiters/int-players-cover.jpeg
 sidebar_position: 0
 ---
 
-import SwiperCarousel from '@site/src/components/01-int-players/SwiperCarousel';
+import SwiperCarousel from '@site/src/components/01-orbiters/SwiperCarousel';
 
 
 ### Start Your Journey
@@ -68,7 +68,7 @@ import SwiperCarousel from '@site/src/components/01-int-players/SwiperCarousel';
   <div className="hero__content">
     <h3>Innovative Tradition</h3>
     <img
-      src="/img/int-players/plantasia-space-banner-ovni.jpg"
+      src="/img/orbiters/plantasia-space-banner-ovni.jpg"
       alt="Innovative Tradition"
       style={{ maxWidth: '100%', height: 'auto', marginTop: '20px' }}
     />
@@ -84,7 +84,7 @@ import SwiperCarousel from '@site/src/components/01-int-players/SwiperCarousel';
   <div className="hero__content">
     <h3>An Extended Harmony of the Spheres</h3>
     <img
-      src="/img/int-players/Planetary_Musical_Scales_from_Harmony_of_the_Worlds.jpg"
+      src="/img/orbiters/Planetary_Musical_Scales_from_Harmony_of_the_Worlds.jpg"
       alt="Harmony of the Spheres"
       style={{ maxWidth: '100%', height: 'auto', marginTop: '20px' }}
     />

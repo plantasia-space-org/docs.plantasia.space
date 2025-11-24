@@ -1,7 +1,7 @@
 ---
 title: MIDI Learn Mode
 sidebar_label: MIDI Learn Mode
-cover: /img/int-players/how-to.jpg
+cover: /img/orbiters/how-to.jpg
 sidebar_position: 2
 ---
 # MIDI Learn Mode xPlorer Guide

@@ -10,12 +10,11 @@ const FeatureList = [
     Svg: require('@site/static/img/xplorer.svg').default,
     description: (
       <>
-        Learn how to use the Orbiters, explore features, and discover the unique sonic experiences they offer. 
-        Start your journey into a new realm of music.
+        Learn how to release and use the Orbiters, Entangled worlds, and discover the unique sonic experiences they offer. 
       </>
     ),
     link: '/docs/xplorer-guides', // Link to your xPlorer Guides section
-    buttonText: 'Explore xPlorer Guides',
+    buttonText: 'xPlorer Guides',
   },
 ];
 

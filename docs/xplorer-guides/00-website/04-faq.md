@@ -16,7 +16,7 @@ sidebar_position: 4
 <details>
   <summary>Q: What is the goal of plantasia.space?</summary>
   
-  **A:** The goal of plantasia.space is to establish a creator-owned creative economy that prioritizes the human experience and creativity. By combining traditional craftsmanship with modern manufacturing techniques, and exploring the intersection of physical and digital worlds, plantasia.space seeks to create sustainable, profitable, and socially responsible businesses that empower, inspire, and amplify human potential in creative endeavors.
+  **A:** The goal of plantasia.space is to establish a creator-owned creative economy that prioritizes the human experience and creativity. By combining traditional craftsmanship with modern manufacturing techniques, and exploring the intersection of physical and digital worlds, plantasia.space seeks to create sustainable, and socially responsible community that empower, inspire, and amplify human potential in creative endeavors.
 </details>
 
 <details>
