@@ -74,9 +74,9 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'userGuideSidebar',
+            sidebarId: 'xplorerGuidesSidebar',
             position: 'left',
-            label: '👨🏿‍🏫 User Guide',
+            label: '👨🏿‍🏫 xPlorer Guides',
           },
           {
             href: 'https://github.com/plantasia-space/docs.plantasia.space',
@@ -92,8 +92,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'User Guide',
-                to: '/docs/user-guide', // Auto-generated sidebar link
+                label: 'xPlorer Guides',
+                to: '/docs/xplorer-guides', // Auto-generated sidebar link
               },
             ],
           },

@@ -30,7 +30,7 @@ On the front side of each card, you can find several identifying features, inclu
 On the back side of the card, you'll find:
 
 1. UFO quantity that identifies which edition the card belongs to, making it easier to track the edition of your collection.
-2. In physical cards, you will find an [NFC section](/docs/user-guide/02-ent-cards/03-nfc.md) chip that provides access to the Interplanetary Player, as well as files containing the card metadata, the Certificate of Authenticity, and the NFT contract associated with the card's edition.
+2. In physical cards, you will find an [NFC section](/docs/xplorer-guides/02-ent-cards/03-nfc.md) chip that provides access to the Interplanetary Player, as well as files containing the card metadata, the Certificate of Authenticity, and the NFT contract associated with the card's edition.
 
 ![Card Back Diagram](/img/ent-cards/02_card-back.png)
 

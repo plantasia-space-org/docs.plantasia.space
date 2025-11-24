@@ -6,16 +6,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'User Guide',
-    Svg: require('@site/static/img/play_circle.svg').default,
+    title: 'xPlorer Guides',
+    Svg: require('@site/static/img/xplorer.svg').default,
     description: (
       <>
         Learn how to use the Interplanetary Players, explore features, and discover the unique sonic experiences they offer. 
         Start your journey into a new realm of music.
       </>
     ),
-    link: '/docs/user-guide', // Link to your User Guide section
-    buttonText: 'Explore User Guide',
+    link: '/docs/xplorer-guides', // Link to your xPlorer Guides section
+    buttonText: 'Explore xPlorer Guides',
   },
 ];
 

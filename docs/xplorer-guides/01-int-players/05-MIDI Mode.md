@@ -4,7 +4,7 @@ sidebar_label: MIDI Learn Mode
 cover: /img/int-players/how-to.jpg
 sidebar_position: 2
 ---
-# MIDI Learn Mode User Guide
+# MIDI Learn Mode xPlorer Guide
 
 Welcome to MIDI Learn Mode! This feature lets you seamlessly connect and control your application's parameters using a MIDI device. Whether you're mapping sliders, knobs, buttons, or menu items, MIDI Learn Mode is designed to make your creative workflow more intuitive.
 
