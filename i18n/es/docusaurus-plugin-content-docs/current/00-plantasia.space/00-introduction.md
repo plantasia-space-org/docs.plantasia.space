@@ -23,3 +23,6 @@ Este proyecto invita a explorar juntxs, a crear y a regenerar mundos posibles a 
 
 > “Tratamos de oír el ambiente acústico como una composición musical y, más que eso, que tenemos responsabilidad en su conformación.”  
 > — R. Murray Schafer, *The Tuning of the World*
+
+> En honor a **Morton S. “Mort” Garson**, compositor, arreglista, autor y pionero de la música electrónica canadiense.  
+> Es reconocido por sus álbumes de las décadas de 1960 y 1970, como *Mother Earth's Plantasia*.— *Wikipedia*
