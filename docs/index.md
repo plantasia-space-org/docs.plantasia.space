@@ -1,6 +1,6 @@
 ---
 id: index
-title: Documentación
+title: xPlorer Documentation
 slug: /index
 sidebar_position: 0
 ---
@@ -23,8 +23,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
     </div>
     <div className="col col--4 margin-bottom--lg">
       <a className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" href={useBaseUrl('/docs/entangled-worlds/overview')} style={{ height: '100%', textAlign: 'center', display: 'block' }}>
-        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg" className="invert-on-dark" alt="Mundos Entrelazados" width="100" height="100" />
-        <h3 className="text--center">Mundos Entrelazados</h3>
+        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg" className="invert-on-dark" alt="Entangled Worlds" width="100" height="100" />
+        <h3 className="text--center">Entangled Worlds</h3>
       </a>
     </div>
     <div className="col col--4 margin-bottom--lg">
@@ -35,8 +35,8 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
     </div>
     <div className="col col--4 margin-bottom--lg">
       <a className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" href={useBaseUrl('/docs/collections/overview')} style={{ height: '100%', textAlign: 'center', display: 'block' }}>
-        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg" className="invert-on-dark" alt="Colecciones" width="100" height="100" />
-        <h3 className="text--center">Colecciones</h3>
+        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg" className="invert-on-dark" alt="Collections" width="100" height="100" />
+        <h3 className="text--center">Collections</h3>
       </a>
     </div>
   </div>

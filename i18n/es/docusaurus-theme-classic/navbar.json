@@ -7,9 +7,9 @@
     "message": "plantasia.space Logo",
     "description": "The alt text of navbar logo"
   },
-  "item.label.Documentation": {
-    "message": "Documentación",
-    "description": "Navbar item with label Documentation"
+  "item.label.xPlorer Guide": {
+    "message": "Guía xPlorer",
+    "description": "Navbar item with label xPlorer Guide"
   },
   "item.label.GitHub": {
     "message": "GitHub",

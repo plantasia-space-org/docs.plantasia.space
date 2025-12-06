@@ -290,7 +290,7 @@
     "message": "See all results"
   },
   "theme.SearchBar.label": {
-    "message": "Search",
+    "message": "Buscar",
     "description": "The ARIA label and placeholder for search button"
   },
   "theme.blog.post.plurals": {
@@ -344,5 +344,33 @@
   "theme.tags.tagsPageTitle": {
     "message": "Etiquetas",
     "description": "The title of the tag list page"
+  },
+  "homepage.tagline": {
+    "message": "Documentación Completa",
+    "description": "The tagline of the site"
+  },
+  "homepage.description": {
+    "message": "Documentación Completa",
+    "description": "The description of the site"
+  },
+  "homepage.features.plantasia.space": {
+    "message": "plantasia.space",
+    "description": "Homepage feature: plantasia.space"
+  },
+  "homepage.features.audios": {
+    "message": "Audios",
+    "description": "Homepage feature: Audios"
+  },
+  "homepage.features.entangled-worlds": {
+    "message": "Mundos Entrelazados",
+    "description": "Homepage feature: Entangled Worlds"
+  },
+  "homepage.features.orbiters": {
+    "message": "Orbiters",
+    "description": "Homepage feature: Orbiters"
+  },
+  "homepage.features.collections": {
+    "message": "Colecciones",
+    "description": "Homepage feature: Collections"
   }
 }
