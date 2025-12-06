@@ -15,9 +15,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
       </a>
     </div>
     <div className="col col--4 margin-bottom--lg">
-      <a className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" href={useBaseUrl('/docs/01-tracks/00-intro')} style={{ height: '100%', textAlign: 'center', display: 'block' }}>
-        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg" className="invert-on-dark" alt="Pistas" width="100" height="100" />
-        <h3 className="text--center">Pistas</h3>
+      <a className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" href={useBaseUrl('/docs/01-audios/00-intro')} style={{ height: '100%', textAlign: 'center', display: 'block' }}>
+        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg" className="invert-on-dark" alt="Audios" width="100" height="100" />
+        <h3 className="text--center">Audios</h3>
       </a>
     </div>
     <div className="col col--4 margin-bottom--lg">

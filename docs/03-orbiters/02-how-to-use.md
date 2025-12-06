@@ -11,7 +11,7 @@ sidebar_position: 2
 
 ![Vinyl and Planet Player](/img/orbiters/04-vinyl-sphere.png)
 
-As a basic concept, playing an Orbiter is playing with a sphere. Think of it as adding an extra dimension to a vinyl record, with the option to maintain or interchange sound parameters. Each card changes the settings in the X, Y, and Z axes and loop time. Each suit combined represents a track, and each deck is an album. You can add as many layers as your browser can handle, creating a rich and complex sound experience. With endless possibilities for listening and playing, the Orbiters offer a new level of musical creativity and exploration.
+As a basic concept, playing an Orbiter is playing with a sphere. Think of it as adding an extra dimension to a vinyl record, with the option to maintain or interchange sound parameters. Each card changes the settings in the X, Y, and Z axes and loop time. Each suit combined represents an audio, and each deck is an album. You can add as many layers as your browser can handle, creating a rich and complex sound experience. With endless possibilities for listening and playing, the Orbiters offer a new level of musical creativity and exploration.
 
 ---
 

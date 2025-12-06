@@ -11,9 +11,9 @@ const FeatureList = [
     link: '/docs/plantasia.space/intro',
   },
   {
-    title: 'Tracks',
+    title: 'Audios',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg',
-    link: '/docs/tracks/intro',
+    link: '/docs/audios/intro',
   },
   {
     title: 'Entangled Worlds',
