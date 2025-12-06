@@ -22,7 +22,12 @@ const config = {
 
   // Handle broken links and markdown links
   onBrokenLinks: 'warn', // 'throw' for production builds
-  onBrokenMarkdownLinks: 'warn', // 'warn' allows the build to proceed
+  
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Internationalization configuration
   i18n: {
