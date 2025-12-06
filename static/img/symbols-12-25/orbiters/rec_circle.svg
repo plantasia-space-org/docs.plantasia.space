@@ -1,0 +1,7 @@
+<svg width="101" height="101" viewBox="0 0 101 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer red ring with 3px stroke -->
+  <circle cx="50.5" cy="50.5" r="48.5" stroke="red" stroke-width="3" fill="none" />
+
+  <!-- Center red dot for record -->
+  <circle cx="50.5" cy="50.5" r="20" fill="red" />
+</svg>

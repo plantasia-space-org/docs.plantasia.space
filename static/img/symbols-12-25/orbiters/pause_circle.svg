@@ -1,0 +1,6 @@
+<svg width="101" height="101" viewBox="0 0 101 101" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50.5" cy="50.5" r="45" stroke="currentColor" fill="none" stroke-width="3"/>
+  <!-- Your inner lines -->
+  <rect x="38" y="31" width="4" height="39" fill="currentColor"/>
+  <rect x="58" y="31" width="4" height="39" fill="currentColor"/>
+</svg>
