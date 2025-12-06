@@ -1,6 +1,15 @@
 ---
 title: FAQ
+hide_title: true
 ---
+
+import QuestionIcon from '@site/static/img/circle-question-mark.svg';
+
+<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
+  <QuestionIcon width={26} height={26} style={{color: 'currentColor'}} />
+  <span className="ps-mask" aria-hidden="true" />
+  <h1 style={{margin: 0}}>FAQ</h1>
+</div>
 
 **How do I release a sound?**
 Use the Audios > Create flow to publish a new sound, add its details, and prepare it for exploration.

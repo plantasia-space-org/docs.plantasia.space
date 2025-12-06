@@ -1,12 +1,16 @@
 ---
 title: Introduction
+hide_title: true
 ---
 
-import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
+import XplorerIcon from '@site/static/img/symbols-12-25/xplorer-current.svg';
+import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
 
-<div style={{display: 'flex', alignItems: 'center', gap: '0.6rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
-  <ReleaseIcon width={30} height={30} style={{color: 'currentColor'}} />
-  <h2 style={{margin: 0}}>🌱 Welcome to plantasia.space</h2>
+<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
+  <EyeIcon width={24} height={24} style={{color: 'currentColor'}} />
+  <span className="ps-mask" aria-hidden="true" />
+  <XplorerIcon width={28} height={28} style={{color: 'currentColor'}} />
+  <h1 style={{margin: 0}}> Welcome to plantasia.space</h1>
 </div>
 
 plantasia.space is a regenerative music platform born from the dream of creating a **borderless aural community**. It is a project by **𝐵𝓇𝓊𝓃𝒶 𝒢𝓊𝒶𝓇𝓃𝒾𝑒𝓇𝒾**, developed over more than ten years, shaped by her experience in collectives such as **Exoplanetas**, **Head Brothers**, and **Aventuras Sonores**, where the exploration of sound, worlds, and imagination has always been a central thread.

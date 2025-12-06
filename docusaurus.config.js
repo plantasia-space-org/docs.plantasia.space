@@ -95,6 +95,7 @@ const config = {
             sidebarId: 'docsSidebar',
             position: 'left',
             label: 'xPlorer Guide',
+            className: 'nav-xplorer',
           },
           {
             type: 'localeDropdown',

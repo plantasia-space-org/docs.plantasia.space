@@ -1,6 +1,16 @@
 ---
 title: Release
+hide_title: true
 ---
+
+import OrbiterIcon from '@site/static/img/symbols-12-25/orbiter-current.svg';
+import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
+
+<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
+  <ReleaseIcon width={26} height={26} style={{color: 'currentColor'}} />
+  <OrbiterIcon width={28} height={28} style={{color: 'currentColor'}} />
+  <h1 style={{margin: 0}}>Release</h1>
+</div>
 
 Release combines building and publishing an orbiter in one process:
 

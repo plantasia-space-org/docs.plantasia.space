@@ -78,6 +78,51 @@
   background-image: none !important;
 }
 
+.nav-xplorer.navbar__item,
+.nav-xplorer .navbar__link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.nav-xplorer.navbar__item::before,
+.nav-xplorer .navbar__link::before {
+  content: '';
+  display: inline-block;
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: currentColor;
+  mask: url("/img/symbols-12-25/xplorer-current.svg") center / contain no-repeat;
+  -webkit-mask: url("/img/symbols-12-25/xplorer-current.svg") center / contain no-repeat;
+}
+
+.ps-icon {
+  width: 28px;
+  height: 28px;
+  display: inline-block;
+}
+
+.ps-icon svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  color: currentColor;
+}
+
+.ps-icon svg * {
+  fill: currentColor !important;
+  stroke: currentColor !important;
+}
+
+.ps-mask {
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+  background-color: currentColor;
+  mask: url("/img/ps-current.svg") center / contain no-repeat;
+  -webkit-mask: url("/img/ps-current.svg") center / contain no-repeat;
+}
+
 .footer {
   background-color: #020202;
   color: var(--ifm-footer-color);

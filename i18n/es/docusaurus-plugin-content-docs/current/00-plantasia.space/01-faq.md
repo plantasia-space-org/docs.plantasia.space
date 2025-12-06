@@ -1,6 +1,15 @@
 ---
 title: Preguntas frecuentes
+hide_title: true
 ---
+
+import QuestionIcon from '@site/static/img/circle-question-mark.svg';
+
+<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
+  <QuestionIcon width={26} height={26} style={{color: 'currentColor'}} />
+  <span className="ps-mask" aria-hidden="true" />
+  <h1 style={{margin: 0}}>Preguntas frecuentes</h1>
+</div>
 
 **¿Cómo publico un sonido?**
 Utiliza el flujo Audios > Publicar para cargar el sonido, agregar sus datos y dejarlo listo para la exploración.
