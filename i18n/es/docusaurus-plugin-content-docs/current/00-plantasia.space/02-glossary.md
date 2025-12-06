@@ -11,17 +11,5 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
   <h1 style={{margin: 0}}>Glosario</h1>
 </div>
 
-**xPlorer**
-Quien lanza, explora y remodela sonido en plantasia.space.
+Glosario
 
-**Música regenerativa**
-Sonido compartido para escucharlo, recrearlo y transformarlo en nuevas expresiones.
-
-**Mundos entrelazados**
-Representaciones artísticas de mundos físicos que alojan Audios y reaccionan a la exploración.
-
-**Orbiters**
-Naves que recorren los mundos y transforman el sonido de forma lúdica y sensorial.
-
-**Colecciones**
-Experiencias curadas que combinan Audios, Mundos y Orbiters para la exploración.
