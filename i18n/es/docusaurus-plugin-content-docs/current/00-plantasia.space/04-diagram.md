@@ -14,25 +14,25 @@ plantasia.space docs
 │   └── RX
 │
 ├── Audios
-│   ├── Panorama
+│   ├── Resumen
 │   ├── Publicar
 │   ├── Editar
 │   └── Usar
 │
 ├── Mundos entrelazados
-│   ├── Panorama
+│   ├── Resumen
 │   ├── Publicar
 │   ├── Editar
 │   └── Usar
 │
 ├── Orbiters
-│   ├── Panorama
+│   ├── Resumen
 │   ├── Publicar
 │   ├── Editar
 │   └── Usar
 │
 └── Colecciones
-    ├── Panorama
+    ├── Resumen
     ├── Publicar
     ├── Editar
     └── Usar

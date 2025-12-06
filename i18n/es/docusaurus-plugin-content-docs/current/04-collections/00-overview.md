@@ -1,5 +1,5 @@
 ---
-title: Panorama
+title: Resumen
 ---
 
 Las colecciones reúnen Audios, Mundos y Orbiters en experiencias curadas para exploración y transformación. Secuencian los elementos creativos para que lxs xPlorers recorran un viaje cohesivo.
