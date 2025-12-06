@@ -8,27 +8,27 @@ const FeatureList = [
   {
     title: 'plantasia.space',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
-    link: '/docs/00-plantasia.space/00-intro',
+    link: '/docs/plantasia.space/intro',
   },
   {
     title: 'Tracks',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg',
-    link: '/docs/01-tracks/00-intro',
+    link: '/docs/tracks/intro',
   },
   {
     title: 'Entangled Worlds',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg',
-    link: '/docs/02-entangled-worlds/00-intro',
+    link: '/docs/entangled-worlds/intro',
   },
   {
     title: 'Orbiters',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/orbiter.svg',
-    link: '/docs/03-orbiters/00-intro',
+    link: '/docs/orbiters/intro',
   },
   {
     title: 'Collections',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg',
-    link: '/docs/04-collections/00-intro',
+    link: '/docs/collections/intro',
   },
 ];
 
