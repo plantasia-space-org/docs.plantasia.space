@@ -11,14 +11,84 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
   <h1 style={{margin: 0}}>FAQ</h1>
 </div>
 
-**How do I release a sound?**
-Use the Audios > Create flow to publish a new sound, add its details, and prepare it for exploration.
+## Frequently Asked Questions (FAQ)
 
-**Where do sounds live?**
-Audios can be placed inside entangled worlds and bundled into collections so they can be explored and reshaped.
+<details open>
+  <summary>What is plantasia.space?</summary>
+  <div>A world-building project and regenerative music platform where you can listen to, reshape, and remix releases in real time.</div>
+</details>
 
-**What are orbiters?**
-Orbiters are spaceships that transform and play with sound as they move through a world, letting xPlorers regenerate Audios in real time.
+<details>
+  <summary>What makes the music “regenerative”?</summary>
+  <div>Sonic releases are designed to transform through listener interaction—each play can feel different.</div>
+</details>
 
-**How do I share my work?**
-Release your Audios, Worlds, Orbiters, or Collections to make them available to other xPlorers across plantasia.space.
+<details>
+  <summary>Who are xPlorers?</summary>
+  <div>Members who join the community to listen, nurture, and create; they get access to different toolsets depending on membership level.</div>
+</details>
+
+<details>
+  <summary>What can I do as a guest?</summary>
+  <div>Browse featured audios, orbiters, and worlds for a limited time; you’ll need an account to interact or publish.</div>
+</details>
+
+<details>
+  <summary>How do I become a member?</summary>
+  <div>Create a free account and choose a plan in the pricing section when you’re ready to upgrade.</div>
+</details>
+
+<details>
+  <summary>What can I publish?</summary>
+  <div>Audios (tracks), Entangled Worlds, Orbiters, and curated Collections.</div>
+</details>
+
+<details>
+  <summary>What is an Entangled World?</summary>
+  <div>A mix of story, visuals, and science facts that can be entangled with music releases; music lives inside these worlds and can be visited with orbiters.</div>
+</details>
+
+<details>
+  <summary>What is an Orbiter?</summary>
+  <div>A spaceship that acts as a musical meta-instrument (effects/processing chain) you design and share to shape playback.</div>
+</details>
+
+<details>
+  <summary>How can listeners interact with a release?</summary>
+  <div>Inside orbiters through motion sensors, MIDI controllers, on-screen controls, and even exoplanet data in the cosmic LFOs.</div>
+</details>
+
+<details>
+  <summary>Can I keep work private?</summary>
+  <div>Yes—set items to private, shared, or public, and assign roles like viewer, publisher, or editor.</div>
+</details>
+
+<details>
+  <summary>Do you support collaboration?</summary>
+  <div>You can invite collaborators with specific roles on releases, worlds, and orbiters.</div>
+</details>
+
+<details>
+  <summary>What licenses are used?</summary>
+  <div>Currently Creative Commons variants; a custom “Copy Nibble” license is planned to balance resource distribution between artists, developers, and regeneration projects.</div>
+</details>
+
+<details>
+  <summary>How does AI fit in?</summary>
+  <div>Story and Texture assistants help build worlds (narratives and visuals) while you stay in control.</div>
+</details>
+
+<details>
+  <summary>What are AI Texture/Text credits?</summary>
+  <div>Usage credits for generating visuals and text; base credits refresh each cycle, and extra credits roll over until used.</div>
+</details>
+
+<details>
+  <summary>How do I get support?</summary>
+  <div>Submit a support form (login and form cookies required) or use the in-app contact links.</div>
+</details>
+
+<details>
+  <summary>Where can I read your policies?</summary>
+  <div>Check the Privacy & Cookies Policy, Terms, and related legal pages in the Legal section.</div>
+</details>
