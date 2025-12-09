@@ -5,6 +5,17 @@
   width: 100%;
 }
 
+.featuresList {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  width: 100%;
+}
+
+.featureItem {
+  width: 100%;
+}
+
 .featureSvg {
   height: 200px;
   width: 200px;

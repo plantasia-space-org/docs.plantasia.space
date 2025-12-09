@@ -84,7 +84,7 @@ const config = {
       // Social card image for meta tags
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'plantasia.space Docs',
+        title: 'docs',
         logo: {
           alt: 'plantasia.space Logo',
           src: 'img/ps.svg',
@@ -95,6 +95,7 @@ const config = {
             sidebarId: 'docsSidebar',
             position: 'left',
             label: 'xPlorer Guide',
+            'aria-label': 'xPlorer Guide',
             className: 'nav-xplorer',
           },
           {

@@ -78,15 +78,13 @@
   background-image: none !important;
 }
 
-.nav-xplorer.navbar__item,
-.nav-xplorer .navbar__link {
+.nav-xplorer.navbar__item {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
 }
 
-.nav-xplorer.navbar__item::before,
-.nav-xplorer .navbar__link::before {
+.nav-xplorer.navbar__item::before {
   content: '';
   display: inline-block;
   width: 1.1rem;
@@ -94,6 +92,29 @@
   background-color: currentColor;
   mask: url("/img/symbols-12-25/xplorer-current.svg") center / contain no-repeat;
   -webkit-mask: url("/img/symbols-12-25/xplorer-current.svg") center / contain no-repeat;
+}
+
+@media (max-width: 1024px) {
+  .navbar__brand .navbar__title {
+    display: none;
+  }
+
+  .navbar__brand .navbar__logo {
+    margin-right: 0;
+  }
+
+  .nav-xplorer.navbar__item {
+    width: 2.75rem;
+    height: 2.75rem;
+    padding: 0.25rem;
+    font-size: 0;
+    justify-content: center;
+    gap: 0;
+  }
+
+  .nav-xplorer.navbar__item::before {
+    margin: 0;
+  }
 }
 
 .ps-icon {
