@@ -126,7 +126,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/ArcGZhws',
+                href: 'https://discord.gg/JkKybrvqSN',
               },
               {
                 label: 'Instagram',
