@@ -1,0 +1,161 @@
+/* Cookie Banner */
+.cookie-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: var(--ifm-background-surface-color);
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+  padding: 2rem;
+  z-index: 1000;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  animation: slideUp 0.3s ease-out;
+  text-align: center;
+  align-items: center;
+}
+
+.cookie-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.cookie-content p {
+  margin-bottom: 0.5rem;
+}
+
+.cookie-title {
+  font-weight: 800;
+  margin-bottom: 1rem;
+  display: block;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cookie-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Buttons - Outline Black & White Style */
+.cookie-btn {
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px; /* Slight radius, or 0 for sharp */
+  border: 1px solid currentColor;
+  background: transparent;
+  color: var(--ifm-font-color-base);
+  cursor: pointer;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: all 0.2s;
+  font-size: 0.9rem;
+}
+
+.cookie-btn:hover {
+  background: var(--ifm-font-color-base);
+  color: var(--ifm-background-color);
+}
+
+/* Primary button (Accept All) - Make it stand out slightly more */
+.cookie-btn.primary {
+  border-width: 2px;
+  font-weight: 800;
+}
+
+/* Preferences Modal/Panel */
+.cookie-preferences-panel {
+  background: var(--ifm-background-surface-color);
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+  padding: 1.5rem;
+  margin-top: 1rem;
+  text-align: left; /* Keep list items left aligned */
+  width: 100%;
+  max-width: 600px;
+}
+
+.preference-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.preference-item:last-child {
+  border-bottom: none;
+}
+
+.preference-info h4 {
+  margin: 0 0 0.25rem 0;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.preference-info p {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--ifm-color-content-secondary);
+}
+
+/* Toggle Switch */
+.toggle-switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+  flex-shrink: 0;
+  margin-left: 1rem;
+}
+
+.toggle-switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--ifm-color-emphasis-300);
+  transition: .4s;
+  border-radius: 24px;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 16px;
+  width: 16px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  transition: .4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: var(--ifm-color-primary);
+}
+
+input:disabled + .slider {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+input:checked + .slider:before {
+  transform: translateX(26px);
+}
+
+@keyframes slideUp {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}

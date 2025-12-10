@@ -1,4 +1,67 @@
 {
+  "cookie.line1": {
+    "message": "¿Sabes las similitudes entre un jardín perfecto y una selva? Bueno, ahora piensa que plantasia.space es un software orgánico que crecE en el medio."
+  },
+  "cookie.line2Start": {
+    "message": "Por favor, descubre "
+  },
+  "cookie.moreInfo": {
+    "message": "Más información"
+  },
+  "cookie.line2End": {
+    "message": " Sobre cómo usamos las cookies"
+  },
+  "cookie.line3Start": {
+    "message": "Envíanos"
+  },
+  "cookie.feedbackInfo": {
+    "message": "Comentarios"
+  },
+  "cookie.line3End": {
+    "message": " Sobre cómo podemos mejorar."
+  },
+  "cookie.ok": {
+    "message": "Aceptar todas"
+  },
+  "cookie.onlyNecessary": {
+    "message": "Solo las necesarias"
+  },
+  "cookie.preferences": {
+    "message": "Preferencias"
+  },
+  "cookie.dialog.title": {
+    "message": "Preferencias de cookies"
+  },
+  "cookie.dialog.description": {
+    "message": "Elige qué cookies opcionales permitir. Las cookies necesarias siempre están activadas para mantener el sitio funcionando."
+  },
+  "cookie.dialog.necessaryTitle": {
+    "message": "Necesarias"
+  },
+  "cookie.dialog.necessaryDesc": {
+    "message": "Inicio de sesión/sesión y seguridad del sitio, más el checkout y la facturación de Paddle para procesar pagos y prevenir fraude. Siempre activadas."
+  },
+  "cookie.dialog.preferencesTitle": {
+    "message": "Marketing"
+  },
+  "cookie.dialog.preferencesDesc": {
+    "message": "Funciones opcionales relacionadas con marketing. Desactivadas por defecto."
+  },
+  "cookie.dialog.analyticsTitle": {
+    "message": "ANALÍTICAS / SEGUIMIENTO"
+  },
+  "cookie.dialog.analyticsDesc": {
+    "message": "Google Analytics y seguimiento de Google Forms para entender el uso e interacciones. Desactivadas hasta que las permitas."
+  },
+  "cookie.dialog.save": {
+    "message": "GUARDAR PREFERENCIAS"
+  },
+  "cookie.dialog.acceptAll": {
+    "message": "ACEPTAR TODAS"
+  },
+  "cookie.saved": {
+    "message": "¡Preferencias guardadas!"
+  },
   "theme.ErrorPageContent.title": {
     "message": "Esta página ha fallado.",
     "description": "The title of the fallback page when the page crashed"
