@@ -12,10 +12,7 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Editar</h1>
 </div>
 
-Refina o actualiza un Audio cuando cambien sus detalles:
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-- Ajusta títulos, descripciones y etiquetas para que lxs exploradores entiendan la intención.
-- Sube versiones mejoradas manteniendo el enlace del Audio estable.
-- Actualiza las notas regenerativas para guiar cómo otrxs pueden remodelar el sonido.
-
-Editar mantiene el Audio relevante mientras viaja por mundos y colecciones.

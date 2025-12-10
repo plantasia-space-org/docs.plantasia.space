@@ -12,11 +12,7 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
   <h1 style={{margin: 0}}>Publicar</h1>
 </div>
 
-Publicar un mundo incluye su creación en un solo flujo:
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-1. Define el concepto y la paleta sensorial del mundo (visuales, física, atmósfera).
-2. Agrega zonas para Audios y establece reglas base de cómo se mueven y responden los orbiters.
-3. Optimiza los assets para que la exploración sea fluida y publica notas que expliquen la intención del mundo.
-4. Elige si lanzar con Audios destacados o dejarlo abierto para que otrxs coloquen sus sonidos.
-
-Una vez publicado, puedes seguir iterando mientras mantienes sincronizadxs a lxs exploradores existentes en plantasia.space.

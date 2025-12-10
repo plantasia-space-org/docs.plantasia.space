@@ -12,11 +12,7 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
   <h1 style={{margin: 0}}>Release</h1>
 </div>
 
-Release is the single flow to assemble and publish a collection:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-1. Choose the Audios, worlds, and orbiters that belong together.
-2. Define the order or pathways that guide explorers, and add notes about the intended experience.
-3. Confirm all elements are published and accessible, then set visibility and any collaboration credits.
-4. Publish so xPlorers can enter and begin regenerating sound inside the curated flow.
-
-Monitor engagement signals and iterate the collection as explorers respond.

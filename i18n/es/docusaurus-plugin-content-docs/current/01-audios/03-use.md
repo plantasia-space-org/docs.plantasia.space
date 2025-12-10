@@ -12,10 +12,7 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Usar</h1>
 </div>
 
-Los Audios se comportan distinto según dónde se usen:
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-- En mundos entrelazados, reaccionan al movimiento, la física y el lenguaje visual del mundo.
-- Con orbiters, se estiran, filtran o re-secuencian mediante controles lúdicos.
-- En colecciones, se ordenan junto a mundos y orbiters para crear recorridos curados.
-
-Sigue el desempeño del Audio en cada ubicación y itera mientras lxs exploradores lo regeneran.

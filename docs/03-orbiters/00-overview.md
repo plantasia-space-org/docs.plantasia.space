@@ -12,6 +12,10 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Overview</h1>
 </div>
 
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
+
 Orbiters are spaceships that transform sound, letting xPlorers explore and regenerate Audios in playful and sensory ways. They act as the hands-on instruments that reshape sound as they move through worlds.
 
 This section explains how to build, refine, release, and use orbiters across plantasia.space.

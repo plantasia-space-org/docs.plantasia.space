@@ -12,6 +12,10 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Resumen</h1>
 </div>
 
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
+
 Las colecciones reúnen Audios, Mundos y Orbiters en experiencias curadas para exploración y transformación. Secuencian los elementos creativos para que lxs xPlorers recorran un viaje cohesivo.
 
 Esta sección cubre cómo se arman, refinan, publican y usan las colecciones en plantasia.space.

@@ -12,10 +12,7 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Edit</h1>
 </div>
 
-Adjust a world's properties and artistic elements as it evolves:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- Update visuals, lighting, and physics to change how Audios feel.
-- Refine interaction points where orbiters trigger or reshape sound.
-- Tweak world rules to keep exploration smooth and surprising.
-
-Edits can be published gradually to keep explorers engaged without disrupting existing journeys.

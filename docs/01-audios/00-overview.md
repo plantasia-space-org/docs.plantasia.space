@@ -12,6 +12,10 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Overview</h1>
 </div>
 
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
+
 Audios are the base elements of regenerative music inside plantasia.space. Each sound is released by an xPlorer so others can listen, recreate, and reshape it inside worlds and collections.
 
 Use this section to understand how Audios are created, refined, released, and explored.

@@ -12,10 +12,7 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Usar</h1>
 </div>
 
-Lxs xPlorers navegan y exploran colecciones de forma flexible:
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-- Entra desde el inicio para vivir el recorrido completo o salta a combinaciones específicas de mundos y orbiters.
-- Guarda o comparte regeneraciones que ocurran dentro de la colección.
-- Re-mezcla intercambiando Audios u orbiters si la colección permite configuración abierta.
-
-Usa estas señales para mantener las colecciones vivas y alineadas con la comunidad.

@@ -12,11 +12,7 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
   <h1 style={{margin: 0}}>Release</h1>
 </div>
 
-Release is where a new Audio is created and published in one flow:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-1. Upload or record the sound you want to share.
-2. Add context such as title, description, tags, and regenerative notes.
-3. Confirm ownership and intent, then select where the Audio should appear first (standalone, inside a world, or in a collection).
-4. Publish so orbiters and worlds can begin transforming it.
-
-After release, you can update the Audio without breaking existing placements across plantasia.space.

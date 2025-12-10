@@ -12,10 +12,7 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Edit</h1>
 </div>
 
-Modify a collection as you gather feedback:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- Swap or reorder Audios to change the emotional arc.
-- Pair worlds and orbiters differently to open new interactions.
-- Refresh guidance notes or visuals so explorers stay oriented.
-
-Edits keep collections responsive to how xPlorers actually move through them.

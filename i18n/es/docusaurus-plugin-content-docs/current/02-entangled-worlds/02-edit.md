@@ -12,10 +12,7 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Editar</h1>
 </div>
 
-Ajusta las propiedades y elementos artísticos de un mundo mientras evoluciona:
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-- Actualiza visuales, iluminación y física para cambiar cómo se sienten los Audios.
-- Refina puntos de interacción donde los orbiters activan o remodelan el sonido.
-- Ajusta reglas del mundo para que la exploración siga siendo fluida y sorprendente.
-
-Las ediciones pueden publicarse de forma gradual para mantener a lxs exploradores comprometidxs sin interrumpir sus recorridos.

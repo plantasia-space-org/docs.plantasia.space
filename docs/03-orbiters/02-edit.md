@@ -12,10 +12,7 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Edit</h1>
 </div>
 
-Adjust an orbiter's behavior or visual design as you learn from explorers:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- Tweak modulation depths, trigger thresholds, or timing rules to refine feel.
-- Update visuals and motion paths so the orbiter aligns with world aesthetics.
-- Add or remove controls to keep interaction intuitive and focused on sound play.
-
-Iteration keeps orbiters lively and aligned with the evolving worlds they navigate.

@@ -12,10 +12,7 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Use</h1>
 </div>
 
-Audios behave differently depending on where they are used:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- In entangled worlds, Audios react to movement, physics, and the visual language of the world.
-- With orbiters, Audios are stretched, filtered, or re-sequenced through playful controls.
-- Inside collections, Audios are sequenced with worlds and orbiters to create curated journeys.
-
-Track how an Audio is performing across placements and iterate as explorers regenerate it.

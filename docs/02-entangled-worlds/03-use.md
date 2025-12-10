@@ -12,10 +12,7 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Use</h1>
 </div>
 
-Entangled worlds host Audios and respond during exploration:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- Place Audios to define how sound is distributed across spaces or zones.
-- Guide orbiters through paths that reveal new layers, stems, or effects.
-- Observe how explorers interact and adjust world parameters to shape their experience.
-
-World analytics help you understand which areas resonate and where to iterate next.

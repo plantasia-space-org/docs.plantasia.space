@@ -12,6 +12,10 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Resumen</h1>
 </div>
 
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
+
 Los orbiters son naves que transforman el sonido y permiten a lxs xPlorers explorar y regenerar Audios de forma lúdica y sensorial. Actúan como instrumentos en movimiento que remodelan el sonido mientras atraviesan mundos.
 
 Esta sección explica cómo construir, refinar, publicar y usar orbiters en plantasia.space.

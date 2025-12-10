@@ -12,10 +12,7 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Use</h1>
 </div>
 
-xPlorers navigate and explore collections in flexible ways:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- Enter at the start for the intended journey or jump to specific pairings of worlds and orbiters.
-- Save or share regenerations that happen inside the collection.
-- Remix by swapping in different Audios or orbiters if the collection allows open configuration.
-
-Use these signals to keep collections alive and aligned with the community.

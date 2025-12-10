@@ -12,11 +12,7 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
   <h1 style={{margin: 0}}>Release</h1>
 </div>
 
-Release combines building and publishing an orbiter in one process:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-1. Choose the core behaviors (filters, sequencing, spatialization, or generative rules) and design playful controls.
-2. Test with sample Audios inside a world to tune responsiveness and balance.
-3. Publish control maps and interaction notes so explorers know how to fly it.
-4. Verify compatibility with key worlds and Audio formats, then make it discoverable for collections.
-
-After release, keep evolving the orbiter while staying backward-compatible with worlds already using it.

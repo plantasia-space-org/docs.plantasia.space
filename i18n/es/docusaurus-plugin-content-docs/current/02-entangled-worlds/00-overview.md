@@ -12,6 +12,10 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Resumen</h1>
 </div>
 
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
+
 Los mundos entrelazados son representaciones artísticas de mundos físicos donde se colocan, exploran y transforman los sonidos publicados. Proveen el contexto espacial y sensorial para la música regenerativa en plantasia.space.
 
 Usa esta sección para aprender cómo se publican, editan y utilizan los mundos.

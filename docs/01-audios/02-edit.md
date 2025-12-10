@@ -12,10 +12,7 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Edit</h1>
 </div>
 
-Refine or update an Audio whenever details change:
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
 
-- Update titles, descriptions, and tags so explorers understand the intent.
-- Swap or upload improved versions while keeping the Audio link stable.
-- Adjust regenerative notes to guide how others can reshape the sound.
-
-Edits help keep the Audio relevant as it travels across worlds and collections.

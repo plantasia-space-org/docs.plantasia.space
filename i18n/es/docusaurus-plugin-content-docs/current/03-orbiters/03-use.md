@@ -12,10 +12,7 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Usar</h1>
 </div>
 
-Los orbiters interactúan con mundos y remodelan el sonido durante la exploración:
+:::warning En progreso
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-- Carga un orbiter dentro de un mundo y elige los Audios que transformará.
-- Vuela por zonas para activar filtros, loops o capas generativas ligadas a la geometría del mundo.
-- Graba o captura regeneraciones para compartirlas con otrxs xPlorers.
-
-Usa las métricas de las sesiones para ver qué controles conectan y dónde afinar la respuesta.
