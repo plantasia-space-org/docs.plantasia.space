@@ -12,10 +12,26 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Overview</h1>
 </div>
 
-:::warning Work in progress
-This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::info Audios
+Audios are the base elements of regenerative music inside plantasia.space.
 :::
 
-Audios are the base elements of regenerative music inside plantasia.space. Each sound is released by an xPlorer so others can listen, recreate, and reshape it inside worlds and collections.
 
-Use this section to understand how Audios are created, refined, released, and explored.
+An Audio can be a **sample**, a **loop**, or a **full release track**. Most importantly, it can be a finished piece of music published so others can recreate it, remix it, and regenerate it into new forms.
+
+Audios are designed to evolve through exploration, transformation, and reuse.
+
+## Where Audios live
+
+Each Audio belongs to an **Entangled World** by default, and can be played in other worlds depending on the permissions of who is playing. 
+
+The world provides the visual, narrative, and contextual space in which the Audio is explored.
+
+When you upload an audio, you need to set a default **Orbiters** that transform the Audio through interaction, this audio also can be played in other Orbiters depending on the permissions of who is playing. 
+
+
+## What this section covers
+
+- **Release**: upload and publish a new Audio
+- **Edit**: update metadata, visuals, and settings
+- **Use**: Play with normal Player or with Orbiters

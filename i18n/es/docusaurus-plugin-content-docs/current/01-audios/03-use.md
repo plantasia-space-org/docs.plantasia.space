@@ -12,7 +12,41 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Usar</h1>
 </div>
 
-:::warning En progreso
-Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
-:::
+## Usar Audios
 
+Puedes escuchar los Audios directamente en el reproductor normal ![Reproducir audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/play.png)
+ o explorarlos mediante orbitadores ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/orbiter-on.png)
+.
+Abre un Audio desde el home, resultados de búsqueda, colecciones o vistas de mundos.
+
+## Reproducción y loops
+
+Los Audios se pueden escuchar con el reproductor estándar.
+
+Puedes:
+
+- Reproducir, pausar y detener
+- Buscar una posición
+- Repetir toda la pista o una región seleccionada
+
+El looping permite una escucha enfocada y prepara el Audio para transformaciones.
+
+## Explorar con orbitadores
+
+Ver sección orbitadores para más detalles. 
+
+Los Audios también pueden abrirse dentro de un orbitador.
+
+Los orbitadores te permiten transformar el sonido mediante movimiento, dimensiones y modulación.
+
+El mismo Audio puede comportarse de forma muy distinta según el orbitador y el mundo entrelazado.
+
+## Contexto mediante mundos entrelazados
+
+Cada Audio vive dentro de un mundo entrelazado.
+
+El mundo define el contexto visual y narrativo en el que se experimenta el Audio.
+
+## Mirando hacia adelante
+
+Los Audios también pueden formar parte de **Colecciones**, donde se combinan con otros Audios, mundos y orbitadores para crear recorridos de escucha más largos.
