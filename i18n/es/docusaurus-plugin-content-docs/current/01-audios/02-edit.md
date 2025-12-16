@@ -29,7 +29,7 @@ Puedes actualizar:
 
 Los Audios están pensados para evolucionar.
 
-Puedes volver a un Audio para mejorar la descripción, ajustar lo visual o refinar cómo se presenta a otrxs xPlorers, incluso lanzar nuevas versiones sonoras.
+Puedes volver a un Audio para mejorar la descripción, ajustar lo visual o refinar cómo se presenta a otrxs xPlorers, incluso lanzar nuevas versiones.
 
 ## Guardar y publicar cambios
 

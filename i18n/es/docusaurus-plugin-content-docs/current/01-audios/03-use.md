@@ -14,8 +14,8 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
 
 ## Usar Audios
 
-Puedes escuchar los Audios directamente en el reproductor normal ![Reproducir audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/play.png)
- o explorarlos mediante orbitadores ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/orbiter-on.png)
+Puedes escuchar los Audios directamente en el reproductor normal ![Reproducir audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/play.png)
+ o explorarlos mediante orbitadores ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/orbiter-on.png)
 .
 Abre un Audio desde el home, resultados de búsqueda, colecciones o vistas de mundos.
 

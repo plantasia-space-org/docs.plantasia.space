@@ -16,7 +16,7 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
 Los Audios son los elementos base de la música regenerativa dentro de plantasia.space.
 :::
 
-Un Audio puede ser un **sample**, un **loop** o un **track completo**, tu lo nombras. Lo importante es que sea un archivo de audio que puedas publicar para que otrxs puedan recrearla, remezclarla y regenerarla en nuevas formas.
+Un Audio puede ser un **sample**, un **loop** o un **track completo**, tu lo nombras. Lo importante es que sea un archivo de audio que puedas publicar para que otrxs puedan recrearlo, remezclarlo y regenerarlo en nuevas formas.
 
 Los Audios son compartidos para ser escuchados, y evolucionar mediante exploración, transformación y reutilización en música regenerativa.
 
@@ -27,6 +27,14 @@ Cada Audio pertenece por defecto a un **Mundo entrelazado**, y puede reproducirs
 El mundo aporta el espacio visual, narrativo y contextual en el que se explora el Audio.
 
 Cuando subes un Audio, debes definir un **orbitador** predeterminado que transformará el Audio mediante la interacción que tu elijas; ese mismo Audio podrá tocarse en otros orbitadores dependiendo de los permisos de quien lo utilize.
+
+<video
+  controls
+  style={{width: '77%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## Qué cubre esta sección
 

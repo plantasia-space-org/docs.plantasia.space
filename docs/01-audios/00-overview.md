@@ -16,7 +16,6 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
 Audios are the base elements of regenerative music inside plantasia.space.
 :::
 
-
 An Audio can be a **sample**, a **loop**, or a **full release track**. Most importantly, it can be a finished piece of music published so others can recreate it, remix it, and regenerate it into new forms.
 
 Audios are designed to evolve through exploration, transformation, and reuse.
@@ -29,6 +28,13 @@ The world provides the visual, narrative, and contextual space in which the Audi
 
 When you upload an audio, you need to set a default **Orbiters** that transform the Audio through interaction, this audio also can be played in other Orbiters depending on the permissions of who is playing. 
 
+<video
+  controls
+  style={{width: '77%', borderRadius: '1.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## What this section covers
 

@@ -16,7 +16,15 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 
 In the side bar or bottom bar, Go to **Release → New Audio**.
 
-![New Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/new.png)
+![New Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/new.png)
+
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/02-release-new-audio.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 Releasing an Audio opens a guided form that takes you through upload, metadata, preview, and distribution settings.
 
@@ -25,6 +33,14 @@ Releasing an Audio opens a guided form that takes you through upload, metadata, 
 Select an audio file in **WAV** or **MP3** format.
 
 This file is uploaded to the server and becomes the core of the Audio release.
+
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/03-release-upload.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## Audio quality and playback settings
 
@@ -57,6 +73,22 @@ If you don’t have one, you can generate an image from public-domain sources an
 
 The cover image is used across cards, previews, and listings.
 
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 0.75rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/04-release-upload-image.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '0 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/05-release-regenerate-image.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 3) Title and artist
 
 Set the Audio title and define the artist or owner.
@@ -66,18 +98,34 @@ You can assign more than one artist, but they must already exist on the platform
 Additional contributors who are not on the platform can be credited later.
 
 ## 4) Entangled World and Orbiter (preview)
-![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/orbiter-on.png)
+![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/orbiter-on.png)
 Each Audio is assigned to a default Entangled World and Orbiter.
 
 You can change these selections to preview how the Audio behaves in different contexts.
 
 These selections will be default ones, but do not permanently limit future use.
 
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 5) Metadata and description
 
 You can add metadata, description, and contextual information.
 
 Most of this information is visible on the Audio view card and helps others understand the release.
+
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/07-release-details.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 
 ## 6) Story and credits (optional)
@@ -86,7 +134,7 @@ You can add a story, releated text and additional credits.
 
 This section is optional, but it allows you to expand the narrative around the Audio and acknowledge contributors.
 
-## 7) Privacy and distribution
+## 7) Privacy, distribution, and licensing
 
 Choose how the Audio is shared:
 
@@ -96,17 +144,19 @@ Choose how the Audio is shared:
 
 Depending on your xPlorer tier, you may also schedule a future release.
 
-## 8) Licensing and rights
-
 By default, Audios are released under a **Creative Commons (BY-NC)** license.
 
-You remain the owner of your content.
+You remain the owner of your content, but when you release an Audio you grant the platform permission to publish it so others can listen, explore, and credit your work. Make sure you have the rights to publish the content or permission from the original creator.
 
-By releasing an Audio, you grant the platform permission to publish it so others can listen, explore, and credit your work.
+<video
+  controls
+  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/08-release-privacy.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
-You must have the rights to publish the content or permission from the original creator.
-
-## 9) Draft and release
+## 8) Draft and release
 
 Save the Audio as a draft while working on it.
 

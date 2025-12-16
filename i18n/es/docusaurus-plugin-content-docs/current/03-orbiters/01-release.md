@@ -16,3 +16,9 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
 :::
 
+## Dónde empezar
+
+Ve a **Publicar → Nuevo Orbiter**.
+
+![Nuevo Orbiter](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/new.png)
+

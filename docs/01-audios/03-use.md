@@ -18,8 +18,8 @@ This page documents features that are still in development and will be available
 
 ## Using Audios
 
-Audios can be listened to directly in normal audio player ![Play audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/play.png)
- or explored through Orbiters ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/orbiter-on.png)
+Audios can be listened to directly in normal audio player ![Play audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/play.png)
+ or explored through Orbiters ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/orbiter-on.png)
 .
 You can open an Audio from the homepage, search results, collections, or world views.
 
