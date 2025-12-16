@@ -15,6 +15,15 @@ import PencilIcon from '@site/static/img/pencil.svg';
 
 Editing an Audio allows you to refine its presentation and context.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/09-edit-audio.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## What you can edit
 
 You can update:

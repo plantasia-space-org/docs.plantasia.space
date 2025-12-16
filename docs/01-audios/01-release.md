@@ -23,7 +23,7 @@ In the side bar or bottom bar, Go to **Release → New Audio**.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/02-release-new-audio.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/02-release-new-audio.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -40,7 +40,7 @@ This file is uploaded to the server and becomes the core of the Audio release.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/03-release-upload.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/03-release-upload.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -80,7 +80,7 @@ The cover image is used across cards, previews, and listings.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/04-release-upload-image.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/04-release-upload-image.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -89,7 +89,7 @@ The cover image is used across cards, previews, and listings.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/05-release-regenerate-image.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/05-release-regenerate-image.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -114,7 +114,7 @@ These selections will be default ones, but do not permanently limit future use.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -129,7 +129,7 @@ Most of this information is visible on the Audio view card and helps others unde
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/07-release-details.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/07-release-details.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -159,7 +159,7 @@ You remain the owner of your content, but when you release an Audio you grant th
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/08-release-privacy.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/08-release-privacy.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

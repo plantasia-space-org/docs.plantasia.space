@@ -22,3 +22,57 @@ Ve a **Publicar → Nuevo Mundo Entrelazado**.
 
 ![Nuevo Mundo Entrelazado](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/new.png)
 
+### Video: Elegir un exoplaneta
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Video: Nombrar tu mundo
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/03-release-choose-name.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Video: Definir elementales del worldbuilding
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/04-release-worldbuilding-elementals.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Video: Generar texturas del planeta
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/05-release-texture-gen.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+### Video: Ajustar escena y atmósfera
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/06-release-scene.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>

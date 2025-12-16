@@ -22,6 +22,15 @@ Go to **Release → New Entangled World**.
 
 ![New Entangled World](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/new.png)
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 Depending on your user type, you can create a limited number of Entangled Worlds. Additional worlds can be added through add-ons.
 
 Releasing a world opens a multi-step form.
@@ -56,6 +65,15 @@ If you need inspiration, you can generate a name by selecting a biological kingd
 
 The generated name can be edited later.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/03-release-choose-name.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 3) Worldbuilding elementals
 
 Worldbuilding Elementals define the identity of your world.
@@ -75,6 +93,15 @@ You can:
 - Define each element manually
 
 These values are later used to generate visuals and narration.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/04-release-worldbuilding-elementals.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## 4) Elemental Matrix
 
@@ -106,6 +133,15 @@ Select one of the available AI models and guide the generation using:
 
 Each world includes a limited number of texture credits based on your subscription. You can top up with texture credit packs if needed.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/05-release-texture-gen.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 6) Scene and atmosphere
 
 On desktop, you can open the world in fullscreen to adjust scene parameters:
@@ -118,6 +154,15 @@ On desktop, you can open the world in fullscreen to adjust scene parameters:
 - Halo (color and size)
 - Clouds (texture, color, opacity, movement)
 - Lighting (ambient, surface, direction X/Y/Z)
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/06-release-scene.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## 7) Narration and story
 
@@ -132,6 +177,15 @@ You can write narration for the world, including:
 - Conclusion
 
 You can also use assisted writing tools to generate or translate stories using different tones, formats, and languages.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/07-release-narrative.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## 8) Collaboration and access
 

@@ -14,6 +14,15 @@ import PencilIcon from '@site/static/img/pencil.svg';
 
 Editar un Audio te permite afinar su presentación y el contexto en el que se escucha.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/09-edit-audio.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
 ## Qué puedes editar
 
 Puedes actualizar:

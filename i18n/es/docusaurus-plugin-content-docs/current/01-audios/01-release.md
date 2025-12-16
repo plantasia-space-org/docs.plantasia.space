@@ -23,7 +23,7 @@ Ve a **Publicar → Nuevo Audio**.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/02-release-new-audio.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/02-release-new-audio.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -40,7 +40,7 @@ Este archivo se sube al servidor y se convierte en distintos formatos de Audio.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/03-release-upload.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/03-release-upload.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -79,7 +79,7 @@ La portada se para identificar tu lanzamiento.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/04-release-upload-image.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/04-release-upload-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -88,7 +88,7 @@ La portada se para identificar tu lanzamiento.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/05-release-regenerate-image.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/05-release-regenerate-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -115,7 +115,7 @@ Estas selecciones serán las predeterminadas, pero no limitan usos futuros.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -132,7 +132,7 @@ Casi todos estos datos se muestran en la tarjeta del Audio y ayudan a que otrxs 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/07-release-details.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/07-release-details.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -161,7 +161,7 @@ Tú sigues siendo la persona dueña de tu contenido, pero al publicar un Audio o
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/08-release-privacy.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/08-release-privacy.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 

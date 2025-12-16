@@ -18,4 +18,13 @@ Esta página describe funciones que aún están en desarrollo y estarán disponi
 
 Los mundos entrelazados son representaciones artísticas de mundos físicos donde se colocan, exploran y transforman los sonidos publicados. Proveen el contexto espacial y sensorial para la música regenerativa en plantasia.space.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/01-overview-world.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
 Usa esta sección para aprender cómo se publican, editan y utilizan los mundos.

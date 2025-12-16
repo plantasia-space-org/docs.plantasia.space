@@ -33,7 +33,7 @@ When you upload an audio, you need to set a default **Orbiters** that transform 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

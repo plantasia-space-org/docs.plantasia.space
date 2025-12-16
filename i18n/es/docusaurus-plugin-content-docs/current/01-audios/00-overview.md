@@ -33,7 +33,7 @@ Cuando subes un Audio, debes definir un **orbitador** predeterminado que transfo
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 

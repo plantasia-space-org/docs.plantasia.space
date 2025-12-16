@@ -18,6 +18,15 @@ This page documents features that are still in development and will be available
 
 Editing an Entangled World allows you to refine its identity over time.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/08-edit-world.mp4.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## What you can edit
 
 You can update:

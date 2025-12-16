@@ -20,6 +20,15 @@ Entangled Worlds are world-building spaces where sound, visuals, and narrative c
 
 They are artistic representations of **real exoplanets**, designed to host Audios and give them spatial, visual, and story context.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/01-overview-world.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## What an Entangled World does
 
 An Entangled World connects:
