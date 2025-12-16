@@ -19,8 +19,9 @@ Ve a **Publicar → Nuevo Audio**.
 ![Nuevo Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/new.png)
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/02-release-new-audio.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
@@ -35,8 +36,9 @@ Selecciona un archivo en formato **WAV** o **MP3**.
 Este archivo se sube al servidor y se convierte en distintos formatos de Audio.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/03-release-upload.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
@@ -73,16 +75,18 @@ Si no tienes una, puedes generarla desde fuentes de dominio público y personali
 La portada se para identificar tu lanzamiento.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 0.75rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/04-release-upload-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
 <video
+  className="ps-doc-video ps-doc-video--tight"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '0 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/05-release-regenerate-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
@@ -107,8 +111,9 @@ Puedes cambiarlos para prever cómo se comporta el Audio en distintos contextos.
 Estas selecciones serán las predeterminadas, pero no limitan usos futuros.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
@@ -123,8 +128,9 @@ Agrega metadatos, descripción e información contextual.
 Casi todos estos datos se muestran en la tarjeta del Audio y ayudan a que otrxs entiendan el lanzamiento.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/07-release-details.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
@@ -151,8 +157,9 @@ Por defecto, los Audios se publican con licencia **Creative Commons (BY-NC)**.
 Tú sigues siendo la persona dueña de tu contenido, pero al publicar un Audio otorgas permiso a la plataforma para difundirlo y que otrxs puedan escucharlo, explorarlo y acreditarte. Asegúrate de tener los derechos necesarios o la autorización de la persona creadora original.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/img/audios/08-release-privacy.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.

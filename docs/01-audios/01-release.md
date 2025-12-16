@@ -19,8 +19,9 @@ In the side bar or bottom bar, Go to **Release → New Audio**.
 ![New Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/new.png)
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/02-release-new-audio.mp4" type="video/mp4" />
   Your browser does not support the video tag.
@@ -35,8 +36,9 @@ Select an audio file in **WAV** or **MP3** format.
 This file is uploaded to the server and becomes the core of the Audio release.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/03-release-upload.mp4" type="video/mp4" />
   Your browser does not support the video tag.
@@ -74,16 +76,18 @@ If you don’t have one, you can generate an image from public-domain sources an
 The cover image is used across cards, previews, and listings.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 0.75rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/04-release-upload-image.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
 <video
+  className="ps-doc-video ps-doc-video--tight"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '0 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/05-release-regenerate-image.mp4" type="video/mp4" />
   Your browser does not support the video tag.
@@ -106,8 +110,9 @@ You can change these selections to preview how the Audio behaves in different co
 These selections will be default ones, but do not permanently limit future use.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
   Your browser does not support the video tag.
@@ -120,8 +125,9 @@ You can add metadata, description, and contextual information.
 Most of this information is visible on the Audio view card and helps others understand the release.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/07-release-details.mp4" type="video/mp4" />
   Your browser does not support the video tag.
@@ -149,8 +155,9 @@ By default, Audios are released under a **Creative Commons (BY-NC)** license.
 You remain the owner of your content, but when you release an Audio you grant the platform permission to publish it so others can listen, explore, and credit your work. Make sure you have the rights to publish the content or permission from the original creator.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '50%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/08-release-privacy.mp4" type="video/mp4" />
   Your browser does not support the video tag.

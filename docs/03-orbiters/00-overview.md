@@ -16,6 +16,35 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
 This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
 :::
 
-Orbiters are spaceships that transform sound, letting xPlorers explore and regenerate Audios in playful and sensory ways. They act as the hands-on instruments that reshape sound as they move through worlds.
+Orbiters are instruments you *play*.
 
-This section explains how to build, refine, release, and use orbiters across plantasia.space.
+They transform sound in real time, letting xPlorers explore Audios inside Entangled Worlds through movement, gesture, and modulation.
+
+## What an Orbiter does
+
+An Orbiter connects three things:
+
+- **An Audio** (what you listen to)
+- **An Entangled World** (the context you explore)
+- **An Orbiter** (the instrument that transforms sound)
+
+When an Orbiter is open, you can:
+
+- **Play and loop** the Audio
+- **Move in three axes (X, Y, Z)** to transform the sound
+- **Switch dimensions (1 / 2 / 3)** to access different transformation setups
+- **Add modulation** using the Cosmic LFO per axis
+
+## Dimensions
+
+Each Orbiter contains **three dimensions**.
+
+Dimensions are not “presets”. Each dimension can map **X, Y, and Z** to different audio processes designed by the Orbiter creator.
+
+Some controls are global (for example: **transport**, **loop**, and often **volume**). Most performance controls (XYZ, Cosmic LFO, sensors) are **dimension-specific**.
+
+## What this section covers
+
+- **Release**: create and publish a new Orbiter
+- **Edit**: update an existing Orbiter after it’s been created
+- **Use**: play an Orbiter on an Audio and explore its dimensions

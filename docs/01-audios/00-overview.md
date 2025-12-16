@@ -29,8 +29,9 @@ The world provides the visual, narrative, and contextual space in which the Audi
 When you upload an audio, you need to set a default **Orbiters** that transform the Audio through interaction, this audio also can be played in other Orbiters depending on the permissions of who is playing. 
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '77%', borderRadius: '1.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
   Your browser does not support the video tag.

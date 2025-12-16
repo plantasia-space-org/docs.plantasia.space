@@ -29,11 +29,12 @@ El mundo aporta el espacio visual, narrativo y contextual en el que se explora e
 Cuando subes un Audio, debes definir un **orbitador** predeterminado que transformará el Audio mediante la interacción que tu elijas; ese mismo Audio podrá tocarse en otros orbitadores dependiendo de los permisos de quien lo utilize.
 
 <video
+  className="ps-doc-video"
   controls
-  style={{width: '77%', borderRadius: '0.5rem', margin: '1rem 0 1.5rem'}}
+  poster="/img/video-placeholder.svg"
 >
   <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/img/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
+  Tu navegador no soporta la etiqueta de video.
 </video>
 
 ## Qué cubre esta sección

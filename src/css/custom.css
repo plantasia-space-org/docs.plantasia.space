@@ -199,6 +199,25 @@ ul li {
   background-position: center;
 }
 
+.ps-doc-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 0.5rem;
+  margin: 1rem 0 1.5rem;
+  display: block;
+  background-color: #000;
+}
+
+.ps-doc-video--tight {
+  margin-top: 0;
+}
+
+@media (min-width: 996px) {
+  .ps-doc-video {
+    width: 50%;
+  }
+}
+
 
 /* src/css/custom.css */
 

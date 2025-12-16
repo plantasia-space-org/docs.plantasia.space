@@ -16,3 +16,28 @@ import PencilIcon from '@site/static/img/pencil.svg';
 This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
 :::
 
+Editing an Entangled World allows you to refine its identity over time.
+
+## What you can edit
+
+You can update:
+
+- World name
+- Worldbuilding elementals
+- Elemental Matrix position
+- Planet textures
+- Scene and atmosphere settings
+- Narration and story sections
+- Collaboration and access rules
+
+## Iteration mindset
+
+Entangled Worlds are designed to evolve.
+
+You can revisit a world, regenerate textures, rewrite narration, or adjust visuals as your ideas develop.
+
+## Save and publish changes
+
+Save drafts while experimenting.
+
+Publish updates when you want changes to apply to the public version of the world.

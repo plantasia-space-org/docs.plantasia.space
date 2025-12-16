@@ -16,6 +16,32 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
 This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
 :::
 
-Entangled worlds are artistic representations of physical worlds where released sounds can be placed, explored, and transformed. They provide the spatial and sensory context for regenerative music inside plantasia.space.
+Entangled Worlds are world-building spaces where sound, visuals, and narrative come together.
 
-Use this section to learn how worlds are created, edited, released, and used.
+They are artistic representations of **real exoplanets**, designed to host Audios and give them spatial, visual, and story context.
+
+## What an Entangled World does
+
+An Entangled World connects:
+
+- **A real exoplanet** (astronomical data and reference)
+- **A world identity** (geography, flora, fauna, society, history)
+- **Audios** (music and sound placed inside the world)
+- **Orbiters** (the instruments used to explore and transform sound)
+
+Together, these elements turn listening into exploration.
+
+## Sections and structure
+
+Each Entangled World is organized into sections:
+
+- A **main** section that brings everything together
+- **Geography**, **Flora**, **Fauna**, **Society**, and **DNA** sections
+
+These sections act as visual and narrative anchors, helping communicate the identity of the world.
+
+## What this section covers
+
+- **Release**: create and publish a new Entangled World
+- **Edit**: refine an existing world over time
+- **Use**: explore worlds, place Audios, and navigate them with Orbiters
