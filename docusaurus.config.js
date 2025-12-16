@@ -95,6 +95,7 @@ const config = {
         logo: {
           alt: 'plantasia.space Logo',
           src: 'img/ps.svg',
+          srcDark: 'img/ps-current.svg',
         },
         items: [
           {
