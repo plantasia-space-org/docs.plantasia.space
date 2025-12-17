@@ -12,10 +12,6 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
   <h1 style={{margin: 0}}>Publicar</h1>
 </div>
 
-:::warning En progreso
-Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
-:::
-
 ## Dónde empezar
 
 Ve a **Publicar → Nuevo Mundo Entrelazado**.

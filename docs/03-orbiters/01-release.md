@@ -33,6 +33,15 @@ Upload an image that will identify your Orbiter.
 
 Orbiter images are displayed in a **hexagonal frame**. If needed, open the guidelines to design for this shape.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/01-release-orb-image.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 2) Orbital Name
 
 Set the **Orbital Name** — a unique name that identifies your Orbiter on the platform.
@@ -46,6 +55,15 @@ Choose an **Audio** and an **Entangled World** to preview your Orbiter while you
 This preview choice does **not** permanently bind the Orbiter to that Audio or World.
 
 Use fullscreen when you need a clearer view while testing.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/02-preview-audio-world.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## 4) Panel (per dimension)
 
@@ -85,6 +103,15 @@ Each mapped control has three key points:
 
 A useful strategy is to keep **equilibrium at 0** as a reliable “no effect” reference point.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/03-panel-dimension.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## 6) Collaboration and visibility
 
 Set who can:
@@ -103,3 +130,12 @@ By default, Orbiters are visible and searchable.
 - **Release** when you are ready to publish.
 
 After release, you can reuse the Orbiter across different Audios and Entangled Worlds.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/04-collaborate-draft-release.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>

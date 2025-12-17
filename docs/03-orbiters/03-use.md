@@ -16,11 +16,22 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
 This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
 :::
 
+![Orbiter in use](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
+
 ## Opening an Orbiter
 
 Orbiters are accessed through **Audios**.
 
 An Orbiter can open embedded in the page or in a separate tab, depending on context.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/06-use-open.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## Start with dimensions
 
@@ -31,6 +42,15 @@ Dimensions are different sound-transformation setups designed by the Orbiter cre
 The same **X, Y, Z** controls affect different processes in each dimension.
 
 On desktop, dimensions can usually be switched using **1 / 2 / 3**.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/07-use-transport-jam.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## Transport and looping
 
@@ -48,6 +68,25 @@ Open the **Playback** panel to work with the waveform:
 
 Looping remains available across all panels.
 
+
+## Monitoring
+
+Use the monitors to understand what is happening in real time:
+
+- Engine monitor (active parameters)
+- Audio information
+- Entangled World context
+- Orbiter identity
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/10-use-monitor-playback.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## Jamming mode (XYZ)
 
 Jamming mode is the primary interaction mode.
@@ -64,6 +103,15 @@ You can also use the knobs directly.
 
 Equilibrium usually represents a bypass or neutral state.
 
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/09-use-level-num-keyboard.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
 ## Cosmic LFO
 
 Each axis (X, Y, Z) has an independent Cosmic LFO.
@@ -76,14 +124,16 @@ You can control:
 
 Some sources are manual, others depend on the Entangled World and its exoplanet data.
 
-## Monitoring
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/08-use-cosmic-lfo.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
-Use the monitors to understand what is happening in real time:
 
-- Engine monitor (active parameters)
-- Audio information
-- Entangled World context
-- Orbiter identity
 
 ## Global vs dimension-specific controls
 

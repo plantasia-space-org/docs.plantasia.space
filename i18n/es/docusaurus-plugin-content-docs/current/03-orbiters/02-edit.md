@@ -12,7 +12,53 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Editar</h1>
 </div>
 
-:::warning En progreso
-Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
-:::
+Editar un Orbiter te permite perfeccionar un instrumento existente sin crear uno nuevo.
 
+### Video: Editar un Orbiter
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/05-edit-orbiter.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+## Qué se puede editar
+
+Puedes actualizar un Orbiter incluso después de haberlo publicado. Es posible modificar:
+
+- Imagen del Orbiter
+- Nombre orbital (cuando las reglas lo permiten)
+- Audio y Mundo Entrelazado usados para la vista previa
+- Diseño del panel en cada dimensión
+- Mapeos del motor por dimensión
+- Configuración de colaboración y visibilidad
+
+## Tener en cuenta las dimensiones
+
+La mayoría de los parámetros del Orbiter son **específicos por dimensión**.
+
+Al editar, revisa siempre cada dimensión (1, 2 y 3) y asegúrate de que:
+
+- El estilo del panel sea correcto
+- Los mapeos del motor respondan como esperas
+
+Puedes usar copiar / pegar para replicar el estilo del panel, pero los ajustes del motor deben refinarse manualmente en cada dimensión.
+
+## Flujo de iteración
+
+Los Orbiters están diseñados para iterarse.
+
+Puedes:
+
+- Probar cambios con diferentes Audios
+- Previsualizar el comportamiento en varios Mundos Entrelazados
+- Ajustar los mapeos de manera gradual
+
+## Guardar y publicar cambios
+
+Guarda borradores mientras experimentas.
+
+Publica los cambios cuando estés listo para que se apliquen al Orbiter público.
