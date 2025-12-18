@@ -12,10 +12,6 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Edit</h1>
 </div>
 
-:::warning Work in progress
-This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
-:::
-
 Editing an Entangled World allows you to refine its identity over time.
 
 <video
@@ -23,7 +19,7 @@ Editing an Entangled World allows you to refine its identity over time.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/08-edit-world.mp4.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/08-edit-world.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

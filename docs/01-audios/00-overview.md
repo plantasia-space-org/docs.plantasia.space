@@ -18,7 +18,7 @@ Audios are the base elements of regenerative music inside plantasia.space.
 
 An Audio can be a **sample**, a **loop**, or a **full release track**. Most importantly, it can be a finished piece of music published so others can recreate it, remix it, and regenerate it into new forms.
 
-Audios are designed to evolve through exploration, transformation, and reuse.
+The audios are shared to be listened to, and to evolve through exploration, transformation and reuse into regenerative music. 
 
 ## Where Audios live
 
@@ -33,7 +33,7 @@ When you upload an audio, you need to set a default **Orbiters** that transform 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/01-overiview-audio-live-world.mp4" type="video/mp4" /> 
   Your browser does not support the video tag.
 </video>
 

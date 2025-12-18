@@ -20,17 +20,17 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>What makes the music “regenerative”?</summary>
-  <div>Sonic releases are designed to transform through listener interaction—each play can feel different.</div>
+  <div>Sonic releases are designed to transform through listener interaction—each play can be different.</div>
 </details>
 
 <details>
   <summary>Who are xPlorers?</summary>
-  <div>Members who join the community to listen, nurture, and create; they get access to different toolsets depending on membership level.</div>
+  <div>Members who join the community to listen, publish, and create; they get access to different toolsets depending on membership level.</div>
 </details>
 
 <details>
   <summary>What can I do as a guest?</summary>
-  <div>Browse featured audios, orbiters, and worlds for a limited time; you’ll need an account to interact or publish.</div>
+  <div>Browse featured audios, orbiters, and worlds for a limited time; you’ll need at least a free account to interact with or publish audios.</div>
 </details>
 
 <details>
@@ -50,7 +50,7 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>What is an Orbiter?</summary>
-  <div>A spaceship that acts as a musical meta-instrument (effects/processing chain) you design and share to shape playback.</div>
+  <div>A spaceship that acts as a musical meta-instrument (sampler with effects/processing chain) you design and share to shape playback.</div>
 </details>
 
 <details>
@@ -65,12 +65,12 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>Do you support collaboration?</summary>
-  <div>You can invite collaborators with specific roles on releases, worlds, and orbiters.</div>
+  <div>You can invite collaborators with specific roles on releases, worlds, orbiters and collections.</div>
 </details>
 
 <details>
   <summary>What licenses are used?</summary>
-  <div>Currently Creative Commons variants; a custom “Copy Nibble” license is planned to balance resource distribution between artists, developers, and regeneration projects.</div>
+  <div>Currently we only support Creative Commons variants; int the future you will be able to change to a custom “Copy Nibble” license is planned to balance resource distribution between artists, developers, and regeneration projects.</div>
 </details>
 
 <details>

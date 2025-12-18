@@ -14,20 +14,20 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 
 ## Dónde empezar
 
-Ve a **Publicar → Nuevo Orbiter**.
+Ve a **Publicar → Nuevo Orbitador**.
 
-![Nuevo Orbiter](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/new.png)
+![Nuevo Orbitador](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/new.png)
 
-El formulario de publicación te permite definir la **identidad visual** del Orbiter, elegir un **contexto de vista previa** y configurar su **panel** y **motor** por dimensión.
+El formulario de publicación te permite definir la **identidad visual** del Orbitador, elegir un **contexto de vista previa** y configurar su **panel** y **motor** por dimensión.
 
-## 1) Imagen del Orbiter
+## 1) Imagen del Orbitador
 
-Sube una imagen que identificará tu Orbiter.
+Sube una imagen que identificará tu Orbitador.
 
 - Puedes subir tu propio diseño.
 - Puedes generar una imagen usando el botón de regenerar y luego editarla.
 
-Las imágenes del Orbiter se muestran en un **marco hexagonal**. Si lo necesitas, abre las guías para diseñar con esta forma.
+Las imágenes del Orbitador se muestran en un **marco hexagonal**. Si lo necesitas, abre las guías para diseñar con esta forma.
 
 <video
   className="ps-doc-video"
@@ -46,9 +46,9 @@ Puedes regenerar el nombre si necesitas un punto de partida.
 
 ## 3) Audio y Mundo Entrelazado de vista previa
 
-Elige un **Audio** y un **Mundo Entrelazado** para previsualizar tu Orbiter mientras lo diseñas.
+Elige un **Audio** y un **Mundo Entrelazado** para previsualizar tu Orbitador mientras lo diseñas.
 
-Esta elección de vista previa **no** vincula permanentemente el Orbiter a ese Audio o Mundo.
+Esta elección de vista previa **no** vincula permanentemente el Orbitador a ese Audio o Mundo.
 
 Usa el modo pantalla completa cuando necesites una vista más clara durante las pruebas.
 
@@ -65,7 +65,7 @@ Usa el modo pantalla completa cuando necesites una vista más clara durante las 
 
 Piensa en el panel como los **controles de la nave**.
 
-Los Orbiters soportan **tres dimensiones** (World 1, World 2, World 3). Cada dimensión tiene configuraciones independientes de panel.
+Los Orbitadores soportan **tres dimensiones** (World 1, World 2, World 3). Cada dimensión tiene configuraciones independientes de panel.
 
 Configuraciones habituales del panel incluyen:
 
@@ -85,7 +85,7 @@ Si quieres un estilo consistente entre dimensiones, usa **copiar / pegar** para 
 
 ## 5) Motor (por dimensión)
 
-El motor define **cómo el Orbiter transforma el sonido**.
+El motor define **cómo el Orbitador transforma el sonido**.
 
 Cada dimensión tiene su propia configuración del motor y puede ofrecer distintos efectos o tipos de reproducción.
 
@@ -125,7 +125,7 @@ Por defecto, los Orbiters son visibles y se pueden buscar.
 - **Guardar borrador** si quieres continuar más tarde.
 - **Publicar** cuando estés listo para lanzar.
 
-Después de publicar, puedes reutilizar el Orbiter en diferentes Audios y Mundos Entrelazados.
+Después de publicar, puedes reutilizar el Orbitador en diferentes Audios y Mundos Entrelazados.
 
 <video
   className="ps-doc-video"

@@ -12,11 +12,6 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Use</h1>
 </div>
 
-:::warning Work in progress
-This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
-:::
-
-
 ## Using Entangled Worlds
 
 At the moment, Entangled Worlds are primarily used through **Audios**.
@@ -52,11 +47,11 @@ When listening to a track, you can move between these sections to experience dif
 
 As you navigate a track through an Entangled World, the world acts as a container for exploration rather than a static background.
 
-The visuals, narration, and world structure support a deeper listening experience and prepare the context for sound transformation using Orbiters.
+The visuals, narration, and world structure support a deeper listening experience and prepare the context for sound transformation using [Orbiters](/en/docs/orbiters/use).
 
 ## Relationship with Orbiters
 
-See Orbiters Section for more details. 
+See [Orbiters](/en/docs/orbiters/use) Section for more details. 
 
 Orbiters are used to actively explore and transform sound inside Entangled Worlds.
 

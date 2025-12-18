@@ -20,12 +20,12 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>¿Qué hace que la música sea “regenerativa”?</summary>
-  <div>Las publicaciones sonoras están diseñadas para transformarse mediante la interacción del oyente; cada reproducción puede sentirse diferente.</div>
+  <div>Las publicaciones sonoras están diseñadas para transformarse mediante la interacción del oyente; cada reproducción puede ser diferente.</div>
 </details>
 
 <details>
   <summary>¿Quiénes son lxs xPlorers?</summary>
-  <div>Miembrxs que se unen a la comunidad para escuchar, cuidar y crear; acceden a diferentes herramientas según su nivel de membresía.</div>
+  <div>Miembrxs que se unen a la comunidad para escuchar, publicar y crear; acceden a diferentes herramientas según su nivel de membresía.</div>
 </details>
 
 <details>
@@ -50,7 +50,7 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>¿Qué es un Orbiter?</summary>
-  <div>Una nave que funciona como meta-instrumento musical (cadena de efectos/procesamiento) que diseñás y compartís para transformar la reproducción.</div>
+  <div>Una nave que funciona como meta-instrumento musical (sampler con cadena de efectos/procesamiento) que diseñás y compartís para transformar la reproducción.</div>
 </details>
 
 <details>
@@ -65,12 +65,12 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>¿Hay soporte para colaboración?</summary>
-  <div>Sí, podés invitar colaboradorxs con roles específicos en publicaciones, mundos y orbiters.</div>
+  <div>Sí, podés invitar colaboradorxs con roles específicos en publicaciones, mundos, orbiters y collecciones.</div>
 </details>
 
 <details>
   <summary>¿Qué licencias utilizan?</summary>
-  <div>Actualmente variantes de Creative Commons; se está desarrollando la licencia “Copy Nibble” para equilibrar la distribución de recursos entre artistas, desarrolladores y proyectos de regeneración.</div>
+  <div>Actualmente variantes de Creative Commons; en el futuro podrás cambiar a una nueva licencia que se está desarrollando llamada “Copy Nibble” para equilibrar la distribución de recursos entre artistas, desarrolladores y proyectos de regeneración.</div>
 </details>
 
 <details>

@@ -18,11 +18,11 @@ Esta página describe funciones que aún están en desarrollo y estarán disponi
 
 ![Orbiter en uso](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
 
-## Abrir un Orbiter
+## Abrir un Orbitador
 
-Accede a los Orbiters desde el **Audio** que estás escuchando.
+Accede a los Orbitadores desde el **Audio** que estás escuchando.
 
-Dependiendo del contexto, el Orbiter puede abrirse incrustado en la página o en una pestaña independiente.
+Dependiendo del contexto, el Orbitador puede abrirse incrustado en la página o en una pestaña independiente.
 
 <video
   className="ps-doc-video"
@@ -35,9 +35,9 @@ Dependiendo del contexto, el Orbiter puede abrirse incrustado en la página o en
 
 ## Comenzar por las dimensiones
 
-Cada Orbiter incluye **tres dimensiones**.
+Cada Orbitador incluye **tres dimensiones**.
 
-Cada dimensión contiene un conjunto distinto de transformaciones diseñadas por la persona creadora del Orbiter.
+Cada dimensión contiene un conjunto distinto de transformaciones diseñadas por la persona creadora del Orbitador.
 
 Los mismos controles **X, Y, Z** activan procesos diferentes en cada dimensión.
 

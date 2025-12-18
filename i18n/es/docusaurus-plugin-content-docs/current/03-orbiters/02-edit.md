@@ -12,9 +12,9 @@ import PencilIcon from '@site/static/img/pencil.svg';
   <h1 style={{margin: 0}}>Editar</h1>
 </div>
 
-Editar un Orbiter te permite perfeccionar un instrumento existente sin crear uno nuevo.
+Editar un Orbitador te permite perfeccionar un instrumento existente sin crear uno nuevo.
 
-### Video: Editar un Orbiter
+### Video: Editar un Orbitador
 
 <video
   className="ps-doc-video"
@@ -27,9 +27,9 @@ Editar un Orbiter te permite perfeccionar un instrumento existente sin crear uno
 
 ## Qué se puede editar
 
-Puedes actualizar un Orbiter incluso después de haberlo publicado. Es posible modificar:
+Puedes actualizar un Orbitador incluso después de haberlo publicado. Es posible modificar:
 
-- Imagen del Orbiter
+- Imagen del Orbitador
 - Nombre orbital (cuando las reglas lo permiten)
 - Audio y Mundo Entrelazado usados para la vista previa
 - Diseño del panel en cada dimensión
@@ -38,7 +38,7 @@ Puedes actualizar un Orbiter incluso después de haberlo publicado. Es posible m
 
 ## Tener en cuenta las dimensiones
 
-La mayoría de los parámetros del Orbiter son **específicos por dimensión**.
+La mayoría de los parámetros del Orbitador son **específicos por dimensión**.
 
 Al editar, revisa siempre cada dimensión (1, 2 y 3) y asegúrate de que:
 
@@ -49,7 +49,7 @@ Puedes usar copiar / pegar para replicar el estilo del panel, pero los ajustes d
 
 ## Flujo de iteración
 
-Los Orbiters están diseñados para iterarse.
+Los Orbitadores están diseñados para iterarse.
 
 Puedes:
 
@@ -61,4 +61,4 @@ Puedes:
 
 Guarda borradores mientras experimentas.
 
-Publica los cambios cuando estés listo para que se apliquen al Orbiter público.
+Publica los cambios cuando estés listo para que se apliquen al Orbitador público.

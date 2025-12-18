@@ -33,7 +33,7 @@ El looping permite una escucha enfocada y prepara el Audio para transformaciones
 
 ## Explorar con orbitadores
 
-Ver sección orbitadores para más detalles. 
+Ver sección [orbitadores](/es/docs/orbiters/use) para más detalles. 
 
 Los Audios también pueden abrirse dentro de un orbitador.
 

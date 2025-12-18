@@ -44,28 +44,6 @@ This file is uploaded to the server and becomes the core of the Audio release.
   Your browser does not support the video tag.
 </video>
 
-## Audio quality and playback settings
-
-In the settings section, you can define how the Audio is delivered during playback.
-
-### Audio quality
-
-Audios can be streamed in different quality levels.
-
-Depending on the selected quality and the listener’s connection, playback may use:
-
-- **WAV** (higher quality, larger file size)
-- **MP3** (lower bandwidth, smaller file size)
-
-### Adaptive playback
-
-Playback quality can adapt automatically based on internet speed and device conditions.
-
-If the connection is fast and stable, the system may stream the WAV version.
-If the connection is slower or unstable, playback may fall back to MP3 to ensure continuity.
-
-This allows Audios to remain accessible while preserving higher-quality listening whenever possible.
-
 
 ## 2) Track cover
 
@@ -168,3 +146,30 @@ You remain the owner of your content, but when you release an Audio you grant th
 Save the Audio as a draft while working on it.
 
 Release it when you are ready for others to explore and transform it.
+
+
+## Audio quality and playback settings
+
+![Audio settings](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/audio-settings.png)
+
+In the settings section, you can define how the Audio is delivered during playback.
+
+### Audio quality
+
+Audios can be streamed in different quality levels.
+
+Depending on the selected quality and the listener’s connection, playback may use:
+
+- **WAV** (higher quality, larger file size)
+- **MP3** (lower bandwidth, smaller file size)
+
+### Adaptive playback
+
+Playback quality can adapt automatically based on internet speed and device conditions.
+
+If the connection is fast and stable, the system may stream the WAV version.
+If the connection is slower or unstable, playback may fall back to MP3 to ensure continuity.
+
+This allows Audios to remain accessible while preserving higher-quality listening whenever possible.
+
+

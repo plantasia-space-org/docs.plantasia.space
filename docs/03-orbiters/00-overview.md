@@ -12,10 +12,6 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Overview</h1>
 </div>
 
-:::warning Work in progress
-This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
-:::
-
 Orbiters are instruments you *play*.
 
 They transform sound in real time, letting xPlorers explore Audios inside Entangled Worlds through movement, gesture, and modulation.

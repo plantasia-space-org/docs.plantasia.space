@@ -12,28 +12,17 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
   <h1 style={{margin: 0}}>Release</h1>
 </div>
 
-:::warning Work in progress
-This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
-:::
-
 ## Where to start
 
 Go to **Release → New Entangled World**.
 
 ![New Entangled World](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/new.png)
 
-<video
-  className="ps-doc-video"
-  controls
-  poster="/img/video-placeholder.svg"
->
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
-  Your browser does not support the video tag.
-</video>
-
 Depending on your user type, you can create a limited number of Entangled Worlds. Additional worlds can be added through add-ons.
 
 Releasing a world opens a multi-step form.
+
+# STEP 1
 
 ## 1) Choose an exoplanet
 
@@ -46,6 +35,15 @@ You can:
 - Search by number (for example, typing `95` will show planets with that number in their name)
 
 You can change the selected exoplanet later.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 
 ## Exoplanet data
 
@@ -119,6 +117,8 @@ This influences visual generation and creates six world sections:
 ## Save draft or continue
 
 After completing the first step, you can save the world as a draft or continue to the next step.
+
+# STEP 2
 
 ## 5) Planet texture generation
 

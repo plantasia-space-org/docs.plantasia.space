@@ -37,6 +37,8 @@ Looping allows focused listening and prepares the Audio for transformation.
 
 ## Exploring with Orbiters
 
+See [orbiters](/en/docs/orbiters/use) section for more details. 
+
 Audios can be opened inside an Orbiter.
 
 Orbiters allow you to transform sound through movement, dimensions, and modulation.

@@ -33,12 +33,33 @@ Cuando subes un Audio, debes definir un **orbitador** predeterminado que transfo
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/01-overview-audio-live-world.mp4" type="video/mp4" />
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/01-overiview-audio-live-world.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
+Los audios viven dentro de las secciones de los Mundos Entrelazados. 
+
+## Qué hace un Mundo Entrelazado
+
+Un Mundo Entrelazado conecta:
+
+- **Un exoplaneta real** (datos astronómicos y referencia)
+- **Una identidad, un concepto (world building)** (geografía, flora, fauna, sociedad, historia)
+- **Audios** (música y sonido dentro del mundo)
+- **Orbitadores** (los instrumentos utilizados para explorar y transformar el sonido)
+
+Juntos, estos elementos convierten la escucha en exploración.
+
+## Secciones y estructura
+
+Cada Mundo Entrelazado se organiza en secciones:
+
+- Una sección **principal** que lo integra todo
+- Secciones de **Geografía**, **Flora**, **Fauna**, **Sociedad** y **ADN**
+
+Estas secciones actúan como puntos de referencia visuales y narrativos, ayudando a comunicar la identidad del mundo.
 
 ## Qué cubre esta sección
 
-- **Release**: subir y publicar un nuevo Audio
-- **Edit**: actualizar metadatos, visuales y configuraciones
-- **Use**: reproducir con el Player normal o con orbitadores
+- **Publicación**: crear y publicar un nuevo Mundo Entrelazado
+- **Edición**: perfeccionar un mundo existente con el tiempo
+- **Uso**: explorar mundos, y navegarlos con Orbitadores

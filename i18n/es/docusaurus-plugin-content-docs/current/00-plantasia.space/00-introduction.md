@@ -13,7 +13,7 @@ import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
   <h1 style={{margin: 0}}>Bienvenidx a plantasia.space</h1>
 </div>
 
-plantasia.space es una plataforma de música regenerativa nacida del sueño de crear una **comunidad aural sin fronteras**. Es un proyecto de **𝐵𝓇𝓊𝓃𝒶 𝒢𝓊𝒶𝓇𝓃𝒾𝑒𝓇𝒾**, que lleva más de diez años cultivando esta visión, nutrida por su experiencia en colectivos como **Exoplanetas**, **Head Brothers** y **Aventuras Sonores**, donde la exploración del sonido, los mundos y la imaginación fue siempre un eje central.
+plantasia.space es una plataforma de música regenerativa nacida del sueño de crear una **comunidad aural sin fronteras**. Es un proyecto iniciado por **𝐵𝓇𝓊𝓃𝒶 𝒢𝓊𝒶𝓇𝓃𝒾𝑒𝓇𝒾**, que lleva más de diez años cultivando esta visión, nutrida por su experiencia en colectivos como **Exoplanetas**, **Head Brothers** y **Aventuras Sonores**, donde la exploración del sonido, los mundos y la imaginación fue siempre un eje central.
 
 Aquí proponemos un *playground* para la escucha y la creación: un espacio donde cada xPlorer puede lanzar sonidos, publicarlos, colocarlos dentro de **mundos entrelazados** y transformarlos usando **orbiters**, herramientas que permiten jugar, explorar y regenerar el sonido en tiempo real. Cada audio se publica para que pueda escucharse, recrearse y tomar nuevas formas en manos de la comunidad.
 

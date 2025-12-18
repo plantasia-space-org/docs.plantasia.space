@@ -9,66 +9,203 @@ import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 <div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
   <ReleaseIcon width={26} height={26} style={{color: 'currentColor'}} />
   <WorldIcon width={28} height={28} style={{color: 'currentColor'}} />
-  <h1 style={{margin: 0}}>Publicar</h1>
+  <h1 style={{margin: 0}}>Lanzar</h1>
 </div>
 
-## Dónde empezar
+:::warning Trabajo en progreso
+Esta página documenta funciones que todavía están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+:::
 
-Ve a **Publicar → Nuevo Mundo Entrelazado**.
+## Por dónde empezar
 
-![Nuevo Mundo Entrelazado](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/new.png)
+Ve a **Release → New Entangled World**.
 
-### Video: Elegir un exoplaneta
+![New Entangled World](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/new.png)
 
-<video
-  className="ps-doc-video"
-  controls
-  poster="/img/video-placeholder.svg"
->
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
-  Tu navegador no soporta la etiqueta de video.
-</video>
 
-### Video: Nombrar tu mundo
+Según tu tipo de usuario, puedes crear un número limitado de Mundos Entrelazados. Se pueden añadir mundos adicionales mediante add-ons.
 
-<video
-  className="ps-doc-video"
-  controls
-  poster="/img/video-placeholder.svg"
->
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/03-release-choose-name.mp4" type="video/mp4" />
-  Tu navegador no soporta la etiqueta de video.
-</video>
+Lanzar un mundo abre un formulario de varios pasos.
 
-### Video: Definir elementales del worldbuilding
+# PASO 1
 
-<video
-  className="ps-doc-video"
-  controls
-  poster="/img/video-placeholder.svg"
->
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/04-release-worldbuilding-elementals.mp4" type="video/mp4" />
-  Tu navegador no soporta la etiqueta de video.
-</video>
+## 1) Elegir un exoplaneta
 
-### Video: Generar texturas del planeta
+Empieza seleccionando un exoplaneta real con el que entrelazar tu mundo.
+
+Puedes:
+
+- Elegir entre exoplanetas sugeridos o futuros
+- Buscar por nombre
+- Buscar por número (por ejemplo, al escribir `95` se mostrarán planetas con ese número en su nombre)
+
+Puedes cambiar el exoplaneta seleccionado más adelante.
 
 <video
   className="ps-doc-video"
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/05-release-texture-gen.mp4" type="video/mp4" />
-  Tu navegador no soporta la etiqueta de video.
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo.
 </video>
 
-### Video: Ajustar escena y atmósfera
+
+## Datos del exoplaneta
+
+Al expandir el panel de información, puedes ver medidas astronómicas y físicas de la base de datos actual de exoplanetas.
+
+Por el momento, estos datos afectan principalmente al comportamiento del Cosmic LFO dentro de los Orbiters. Elegir un planeta es sobre todo una decisión artística y simbólica.
+
+
+## 2) Nombra tu mundo
+
+Define un nombre para tu Mundo Entrelazado.
+
+Si necesitas inspiración, puedes generar un nombre seleccionando un reino biológico:
+
+- Plantae
+- Fungi
+- Animalia
+
+El nombre generado se puede editar más adelante.
 
 <video
   className="ps-doc-video"
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/06-release-scene.mp4" type="video/mp4" />
-  Tu navegador no soporta la etiqueta de video.
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/03-release-choose-name.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo.
 </video>
+
+## 3) Elementales de worldbuilding
+
+Los Elementales de Worldbuilding definen la identidad de tu mundo.
+
+Describen:
+
+- Geografía
+- Flora
+- Fauna
+- Sociedad
+- Historia
+
+Puedes:
+
+- Aplicar un preset
+- Aleatorizar todos los valores
+- Definir cada elemento manualmente
+
+Estos valores se usan después para generar visuales y narración.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/04-release-worldbuilding-elementals.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo.
+</video>
+
+## 4) Matriz Elemental
+
+La Matriz Elemental sitúa tu mundo entre **agua, fuego, tierra y aire**.
+
+Esto influye en la generación visual y crea seis secciones del mundo:
+
+- Principal
+- Geografía
+- Flora
+- Fauna
+- Sociedad
+- ADN
+
+## Guardar borrador o continuar
+
+Después de completar el primer paso, puedes guardar el mundo como borrador o continuar al siguiente paso.
+
+# PASO 2
+
+## 5) Generación de textura del planeta
+
+En el segundo paso, puedes generar o regenerar la textura del planeta.
+
+Selecciona uno de los modelos de IA disponibles y guía la generación usando:
+
+- Medio artístico
+- Técnica artística
+- Paleta de colores
+- Estilo de iluminación
+
+Cada mundo incluye un número limitado de créditos de textura según tu suscripción. Si lo necesitas, puedes añadir más con paquetes de créditos de textura.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/05-release-texture-gen.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo.
+</video>
+
+## 6) Escena y atmósfera
+
+En escritorio, puedes abrir el mundo a pantalla completa para ajustar los parámetros de la escena:
+
+- Presets de campo estelar
+- Colores de fondo
+- Número de lunas (hasta 247)
+- Texturas y colores de las lunas
+- Tamaño y detalle del mundo
+- Halo (color y tamaño)
+- Nubes (textura, color, opacidad, movimiento)
+- Iluminación (ambiente, superficie, dirección X/Y/Z)
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/06-release-scene.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo.
+</video>
+
+## 7) Narración e historia
+
+Puedes escribir la narración del mundo, incluyendo:
+
+- Introducción
+- Geografía
+- Flora
+- Fauna
+- Sociedad
+- Historia
+- Conclusión
+
+También puedes usar herramientas de escritura asistida para generar o traducir historias con distintos tonos, formatos e idiomas.
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/07-release-narrative.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de vídeo.
+</video>
+
+## 8) Colaboración y acceso
+
+Define quién puede:
+
+- Ver el mundo
+- Publicar Audios dentro del mundo
+- Editar el mundo
+
+También puedes definir reglas generales de acceso (privado, por enlace o abierto).
+
+## 9) Borrador y lanzamiento
+
+Guarda tu mundo como borrador mientras iteras.
+
+Lanza el mundo cuando esté listo para ser explorado y utilizado por otras personas.

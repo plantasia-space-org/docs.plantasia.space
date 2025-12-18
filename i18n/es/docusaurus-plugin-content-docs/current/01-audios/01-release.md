@@ -44,27 +44,6 @@ Este archivo se sube al servidor y se convierte en distintos formatos de Audio.
   Tu navegador no soporta la etiqueta de video.
 </video>
 
-## Calidad y reproducción
-
-En la sección de "Configuración" general defines cómo se reproduce el Audio en la plataforma, para tu reproducción.
-
-### Calidad de audio
-
-Los Audios pueden transmitirse en distintos niveles de calidad.
-
-Según la calidad seleccionada y la conexión de quien escucha, la reproducción puede usar:
-
-- **WAV** 16bit 44khz (mayor calidad, archivos más pesados)
-- **MP3** 320kbps (menos ancho de banda, archivos más ligeros)
-
-### Reproducción adaptativa
-
-La calidad del streaming se adapta automáticamente según la velocidad de internet y las condiciones del dispositivo.
-
-Si la conexión es rápida y estable, el sistema puede reproducir la versión WAV.
-Si la conexión es más lenta o inestable, la reproducción cambiará a MP3 para que no se corte.
-
-Así el Audio se mantiene accesible sin perder la posibilidad de escucharlo en alta calidad.
 
 ## 2) Portada
 
@@ -170,3 +149,32 @@ Tú sigues siendo la persona dueña de tu contenido, pero al publicar un Audio o
 Guarda el Audio como borrador mientras trabajas en él.
 
 Publícalo cuando quieras que otrxs lo exploren y lo transformen.
+
+
+----
+
+## Calidad y reproducción
+
+En la sección de "Configuración" general defines cómo se reproduce el Audio en la plataforma, para tu reproducción.
+
+
+![Configuracion de Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/audio-settings.png)
+
+
+### Calidad de audio
+
+Los Audios pueden transmitirse en distintos niveles de calidad.
+
+Según la calidad seleccionada y la conexión de quien escucha, la reproducción puede usar:
+
+- **WAV** 16bit 44khz (mayor calidad, archivos más pesados)
+- **MP3** 320kbps (menos ancho de banda, archivos más ligeros)
+
+### Reproducción adaptativa
+
+La calidad del streaming se adapta automáticamente según la velocidad de internet y las condiciones del dispositivo.
+
+Si la conexión es rápida y estable, el sistema puede reproducir la versión WAV.
+Si la conexión es más lenta o inestable, la reproducción cambiará a MP3 para que no se corte.
+
+Así el Audio se mantiene accesible sin perder la posibilidad de escucharlo en alta calidad.
