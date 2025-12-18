@@ -12,10 +12,6 @@ import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
   <h1 style={{margin: 0}}>Usar</h1>
 </div>
 
-:::warning En progreso
-Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
-:::
-
 ![Orbiter en uso](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
 
 ## Abrir un Orbitador
