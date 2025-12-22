@@ -77,12 +77,12 @@ const CookieBanner = () => {
         </p>
         <p>
           <Translate id="cookie.line2Start">Please, find out </Translate>
-          <Link to="/docs/00-plantasia.space/06-cookie-guide"><Translate id="cookie.moreInfo">More info</Translate></Link>
+          <Link to="/docs/plantasia.space/cookie-guide"><Translate id="cookie.moreInfo">More info</Translate></Link>
           <Translate id="cookie.line2End"> About how we use cookies.</Translate>
         </p>
         <p>
-          <Translate id="cookie.line3Start">Send us</Translate>
-          <Link to="https://release-preview.plantasia.space/en/support"><Translate id="cookie.feedbackInfo">Feedback</Translate></Link>
+          <Translate id="cookie.line3Start">Send us </Translate>
+          <Link to="https://release-preview.plantasia.space/en/support"><Translate id="cookie.feedbackInfo"> Feedback</Translate></Link>
           <Translate id="cookie.line3End"> About what how we can improve.</Translate>
         </p>
       </div>
