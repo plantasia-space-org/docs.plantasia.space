@@ -6,17 +6,80 @@ import Link from '@docusaurus/Link';
 const CookieContext = createContext();
 
 const STORAGE_KEY = 'plantasia_cookie_consent';
+const CONSENT_QUERY_PARAM = 'cookieConsent';
+
+const isValidImportedConsent = (consent) => {
+  if (!consent || typeof consent !== 'object') {
+    return false;
+  }
+
+  const requiredKeys = ['necessary', 'analytics', 'marketing', 'acceptedAt'];
+  if (!requiredKeys.every((key) => Object.prototype.hasOwnProperty.call(consent, key))) {
+    return false;
+  }
+
+  return (
+    typeof consent.necessary === 'boolean' &&
+    typeof consent.analytics === 'boolean' &&
+    typeof consent.marketing === 'boolean' &&
+    typeof consent.acceptedAt === 'string'
+  );
+};
+
+const applyConsentFromQuery = (setConsent, setIsVisible) => {
+  const params = new URLSearchParams(window.location.search);
+  const payload = params.get(CONSENT_QUERY_PARAM);
+  if (!payload) {
+    return false;
+  }
+
+  try {
+    const decodedPayload = decodeURIComponent(payload);
+    const parsed = JSON.parse(decodedPayload);
+    if (!isValidImportedConsent(parsed)) {
+      return false;
+    }
+
+    const timestamp = parsed.acceptedAt;
+    const parsedExpiry = new Date(timestamp);
+    const expiry = Number.isNaN(parsedExpiry.getTime()) ? new Date() : parsedExpiry;
+
+    const mappedConsent = {
+      essential: parsed.necessary,
+      analytics: parsed.analytics,
+      marketing: parsed.marketing,
+      timestamp,
+    };
+
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(mappedConsent));
+    document.cookie = `cookieConsent=${encodeURIComponent(decodedPayload)}; path=/; SameSite=Lax; expires=${expiry.toUTCString()}`;
+    setConsent(mappedConsent);
+    setIsVisible(false);
+    return true;
+  } catch {
+    return false;
+  }
+};
 
 export const CookieConsentProvider = ({ children }) => {
   const [consent, setConsent] = useState(null);
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
+    const imported = applyConsentFromQuery(setConsent, setIsVisible);
     const stored = localStorage.getItem(STORAGE_KEY);
     if (stored) {
-      setConsent(JSON.parse(stored));
+      try {
+        setConsent(JSON.parse(stored));
+      } catch {
+        localStorage.removeItem(STORAGE_KEY);
+      }
     } else {
-      const timer = setTimeout(() => setIsVisible(true), 1000);
+      const timer = setTimeout(() => {
+        if (!imported) {
+          setIsVisible(true);
+        }
+      }, 1000);
       return () => clearTimeout(timer);
     }
   }, []);
