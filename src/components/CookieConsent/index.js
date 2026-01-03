@@ -7,6 +7,7 @@ const CookieContext = createContext();
 
 const STORAGE_KEY = 'plantasia_cookie_consent';
 const CONSENT_QUERY_PARAM = 'cookieConsent';
+const THEME_QUERY_PARAM = 'theme';
 
 const isValidImportedConsent = (consent) => {
   if (!consent || typeof consent !== 'object') {
@@ -26,9 +27,7 @@ const isValidImportedConsent = (consent) => {
   );
 };
 
-const applyConsentFromQuery = (setConsent, setIsVisible) => {
-  const params = new URLSearchParams(window.location.search);
-  const payload = params.get(CONSENT_QUERY_PARAM);
+const applyConsentFromQuery = (payload, setConsent, setIsVisible) => {
   if (!payload) {
     return false;
   }
@@ -61,12 +60,29 @@ const applyConsentFromQuery = (setConsent, setIsVisible) => {
   }
 };
 
+const applyThemeFromQuery = (theme) => {
+  if (theme !== 'light' && theme !== 'dark') {
+    return false;
+  }
+
+  document.documentElement.setAttribute('data-theme', theme);
+  localStorage.setItem('theme', theme);
+  return true;
+};
+
 export const CookieConsentProvider = ({ children }) => {
   const [consent, setConsent] = useState(null);
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const imported = applyConsentFromQuery(setConsent, setIsVisible);
+    const params = new URLSearchParams(window.location.search);
+    const imported = applyConsentFromQuery(params.get(CONSENT_QUERY_PARAM), setConsent, setIsVisible);
+    const themeApplied = applyThemeFromQuery(params.get(THEME_QUERY_PARAM));
+    if (imported || themeApplied) {
+      const url = `${window.location.origin}${window.location.pathname}${window.location.hash}`;
+      window.history.replaceState(null, '', url);
+    }
+
     const stored = localStorage.getItem(STORAGE_KEY);
     if (stored) {
       try {
