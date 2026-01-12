@@ -133,6 +133,14 @@ Dependiendo de tu nivel de xPlorer también puedes programar un lanzamiento futu
 
 Por defecto, los Audios se publican con licencia **Creative Commons (BY-NC)**.
 
+:::info
+**Tus derechos no se transfieren.** Publicar un Audio bajo Creative Commons no significa ceder tus derechos de autor. Sigues siendo titular de la obra. Al publicarla, otorgas a plantasia.space una licencia limitada para alojarla y mostrarla, y otorgas al público los permisos definidos por la licencia Creative Commons seleccionada (por ejemplo, escuchar, compartir o remezclar bajo sus términos).
+:::
+
+:::warning
+**Uso de IA y aprendizaje automático.** Los Audios publicados en plantasia.space **no se utilizan para entrenar modelos de IA, machine learning ni para el desarrollo de modelos**. Actualmente la plataforma no solicita ni gestiona consentimiento para entrenamiento de IA porque no se están entrenando modelos. Cualquier análisis de audio que se realiza es únicamente técnico (por ejemplo, descriptores o extracción de características). Si esto cambiara en el futuro, se te informaría claramente y se te pediría tu consentimiento explícito antes de cualquier uso de este tipo.
+:::
+
 Tú sigues siendo la persona dueña de tu contenido, pero al publicar un Audio otorgas permiso a la plataforma para difundirlo y que otrxs puedan escucharlo, explorarlo y acreditarte. Asegúrate de tener los derechos necesarios o la autorización de la persona creadora original.
 
 <video

@@ -70,7 +70,7 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>¿Qué licencias utilizan?</summary>
-  <div>Actualmente variantes de Creative Commons; en el futuro podrás cambiar a una nueva licencia que se está desarrollando llamada “Copy Nibble” para equilibrar la distribución de recursos entre artistas, desarrolladores y proyectos de regeneración.</div>
+  <div>Actualmente se utilizan licencias Creative Commons. Publicar bajo Creative Commons no significa ceder tus derechos de autor: seguís siendo titular de tu obra. Al publicar, otorgás a plantasia.space una licencia limitada para alojar y mostrar tu contenido, y otorgás al público los permisos definidos por la licencia Creative Commons seleccionada (por ejemplo, la remezcla bajo sus términos).</div>
 </details>
 
 <details>
@@ -81,6 +81,11 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 <details>
   <summary>¿Qué son los créditos de IA para Texturas/Textos?</summary>
   <div>Créditos de uso para generar visuales y textos; los créditos base se renuevan en cada ciclo, y los extras se acumulan hasta ser usados.</div>
+</details>
+
+<details>
+  <summary>¿Se usan mis audios para entrenar modelos de IA?</summary>
+  <div>No. Los audios publicados en plantasia.space no se utilizan para entrenar modelos de IA, machine learning ni para el desarrollo de modelos. Actualmente la plataforma no solicita ni gestiona consentimiento para entrenamiento de IA porque no se están entrenando modelos. Si esto cambiara en el futuro, se te informaría claramente y se te pediría tu consentimiento explícito antes de cualquier uso de este tipo.</div>
 </details>
 
 <details>

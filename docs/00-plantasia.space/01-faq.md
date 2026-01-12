@@ -70,7 +70,7 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 
 <details>
   <summary>What licenses are used?</summary>
-  <div>Currently we only support Creative Commons variants; int the future you will be able to change to a custom “Copy Nibble” license is planned to balance resource distribution between artists, developers, and regeneration projects.</div>
+  <div>We currently use Creative Commons licenses. Publishing under Creative Commons does not mean giving up your copyright: you remain the rights holder. By publishing, you grant plantasia.space a limited license to host and display your content, and you grant the public the permissions defined by the selected Creative Commons license (for example, remixing under its terms).</div>
 </details>
 
 <details>
@@ -81,6 +81,11 @@ import QuestionIcon from '@site/static/img/circle-question-mark.svg';
 <details>
   <summary>What are AI Texture/Text credits?</summary>
   <div>Usage credits for generating visuals and text; base credits refresh each cycle, and extra credits roll over until used.</div>
+</details>
+
+<details>
+  <summary>Are my audios used to train AI models?</summary>
+  <div>No. Audios published on plantasia.space are not used for AI training, machine learning, or model development. The platform does not currently request or collect consent for AI training because no models are being trained. If this were to change in the future, you would be clearly informed and asked for explicit consent before any such use.</div>
 </details>
 
 <details>

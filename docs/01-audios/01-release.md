@@ -130,6 +130,14 @@ Depending on your xPlorer tier, you may also schedule a future release.
 
 By default, Audios are released under a **Creative Commons (BY-NC)** license.
 
+:::info
+**You do not give up your rights.** Publishing an Audio under Creative Commons does not mean transferring your copyright. You remain the rights holder. By releasing it, you grant plantasia.space a limited license to host and display your Audio, and you grant the public the permissions defined by the selected Creative Commons license (for example, listening, sharing, or remixing under its terms).
+:::
+
+:::warning
+**AI and machine learning use.** Audios published on plantasia.space are **not used for AI training, machine learning, or model development**. The platform does not currently request or collect consent for AI training because no models are being trained. Any audio analysis performed is purely technical (for example, descriptors or feature extraction). If this were to change in the future, you would be clearly informed and asked for explicit consent before any such use.
+:::
+
 You remain the owner of your content, but when you release an Audio you grant the platform permission to publish it so others can listen, explore, and credit your work. Make sure you have the rights to publish the content or permission from the original creator.
 
 <video
