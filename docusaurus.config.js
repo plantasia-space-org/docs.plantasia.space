@@ -178,6 +178,7 @@ const config = {
         language: ['en', 'es'], // Specify the language(s) to be indexed
         highlightSearchTermsOnTargetPage: true, // Highlight search terms on the target page
         explicitSearchResultPath: true, // Explicitly define search result paths
+        ignoreFiles: ['/deck', '/es/deck'],
       },
     ],
   ],
