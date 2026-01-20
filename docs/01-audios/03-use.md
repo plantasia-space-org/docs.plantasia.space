@@ -1,5 +1,5 @@
 ---
-title: Use
+title: Interact
 wrapperClassName: doc-wrapper-icon-use
 sidebar_position: 4
 sidebar_custom_props:
@@ -10,7 +10,7 @@ sidebar_custom_props:
 This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
 :::
 
-## Using Audios
+## Interacting with Audios
 
 Audios can be listened to directly in normal audio player ![Play audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/play.png)
  or explored through Orbiters ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/orbiter-on.png)

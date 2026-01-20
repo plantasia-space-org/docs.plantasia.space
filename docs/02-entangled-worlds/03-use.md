@@ -1,5 +1,5 @@
 ---
-title: Use
+title: Interact
 wrapperClassName: doc-wrapper-icon-use
 sidebar_position: 4
 sidebar_custom_props:
@@ -56,4 +56,3 @@ While the Entangled World defines the context, Orbiters define the interaction. 
 In future versions, Entangled Worlds will also be used inside **Collections**, including mixed collections that combine multiple worlds, Audios, and Orbiters.
 
 This will allow worlds to be experienced not only per track, but as part of longer curated journeys.
-

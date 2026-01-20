@@ -22,28 +22,28 @@ plantasia.space docs
 │   ├── Create
 │   ├── Edit
 │   ├── Release
-│   └── Use
+│   └── Interact
 │
 ├── Entangled Worlds
 │   ├── Overview
 │   ├── Create
 │   ├── Edit
 │   ├── Release
-│   └── Use
+│   └── Interact
 │
 ├── Orbiters
 │   ├── Overview
 │   ├── Create
 │   ├── Edit
 │   ├── Release
-│   └── Use
+│   └── Interact
 │
 └── Collections
     ├── Overview
     ├── Create
     ├── Edit
     ├── Release
-    └── Use
+    └── Interact
 ```
 
 Use the left navigation to jump directly into any part of this tree.

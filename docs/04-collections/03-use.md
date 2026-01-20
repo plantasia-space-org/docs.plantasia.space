@@ -1,5 +1,5 @@
 ---
-title: Use
+title: Interact
 wrapperClassName: doc-wrapper-icon-use
 sidebar_position: 4
 sidebar_custom_props:
@@ -9,4 +9,3 @@ sidebar_custom_props:
 :::warning Work in progress
 This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
 :::
-
