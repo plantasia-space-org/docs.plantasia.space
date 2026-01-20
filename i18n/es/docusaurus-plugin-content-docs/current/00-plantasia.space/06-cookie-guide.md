@@ -1,5 +1,9 @@
 ---
 title: Guía de Cookies
+wrapperClassName: doc-wrapper-icon-cookie
+sidebar_position: 7
+sidebar_custom_props:
+  icon: Cookie
 ---
 
 # Guía de Cookies

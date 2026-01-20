@@ -1,16 +1,10 @@
 ---
 title: Editar
-hide_title: true
+wrapperClassName: doc-wrapper-icon-edit
+sidebar_position: 3
+sidebar_custom_props:
+  icon: Pencil
 ---
-
-import OrbiterIcon from '@site/static/img/symbols-12-25/orbiter-current.svg';
-import PencilIcon from '@site/static/img/pencil.svg';
-
-<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
-  <PencilIcon width={26} height={26} style={{color: 'currentColor'}} />
-  <OrbiterIcon width={28} height={28} style={{color: 'currentColor'}} />
-  <h1 style={{margin: 0}}>Editar</h1>
-</div>
 
 Editar un Orbitador te permite perfeccionar un instrumento existente sin crear uno nuevo.
 

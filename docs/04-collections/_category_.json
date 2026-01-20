@@ -1,8 +1,11 @@
 {
   "label": "Collections",
-  "position": 4,
+  "position": 5,
   "link": {
-    "type": "generated-index",
-    "description": "Curated experiences combining Audios, Worlds, and Orbiters."
+    "type": "doc",
+    "id": "index"
+  },
+  "customProps": {
+    "icon": "CollectionIcon"
   }
 }

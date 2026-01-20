@@ -16,25 +16,25 @@ const FeatureList = [
     title: 'Audios',
     titleId: 'homepage.features.audios',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg',
-    link: '/docs/audios/overview',
+    link: '/docs/audios',
   },
   {
     title: 'Entangled Worlds',
     titleId: 'homepage.features.entangled-worlds',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg',
-    link: '/docs/entangled-worlds/overview',
+    link: '/docs/entangled-worlds',
   },
   {
     title: 'Orbiters',
     titleId: 'homepage.features.orbiters',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/orbiter.svg',
-    link: '/docs/orbiters/overview',
+    link: '/docs/orbiters',
   },
   {
     title: 'Collections',
     titleId: 'homepage.features.collections',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg',
-    link: '/docs/collections/overview',
+    link: '/docs/collections',
   },
 ];
 

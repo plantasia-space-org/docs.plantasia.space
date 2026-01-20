@@ -1,0 +1,40 @@
+---
+title: Overview
+wrapperClassName: doc-wrapper-icon-eye
+sidebar_position: 1
+sidebar_custom_props:
+  icon: EyeIcon
+---
+
+import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
+import { Pencil, Power } from 'lucide-react';
+import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
+
+:::warning Work in progress
+This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
+:::
+
+<NavigationGrid>
+  <NavigationCard 
+    href="/docs/collections/release"
+    label="Release"
+    icon={<ReleaseIcon style={{ width: 24, height: 24, fill: "currentColor" }} />}
+    description="Create a new collection."
+  />
+  <NavigationCard 
+    href="/docs/collections/edit"
+    label="Edit"
+    icon={<Pencil />}
+    description="Curate and refine."
+  />
+  <NavigationCard 
+    href="/docs/collections/use"
+    label="Use"
+    icon={<Power />}
+    description="Experience collections."
+  />
+</NavigationGrid>
+
+Collections bring together Audios, Worlds, and Orbiters into curated experiences for exploration and transformation. They sequence creative elements so xPlorers can move through a cohesive journey.
+
+This section covers how collections are assembled, refined, released, and used across plantasia.space.

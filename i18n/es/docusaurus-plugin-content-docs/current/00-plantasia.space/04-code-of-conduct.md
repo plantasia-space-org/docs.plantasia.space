@@ -1,15 +1,10 @@
 ---
 title: Código de Conducta
+wrapperClassName: doc-wrapper-icon-release
+sidebar_position: 5
+sidebar_custom_props:
+  icon: HeartHandshake
 ---
-
-import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
-
-
-<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
-  <ReleaseIcon width={26} height={26} style={{color: 'currentColor'}} />
-  <span className="ps-mask" aria-hidden="true" />
-  <h1 style={{margin: 0}}>Código de conducta</h1>
-</div>
 (v1.0)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nX2mLIPh9Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

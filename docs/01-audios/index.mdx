@@ -1,16 +1,35 @@
 ---
 title: Overview
-hide_title: true
+wrapperClassName: doc-wrapper-icon-eye
+sidebar_position: 1
+sidebar_custom_props:
+  icon: EyeIcon
 ---
 
-import TrackIcon from '@site/static/img/symbols-12-25/track-current.svg';
-import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
+import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
+import { Pencil, Power } from 'lucide-react';
+import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 
-<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
-  <EyeIcon width={24} height={24} style={{color: 'currentColor'}} />
-  <TrackIcon width={28} height={28} style={{color: 'currentColor'}} />
-  <h1 style={{margin: 0}}>Overview</h1>
-</div>
+<NavigationGrid>
+  <NavigationCard 
+    href="/docs/audios/release"
+    label="Release"
+    icon={<ReleaseIcon style={{ width: 24, height: 24, fill: "currentColor" }} />}
+    description="Publish your audio to the void."
+  />
+  <NavigationCard 
+    href="/docs/audios/edit"
+    label="Edit"
+    icon={<Pencil />}
+    description="Refine presentation and context."
+  />
+  <NavigationCard 
+    href="/docs/audios/use"
+    label="Use"
+    icon={<Power />}
+    description="Usage and implementation details."
+  />
+</NavigationGrid>
 
 :::info Audios
 Audios are the base elements of regenerative music inside plantasia.space.

@@ -1,18 +1,37 @@
 ---
 title: Resumen
-hide_title: true
+wrapperClassName: doc-wrapper-icon-eye
+sidebar_position: 1
+sidebar_custom_props:
+  icon: EyeIcon
 ---
 
-import OrbiterIcon from '@site/static/img/symbols-12-25/orbiter-current.svg';
-import EyeIcon from '@site/static/img/symbols-12-25/eye.svg';
-
-<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
-  <EyeIcon width={24} height={24} style={{color: 'currentColor'}} />
-  <OrbiterIcon width={28} height={28} style={{color: 'currentColor'}} />
-  <h1 style={{margin: 0}}>Resumen</h1>
-</div>
+import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
+import { Pencil, Power } from 'lucide-react';
+import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 
 Los Orbitadores son instrumentos que se *tocan*.
+
+<NavigationGrid>
+  <NavigationCard 
+    href="/docs/orbiters/release"
+    label="Publicar"
+    icon={<ReleaseIcon style={{ width: 24, height: 24, fill: "currentColor" }} />}
+    description="Crea un nuevo orbiter."
+  />
+  <NavigationCard 
+    href="/docs/orbiters/edit"
+    label="Editar"
+    icon={<Pencil />}
+    description="Modifica tus instrumentos."
+  />
+  <NavigationCard 
+    href="/docs/orbiters/use"
+    label="Usar"
+    icon={<Power />}
+    description="Toca con Orbiters."
+  />
+</NavigationGrid>
 
 Transforman el sonido en tiempo real y permiten a lxs xPlorers explorar Audios dentro de Mundos Entrelazados mediante movimiento, gesto y modulación.
 

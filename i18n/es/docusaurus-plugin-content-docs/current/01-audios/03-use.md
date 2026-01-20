@@ -1,16 +1,10 @@
 ---
 title: Usar
-hide_title: true
+wrapperClassName: doc-wrapper-icon-use
+sidebar_position: 4
+sidebar_custom_props:
+  icon: Power
 ---
-
-import TrackIcon from '@site/static/img/symbols-12-25/track-current.svg';
-import PowerIcon from '@site/static/img/symbols-12-25/power.svg';
-
-<div style={{display: 'flex', alignItems: 'center', gap: '0.5rem', marginTop: '0.35rem', marginBottom: '1rem'}}>
-  <PowerIcon width={24} height={24} style={{color: 'currentColor'}} />
-  <TrackIcon width={28} height={28} style={{color: 'currentColor'}} />
-  <h1 style={{margin: 0}}>Usar</h1>
-</div>
 
 ## Usar Audios
 

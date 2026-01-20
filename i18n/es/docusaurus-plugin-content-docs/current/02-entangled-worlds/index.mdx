@@ -1,0 +1,46 @@
+---
+title: Resumen
+wrapperClassName: doc-wrapper-icon-eye
+sidebar_position: 1
+sidebar_custom_props:
+  icon: EyeIcon
+---
+
+import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
+import { Pencil, Power } from 'lucide-react';
+import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
+
+
+Los mundos entrelazados son representaciones artísticas de mundos físicos donde se colocan, exploran y transforman los sonidos publicados. Proveen el contexto espacial y sensorial para la música regenerativa en plantasia.space.
+
+<NavigationGrid>
+  <NavigationCard 
+    href="/docs/entangled-worlds/release"
+    label="Publicar"
+    icon={<ReleaseIcon style={{ width: 24, height: 24, fill: "currentColor" }} />}
+    description="Crea un nuevo mundo."
+  />
+  <NavigationCard 
+    href="/docs/entangled-worlds/edit"
+    label="Editar"
+    icon={<Pencil />}
+    description="Modifica la configuración del mundo."
+  />
+  <NavigationCard 
+    href="/docs/entangled-worlds/use"
+    label="Usar"
+    icon={<Power />}
+    description="Explora y habita mundos."
+  />
+</NavigationGrid>
+
+<video
+  className="ps-doc-video"
+  controls
+  poster="/img/video-placeholder.svg"
+>
+  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/01-overview-world.mp4" type="video/mp4" />
+  Tu navegador no soporta la etiqueta de video.
+</video>
+
+Usa esta sección para aprender cómo se publican, editan y utilizan los mundos.

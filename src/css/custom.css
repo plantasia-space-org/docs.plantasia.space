@@ -99,6 +99,59 @@ h3 {
   background-image: none !important;
 }
 
+
+
+/* Header Icons (derived from wrapperClassName) */
+[class*='doc-wrapper-icon-'] article h1:first-of-type {
+  display: flex !important;
+  align-items: center;
+}
+
+[class*='doc-wrapper-icon-'] article h1:first-of-type::before {
+  content: '';
+  display: inline-block;
+  width: 1.2em;
+  height: 1.2em;
+  margin-right: 0.5rem; /* Gap */
+  background-color: currentColor;
+  mask-size: contain;
+  mask-repeat: no-repeat;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+}
+
+.doc-wrapper-icon-question article h1:first-of-type::before {
+  mask-image: url("/img/circle-question-mark.svg");
+  -webkit-mask-image: url("/img/circle-question-mark.svg");
+}
+
+.doc-wrapper-icon-eye article h1:first-of-type::before {
+
+.doc-wrapper-icon-cookie article h1:first-of-type::before {
+  mask-image: url("/img/symbols-12-25/eye.svg");
+  -webkit-mask-image: url("/img/symbols-12-25/eye.svg");
+}
+  mask-image: url("/img/symbols-12-25/eye.svg");
+  -webkit-mask-image: url("/img/symbols-12-25/eye.svg");
+}
+
+.doc-wrapper-icon-release article h1:first-of-type::before {
+  mask-image: url("/img/symbols-12-25/release-current.svg");
+  -webkit-mask-image: url("/img/symbols-12-25/release-current.svg");
+}
+
+.doc-wrapper-icon-edit article h1:first-of-type::before {
+  mask-image: url("/img/pencil.svg");
+  -webkit-mask-image: url("/img/pencil.svg");
+}
+
+.doc-wrapper-icon-use article h1:first-of-type::before {
+  mask-image: url("/img/symbols-12-25/power.svg");
+  -webkit-mask-image: url("/img/symbols-12-25/power.svg");
+}
+
 .nav-xplorer.navbar__item {
   display: inline-flex;
   align-items: center;
@@ -268,4 +321,106 @@ ul li {
 /* Invert icons in dark mode */
 [data-theme='dark'] .invert-on-dark {
   filter: invert(1);
+}
+
+.sidebarItemWithIcon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.sidebarItemIcon {
+  width: 18px;
+  height: 18px;
+  flex-shrink: 0;
+  color: currentColor;
+  stroke: currentColor;
+}
+
+.sidebarItemIcon--plantasia,
+.sidebarItemIcon--plantasia svg,
+.sidebarItemIcon--plantasia * {
+  color: #fff;
+  stroke: #fff;
+  fill: #fff;
+}
+
+.menu__link [class*="linkLabel"],
+.menu__link [class*="categoryLinkLabel"] {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.navGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.navCard {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 1rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: var(--ifm-global-radius);
+  background: var(--ifm-card-background-color);
+  text-decoration: none;
+  color: inherit;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.navCard:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+}
+
+.navCardIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 0.75rem;
+  background: var(--ifm-color-primary);
+  color: var(--ifm-color-primary-contrast-foreground, #fff);
+  flex-shrink: 0;
+}
+
+.navCardIcon img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  filter: invert(1);
+}
+
+[data-theme='dark'] .navCardIcon img {
+  filter: invert(0);
+}
+
+.docTitleWithIcon {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.docTitleIcon {
+  width: 24px;
+  height: 24px;
+  color: currentColor;
+  stroke: currentColor;
+  flex-shrink: 0;
+}
+
+.navCardTitle {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+}
+
+.navCardDescription {
+  margin: 0;
+  color: var(--ifm-color-emphasis-700);
 }
