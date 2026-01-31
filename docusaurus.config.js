@@ -111,9 +111,16 @@ const config = {
             position: 'right',
           },
           {
+            href: 'https://discord.gg/JkKybrvqSN',
+            label: 'Discord',
+            position: 'right',
+            className: 'nav-discord',
+          },
+          {
             href: 'https://github.com/plantasia-space-org/docs.plantasia.space',
             label: 'GitHub',
             position: 'right',
+            className: 'nav-github',
           },
         ],
       },

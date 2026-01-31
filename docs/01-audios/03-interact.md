@@ -1,6 +1,6 @@
 ---
 title: Interact
-wrapperClassName: doc-wrapper-icon-use
+wrapperClassName: doc-wrapper-icon-interact
 sidebar_position: 4
 sidebar_custom_props:
   icon: Power
@@ -31,7 +31,7 @@ Looping allows focused listening and prepares the Audio for transformation.
 
 ## Exploring with Orbiters
 
-See [orbiters](/en/docs/orbiters/use) section for more details. 
+See [orbiters](/docs/orbiters/interact) section for more details. 
 
 Audios can be opened inside an Orbiter.
 

@@ -1,6 +1,6 @@
 ---
 title: Interact
-wrapperClassName: doc-wrapper-icon-use
+wrapperClassName: doc-wrapper-icon-interact
 sidebar_position: 4
 sidebar_custom_props:
   icon: Power

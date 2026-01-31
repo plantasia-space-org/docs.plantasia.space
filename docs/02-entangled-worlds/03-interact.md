@@ -1,14 +1,14 @@
 ---
 title: Interact
-wrapperClassName: doc-wrapper-icon-use
+wrapperClassName: doc-wrapper-icon-interact
 sidebar_position: 4
 sidebar_custom_props:
   icon: Power
 ---
 
-## Using Entangled Worlds
+## Interacting with Entangled Worlds
 
-At the moment, Entangled Worlds are primarily used through **Audios**.
+At the moment, Entangled Worlds are primarily interacted with through **Audios**.
 
 When you work with a track, you can select which Entangled World it belongs to. This selection defines the visual, narrative, and contextual space in which the Audio will be explored.
 
@@ -41,11 +41,11 @@ When listening to a track, you can move between these sections to experience dif
 
 As you navigate a track through an Entangled World, the world acts as a container for exploration rather than a static background.
 
-The visuals, narration, and world structure support a deeper listening experience and prepare the context for sound transformation using [Orbiters](/en/docs/orbiters/use).
+The visuals, narration, and world structure support a deeper listening experience and prepare the context for sound transformation using [Orbiters](/docs/orbiters/interact).
 
 ## Relationship with Orbiters
 
-See [Orbiters](/en/docs/orbiters/use) Section for more details. 
+See [Orbiters](/docs/orbiters/interact) Section for more details. 
 
 Orbiters are used to actively explore and transform sound inside Entangled Worlds.
 

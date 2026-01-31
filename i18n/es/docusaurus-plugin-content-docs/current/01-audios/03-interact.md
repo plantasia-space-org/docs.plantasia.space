@@ -1,12 +1,12 @@
 ---
-title: Usar
-wrapperClassName: doc-wrapper-icon-use
+title: Interactuar
+wrapperClassName: doc-wrapper-icon-interact
 sidebar_position: 4
 sidebar_custom_props:
   icon: Power
 ---
 
-## Usar Audios
+## Interactuar con Audios
 
 Puedes escuchar los Audios directamente en el reproductor normal ![Reproducir audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/play.png)
  o explorarlos mediante orbitadores ![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/orbiter-on.png)
@@ -27,7 +27,7 @@ El looping permite una escucha enfocada y prepara el Audio para transformaciones
 
 ## Explorar con orbitadores
 
-Ver sección [orbitadores](/es/docs/orbiters/use) para más detalles. 
+Ver sección [orbitadores](/docs/orbiters/interact) para más detalles. 
 
 Los Audios también pueden abrirse dentro de un orbitador.
 

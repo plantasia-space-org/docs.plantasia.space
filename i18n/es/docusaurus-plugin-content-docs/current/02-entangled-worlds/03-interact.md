@@ -1,12 +1,12 @@
 ---
-title: Usar
-wrapperClassName: doc-wrapper-icon-use
+title: Interactuar
+wrapperClassName: doc-wrapper-icon-interact
 sidebar_position: 4
 sidebar_custom_props:
   icon: Power
 ---
 
-## Usar Mundos Entrelazados
+## Interactuar con Mundos Entrelazados
 
 Por el momento, los Mundos Entrelazados se usan principalmente a través de **Audios**.
 
@@ -41,11 +41,11 @@ Al escuchar una pista, puedes moverte entre estas secciones para experimentar di
 
 Mientras navegas una pista dentro de un Mundo Entrelazado, el mundo actúa como un contenedor para la exploración, en lugar de un fondo estático.
 
-Los visuales, la narración y la estructura del mundo apoyan una experiencia de escucha más profunda y preparan el contexto para la transformación del sonido usando [Orbitadores](/es/docs/orbiters/use).
+Los visuales, la narración y la estructura del mundo apoyan una experiencia de escucha más profunda y preparan el contexto para la transformación del sonido usando [Orbitadores](/docs/orbiters/interact).
 
 ## Relación con Orbiters
 
-Consulta la sección de [Orbitadores](/es/docs/orbiters/use) para más detalles.
+Consulta la sección de [Orbitadores](/docs/orbiters/interact) para más detalles.
 
 Los Orbiters se usan para explorar y transformar activamente el sonido dentro de los Mundos Entrelazados.
 
@@ -53,7 +53,6 @@ Mientras el Mundo Entrelazado define el contexto, los Orbiters definen la intera
 
 ## Mirando hacia adelante
 
-En futuras versiones, los Mundos Entrelazados también se usarán dentro de **Colecciones**, incluidas colecciones mixtas que combinan múltiples mundos, Audios y [Orbiters](/es/docs/orbiters/use).
+En futuras versiones, los Mundos Entrelazados también se usarán dentro de **Colecciones**, incluidas colecciones mixtas que combinan múltiples mundos, Audios y [Orbiters](/docs/orbiters/interact).
 
 Esto permitirá que los mundos se experimenten no solo por pista, sino como parte de recorridos más largos y curados.
-

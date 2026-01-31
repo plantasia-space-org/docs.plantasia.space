@@ -1,12 +1,12 @@
 ---
-title: Usar
-wrapperClassName: doc-wrapper-icon-use
+title: Interactuar
+wrapperClassName: doc-wrapper-icon-interact
 sidebar_position: 4
 sidebar_custom_props:
   icon: Power
 ---
 
-![Orbiter en uso](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
+![Orbiter en interacción](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
 
 ## Abrir un Orbitador
 
