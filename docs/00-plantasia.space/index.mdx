@@ -1,0 +1,55 @@
+---
+title: Overview
+wrapperClassName: doc-wrapper-icon-eye
+sidebar_position: 0
+sidebar_custom_props:
+  icon: EyeIcon
+---
+
+import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
+import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie } from 'lucide-react';
+
+<NavigationGrid>
+  <NavigationCard
+    href="/docs/plantasia.space/introduction"
+    label="Introduction"
+    icon={<Eye />}
+    description="Start here for the vision and foundations."
+  />
+  <NavigationCard
+    href="/docs/plantasia.space/faq"
+    label="FAQ"
+    icon={<CircleHelp />}
+    description="Quick answers to common questions."
+  />
+  <NavigationCard
+    href="/docs/plantasia.space/glossary"
+    label="Glossary"
+    icon={<BookOpen />}
+    description="Key terms and definitions."
+  />
+  <NavigationCard
+    href="/docs/plantasia.space/rx"
+    label="Rx"
+    icon={<Scroll />}
+    description="Guidelines for regenerative practice."
+  />
+  <NavigationCard
+    href="/docs/plantasia.space/code-of-conduct"
+    label="Code of Conduct"
+    icon={<HeartHandshake />}
+    description="Community values and expectations."
+  />
+  <NavigationCard
+    href="/docs/plantasia.space/diagram"
+    label="Diagram"
+    icon={<Share2 />}
+    description="How the ecosystem is connected."
+  />
+  <NavigationCard
+    href="/docs/plantasia.space/cookie-guide"
+    label="Cookie Guide"
+    icon={<Cookie />}
+    description="Privacy and cookies explained."
+  />
+</NavigationGrid>
