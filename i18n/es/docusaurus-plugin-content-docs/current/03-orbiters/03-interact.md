@@ -6,8 +6,6 @@ sidebar_custom_props:
   icon: Power
 ---
 
-![Orbiter en interacción](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
-
 ## Abrir un Orbitador
 
 Accede a los Orbitadores desde el **Audio** que estás escuchando.

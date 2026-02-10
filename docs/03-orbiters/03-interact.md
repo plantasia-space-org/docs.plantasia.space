@@ -6,12 +6,6 @@ sidebar_custom_props:
   icon: Power
 ---
 
-:::warning Work in progress
-This page documents features that are still in development and will be available soon. Details may change as we continue building plantasia.space.
-:::
-
-![Orbiter in interaction](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
-
 ## Opening an Orbiter
 
 Orbiters are accessed through **Audios**.
