@@ -8,6 +8,7 @@ sidebar_custom_props:
 
 ## Frequently Asked Questions (FAQ)
 
+<div class="ps-faq">
 <details open>
   <summary>What is plantasia.space?</summary>
   <div>A world-building project and regenerative music platform where you can listen to, reshape, and remix releases in real time.</div>
@@ -92,3 +93,4 @@ sidebar_custom_props:
   <summary>Where can I read your policies?</summary>
   <div>Check the Privacy & Cookies Policy, Terms, and related legal pages in the Legal section.</div>
 </details>
+</div>

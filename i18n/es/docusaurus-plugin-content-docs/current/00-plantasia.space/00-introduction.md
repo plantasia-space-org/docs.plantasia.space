@@ -7,7 +7,9 @@ sidebar_custom_props:
   icon: EyeIcon
 ---
 
-plantasia.space es una plataforma de música regenerativa nacida del sueño de crear una **comunidad aural sin fronteras**. Es un proyecto iniciado por **𝐵𝓇𝓊𝓃𝒶 𝒢𝓊𝒶𝓇𝓃𝒾𝑒𝓇𝒾**, que lleva más de diez años cultivando esta visión, nutrida por su experiencia en colectivos como **Exoplanetas**, **Head Brothers** y **Aventuras Sonores**, donde la exploración del sonido, los mundos y la imaginación fue siempre un eje central.
+plantasia.space es una plataforma de música regenerativa nacida del sueño de crear una **comunidad aural sin fronteras**. Es un proyecto iniciado por **𝐵𝓇𝓊𝓃𝒶 𝒢𝓊𝒶𝓇𝓃𝒾𝑒𝓇𝒾**, que lleva más de diez años cultivando esta visión, nutrida por su experiencia en colectivos como **Exoplanetas**, **Head Brothers** y **Aventuras Sonoras**, donde la exploración del sonido, los mundos y la imaginación fue siempre un eje central.
+
+Junto a **Gabriel Vigliensoni**, artista electrónico, intérprete e investigador que trabaja en la intersección entre creación sonora y aprendizaje automático, plantasia.space se construye a partir de una colaboración de largo plazo iniciada en 2006. Su práctica compartida integra exploración artística, experimentación sonora e investigación avanzada en tecnología musical, dando forma a una visión donde la creación se encuentra con la innovación técnica.
 
 Aquí proponemos un *playground* para la escucha y la creación: un espacio donde cada xPlorer puede lanzar sonidos, publicarlos, colocarlos dentro de **mundos entrelazados** y transformarlos usando **orbiters**, herramientas que permiten jugar, explorar y regenerar el sonido en tiempo real. Cada audio se publica para que pueda escucharse, recrearse y tomar nuevas formas en manos de la comunidad.
 
@@ -18,5 +20,4 @@ Este proyecto invita a explorar juntxs, a crear y a regenerar mundos posibles a 
 > “Tratamos de oír el ambiente acústico como una composición musical y, más que eso, que tenemos responsabilidad en su conformación.”  
 > — R. Murray Schafer, *The Tuning of the World*
 
-> En honor a **Morton S. “Mort” Garson**, compositor, arreglista, autor y pionero de la música electrónica canadiense.  
-> Es reconocido por sus álbumes de las décadas de 1960 y 1970, como *Mother Earth's Plantasia*.— *Wikipedia*
+> En honor a **Morton S. “Mort” Garson**, compositor, arreglista, autor y pionero de la música electrónica canadiense, reconocido por sus álbumes de las décadas de 1960 y 1970 como *Mother Earth's Plantasia*.
