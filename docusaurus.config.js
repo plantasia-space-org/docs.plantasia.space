@@ -79,16 +79,7 @@ const config = {
     ],
   ],
   plugins: [
-    [
-      '@docusaurus/plugin-client-redirects',
-      {
-        createRedirects(path) {
-          // Add /en/* aliases for default-locale routes (avoid /en/es/*).
-          if (path.startsWith('/es/')) return undefined;
-          return [`/en${path}`];
-        },
-      },
-    ],
+    './src/plugins/en-redirect',
   ],
 
   // Theme configuration
