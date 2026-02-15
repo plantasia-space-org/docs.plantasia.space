@@ -1,7 +1,7 @@
 ---
 title: FAQ
 wrapperClassName: doc-wrapper-icon-question
-sidebar_position: 2
+sidebar_position: 20
 sidebar_custom_props:
   icon: CircleHelp
 ---

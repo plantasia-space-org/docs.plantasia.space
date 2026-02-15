@@ -2,7 +2,7 @@
 title: Welcome to plantasia.space
 sidebar_label: Introduction
 wrapperClassName: doc-wrapper-icon-eye
-sidebar_position: 1
+sidebar_position: 70
 sidebar_custom_props:
   icon: EyeIcon
 ---

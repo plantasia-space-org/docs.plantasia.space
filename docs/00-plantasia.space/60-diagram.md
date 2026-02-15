@@ -1,7 +1,7 @@
 ---
 title: Diagram
 wrapperClassName: doc-wrapper-icon-eye
-sidebar_position: 6
+sidebar_position: 60
 sidebar_custom_props:
   icon: Share2
 ---

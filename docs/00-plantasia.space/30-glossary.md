@@ -1,7 +1,7 @@
 ---
 title: Glossary
 wrapperClassName: doc-wrapper-icon-question
-sidebar_position: 3
+sidebar_position: 30
 sidebar_custom_props:
   icon: BookOpen
 ---
