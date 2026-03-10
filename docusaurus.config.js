@@ -10,13 +10,6 @@ const config = {
   tagline: 'Comprehensive Documentation',
   favicon: 'img/favico.ico',
 
-  scripts: [
-    {
-      src: 'https://www.googletagmanager.com/gtm.js?id=GTM-WWRLF6GT',
-      async: true,
-    },
-  ],
-
   // Production URL of your site
   url: 'https://docs.plantasia.space',
   // Base URL pathname
