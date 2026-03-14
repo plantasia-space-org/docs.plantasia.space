@@ -7,10 +7,10 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'plantasia.space',
+    title: 'Plantasia Space',
     titleId: 'homepage.features.plantasia.space',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
-    link: '/docs/plantasia.space/introduction',
+    link: '/docs/plantasia-space/introduction',
   },
   {
     title: 'Audios',

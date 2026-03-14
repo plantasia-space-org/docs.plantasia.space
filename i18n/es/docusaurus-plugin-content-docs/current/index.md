@@ -10,9 +10,9 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 <div className="container">
   <div className="row">
     <div className="col col--4 margin-bottom--lg">
-      <a className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" href={useBaseUrl('/docs/plantasia.space/introduction')} style={{ height: '100%', textAlign: 'center', display: 'block' }}>
-        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg" className="invert-on-dark" alt="plantasia.space" width="100" height="100" />
-        <h3 className="text--center">plantasia.space</h3>
+      <a className="card padding--lg cardContainer_node_modules-@docusaurus-theme-classic-lib-theme-DocCard-styles-module" href={useBaseUrl('/docs/plantasia-space/introduction')} style={{ height: '100%', textAlign: 'center', display: 'block' }}>
+        <img src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg" className="invert-on-dark" alt="Plantasia Space" width="100" height="100" />
+        <h3 className="text--center">Plantasia Space</h3>
       </a>
     </div>
     <div className="col col--4 margin-bottom--lg">

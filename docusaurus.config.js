@@ -6,7 +6,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'plantasia.space',
+  title: 'Plantasia Space',
   tagline: 'Comprehensive Documentation',
   favicon: 'img/favico.ico',
 

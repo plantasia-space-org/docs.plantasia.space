@@ -16,15 +16,15 @@ Explore the main sections through quick visual cards using our own symbols.
     icon={
       <img
         src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg"
-        alt="plantasia.space"
+        alt="Plantasia Space"
         width="32"
         height="32"
         className="invert-on-dark"
       />
     }
-    title="plantasia.space"
+    title="Plantasia Space"
     description=""
-    to="/docs/plantasia.space/introduction"
+    to="/docs/plantasia-space/introduction"
   />
   <NavigationCard
     icon={
