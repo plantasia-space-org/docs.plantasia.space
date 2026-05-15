@@ -1,0 +1,164 @@
+---
+title: About Stats
+wrapperClassName: doc-wrapper-icon-stats
+sidebar_position: 8
+sidebar_custom_props:
+  icon: BarChart2
+---
+
+import { Eye, Play, AlarmClockCheck, Heart, Star, MessageSquare, Layers, MapPinned, Power } from 'lucide-react';
+import TrackIcon from '@site/static/img/sidebar-icons/track.svg';
+import EntangledWorldIcon from '@site/static/img/sidebar-icons/entangled-world.svg';
+import OrbiterIcon from '@site/static/img/sidebar-icons/orbiter.svg';
+import CollectionIcon from '@site/static/img/sidebar-icons/collection.svg';
+
+export const EI = ({ children }) => (
+  <span style={{
+    display: 'inline-flex',
+    verticalAlign: 'middle',
+    marginRight: '8px',
+    position: 'relative',
+    top: '-2px',
+    color: 'var(--ifm-color-primary)',
+  }}>
+    {children}
+  </span>
+);
+
+# About Stats
+
+Every number you see on a track, world, orbiter, or collection in Plantasia Space has a specific meaning. This page explains what each stat counts, when it goes up, and how it stays accurate.
+
+## <EI><TrackIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Track stats
+
+### <EI><Play size={18} /></EI> Plays
+
+The number of times this track has been genuinely listened to.
+
+**When it goes up:** After about 30 seconds of listening. For tracks shorter than 30 seconds, the full track must play through to the end.
+
+**When it does not go up:** Opening the audio page, skipping past in a feed, pausing before the threshold, or the audio buffering without playing.
+
+**How it stays honest:** Each listening session counts once per track, even if you replay it in the same session.
+
+### <EI><AlarmClockCheck size={18} /></EI> Time played
+
+Total listening time across everyone who has played this track.
+
+**When it goes up:** Each time a qualifying play finishes, its listening duration is added to the total.
+
+**When it does not go up:** Plays that don't reach the threshold don't add any time. Hidden until the total exceeds one minute — you will never see `0 min`.
+
+**How it stays honest:** Each segment is capped so looping or abnormal speeds can't inflate the number. The same listening segment can't be counted twice.
+
+## <EI><EntangledWorldIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Entangled World stats
+
+### <EI><Eye size={18} /></EI> Views
+
+The number of times this world's page has been intentionally opened.
+
+**When it goes up:** When someone navigates to and opens the world page.
+
+**When it does not go up:** Seeing the world in a feed or card, opening an info panel inside an orbiter, or loading a world inside an orbiter without opening its own page.
+
+**How it stays honest:** Counted from distinct intentional navigation events, not passive renders.
+
+### <EI><MapPinned size={18} /></EI> Visits
+
+The number of sessions that actively spent time listening inside this world through an orbiter.
+
+**When it goes up:** When a listening session accumulates at least 30 seconds of listening to tracks inside this world through an orbiter. A single session counts as at most one visit, no matter how long it runs.
+
+**When it does not go up:** Opening the world page (that's a View), loading the world without playing anything, or sessions that total less than 30 seconds inside the world.
+
+**How it stays honest:** Each session counts once per world.
+
+### <EI><AlarmClockCheck size={18} /></EI> Time visited
+
+Total listening time accumulated inside this world across all orbiter sessions.
+
+**When it goes up:** Each qualifying segment of listening inside the world adds its duration to the total.
+
+**When it does not go up:** Passive loading without playback doesn't contribute. Hidden until the total exceeds one minute.
+
+**How it stays honest:** Same rules as Time played — capped per segment, no double-counting.
+
+## <EI><OrbiterIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Orbiter stats
+
+### <EI><Power size={18} /></EI> Uses
+
+The number of times this orbiter has been opened and fully loaded into an active session.
+
+**When it goes up:** Each time someone opens and loads this orbiter into a live session.
+
+**When it does not go up:** Embed renders that don't result in a resolved session, or sessions that fail to load.
+
+**How it stays honest:** Counted from resolved session-start events, not page loads or card previews.
+
+### <EI><AlarmClockCheck size={18} /></EI> Time used
+
+Total listening time that has played through this orbiter.
+
+**When it goes up:** Each qualifying segment of listening through this orbiter adds its duration to the total.
+
+**When it does not go up:** Time the orbiter is open but not playing doesn't count. Hidden until the total exceeds one minute.
+
+**How it stays honest:** Same rules as Time played — capped per segment, no double-counting.
+
+## <EI><CollectionIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Collection stats
+
+### <EI><Eye size={18} /></EI> Views
+
+The number of times this collection's page has been intentionally opened.
+
+**When it goes up:** When someone navigates to and opens the collection page.
+
+**When it does not go up:** Seeing the collection in a feed or card.
+
+**How it stays honest:** Counted from distinct intentional navigation events.
+
+### <EI><Layers size={18} /></EI> Items
+
+The current number of tracks visible in this collection.
+
+**When it goes up:** When new tracks are added to the collection.
+
+**When it does not go up:** Tracks that are hidden, removed, or pending moderation are not counted.
+
+**How it stays honest:** Reflects the current visible state, not historical additions.
+
+## Social stats
+
+These stats appear on all types of content and work the same way everywhere.
+
+### <EI><Heart size={18} /></EI> Hearts
+
+The total number of heart reactions on this item. Tap the heart to add yours.
+
+**When it goes up:** When someone adds a heart reaction.
+
+**When it does not go up:** Viewing, playing, or sharing does not count.
+
+**How it stays honest:** Removing a heart subtracts it immediately. Always reflects live state.
+
+### <EI><Star size={18} /></EI> Stars
+
+The total number of stars on this item. Stars are a way to save or highlight content you want to return to. Tap the star to add yours.
+
+**When it goes up:** When someone adds a star.
+
+**When it does not go up:** Viewing, playing, or sharing does not count.
+
+**How it stays honest:** Removing a star subtracts it immediately. Always reflects live state.
+
+### <EI><MessageSquare size={18} /></EI> Comments
+
+The total number of comments on this item. Tap the comment button to add yours.
+
+**When it goes up:** When someone adds a comment.
+
+**When it does not go up:** Viewing, playing, or sharing does not count.
+
+**How it stays honest:** Deleted comments are subtracted immediately. Always reflects live state.
+
+_Last updated: 2026-05-15_
