@@ -128,7 +128,7 @@ const CookieBanner = () => {
       <div className="cookie-content">
         <p>
           <Translate id="cookie.line1">
-            Do you know the similarities between a perfect garden and a jungle? Well, now think that plantasia.space is an organic software groWing in between.
+            Do you know the similarities between a perfect garden and a jungle? Well, now think that Plantasia Space is an organic software growing in between.
           </Translate>
         </p>
         <p>

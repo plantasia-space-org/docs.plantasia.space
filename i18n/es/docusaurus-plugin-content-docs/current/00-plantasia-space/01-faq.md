@@ -10,7 +10,7 @@ sidebar_custom_props:
 
 <div class="ps-faq">
 <details open>
-  <summary>¿Qué es plantasia.space?</summary>
+  <summary>¿Qué es Plantasia Space?</summary>
   <div>Un proyecto de construcción de mundos y una plataforma de música regenerativa donde podés escuchar, transformar y remezclar publicaciones en tiempo real.</div>
 </details>
 
@@ -66,7 +66,7 @@ sidebar_custom_props:
 
 <details>
   <summary>¿Qué licencias utilizan?</summary>
-  <div>Actualmente se utilizan licencias Creative Commons. Publicar bajo Creative Commons no significa ceder tus derechos de autor: seguís siendo titular de tu obra. Al publicar, otorgás a plantasia.space una licencia limitada para alojar y mostrar tu contenido, y otorgás al público los permisos definidos por la licencia Creative Commons seleccionada (por ejemplo, la remezcla bajo sus términos).</div>
+  <div>Actualmente se utilizan licencias Creative Commons. Publicar bajo Creative Commons no significa ceder tus derechos de autor: seguís siendo titular de tu obra. Al publicar, otorgás a Plantasia Space una licencia limitada para alojar y mostrar tu contenido, y otorgás al público los permisos definidos por la licencia Creative Commons seleccionada (por ejemplo, la remezcla bajo sus términos).</div>
 </details>
 
 <details>
@@ -81,7 +81,7 @@ sidebar_custom_props:
 
 <details>
   <summary>¿Se usan mis audios para entrenar modelos de IA?</summary>
-  <div>No. Los audios publicados en plantasia.space no se utilizan para entrenar modelos de IA, machine learning ni para el desarrollo de modelos. Actualmente la plataforma no solicita ni gestiona consentimiento para entrenamiento de IA porque no se están entrenando modelos. Si esto cambiara en el futuro, se te informaría claramente y se te pediría tu consentimiento explícito antes de cualquier uso de este tipo.</div>
+  <div>No. Los audios publicados en Plantasia Space no se utilizan para entrenar modelos de IA, machine learning ni para el desarrollo de modelos. Actualmente la plataforma no solicita ni gestiona consentimiento para entrenamiento de IA porque no se están entrenando modelos. Si esto cambiara en el futuro, se te informaría claramente y se te pediría tu consentimiento explícito antes de cualquier uso de este tipo.</div>
 </details>
 
 <details>

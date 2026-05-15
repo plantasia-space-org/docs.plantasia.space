@@ -1,6 +1,6 @@
 {
   "cookie.line1": {
-    "message": "¿Sabes las similitudes entre un jardín perfecto y una selva? Bueno, ahora piensa que plantasia.space es un software orgánico que crecE en el medio."
+    "message": "¿Sabes las similitudes entre un jardín perfecto y una selva? Bueno, ahora piensa que Plantasia Space es un software orgánico que crece en el medio."
   },
   "cookie.moreInfo": {
     "message": "Más información"
@@ -389,9 +389,9 @@
     "message": "Documentación Completa",
     "description": "The description of the site"
   },
-  "homepage.features.plantasia.space": {
-    "message": "plantasia.space",
-    "description": "Homepage feature: plantasia.space"
+  "homepage.features.plantasia_space": {
+    "message": "Plantasia Space",
+    "description": "Homepage feature: Plantasia Space"
   },
   "homepage.features.audios": {
     "message": "Audios",

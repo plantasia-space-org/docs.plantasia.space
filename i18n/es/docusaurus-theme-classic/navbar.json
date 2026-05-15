@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "plantasia.space Docs",
+    "message": "Plantasia Space Docs",
     "description": "The title in the navbar"
   },
   "logo.alt": {
-    "message": "plantasia.space Logo",
+    "message": "Plantasia Space Logo",
     "description": "The alt text of navbar logo"
   },
   "item.label.xPlorer Guide": {

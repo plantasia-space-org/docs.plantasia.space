@@ -28,7 +28,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/plantasia-space-org/docs.plantasia.space"
   },
   "copyright": {
-    "message": "Copyright © 2025 plantasia.space Docs.",
+    "message": "Copyright © 2025 Plantasia Space Docs.",
     "description": "The footer copyright"
   }
 }

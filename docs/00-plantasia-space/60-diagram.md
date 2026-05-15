@@ -6,12 +6,12 @@ sidebar_custom_props:
   icon: Share2
 ---
 
-A simple map of how creative elements connect inside plantasia.space.
+A simple map of how creative elements connect inside Plantasia Space.
 
 ```
-plantasia.space docs
+Plantasia Space docs
 │
-├── plantasia.space
+├── Plantasia Space
 │   ├── Introduction
 │   ├── FAQ
 │   ├── Glossary

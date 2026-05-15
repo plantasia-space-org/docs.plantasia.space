@@ -12,13 +12,13 @@ sidebar_custom_props:
 
 # Intro
 
-Bienvenidx a la comunidad de plantasia.space: un espacio para la música, el paisaje, la creación y la colaboración. Este Código de Conducta une el espíritu de plantasia.space con los principios del [Berlin Code of Conduct](https://berlincodeofconduct.org/en). Existe para garantizar un entorno respetuoso, inclusivo y seguro para todas las personas miembros, colaboradoras, participantes y aliadas.
+Bienvenidx a la comunidad de Plantasia Space: un espacio para la música, el paisaje, la creación y la colaboración. Este Código de Conducta une el espíritu de Plantasia Space con los principios del [Berlin Code of Conduct](https://berlincodeofconduct.org/en). Existe para garantizar un entorno respetuoso, inclusivo y seguro para todas las personas miembros, colaboradoras, participantes y aliadas.
 
 ## **Propósito**
 
 Nuestro objetivo es ser lo más inclusivas posible, acogiendo a personas de todos los orígenes, identidades y capacidades. Nos comprometemos a ofrecer un entorno amable, seguro y acogedor, independientemente de género, identidad o expresión de género, orientación sexual, discapacidad, apariencia física, tamaño corporal, etnia, nacionalidad, situación socioeconómica, edad o religión (o ausencia de ella).
 
-Este documento define nuestras expectativas para todas las personas que participan en plantasia.space, así como las consecuencias ante conductas inaceptables.
+Este documento define nuestras expectativas para todas las personas que participan en Plantasia Space, así como las consecuencias ante conductas inaceptables.
 
 ## **Ciudadanía Abierta**
 
@@ -80,7 +80,7 @@ Los errores son parte esencial de la creatividad y de la vida. Aplicamos un sist
 
 # Conductas Inaceptables
 
-Las siguientes conductas no son aceptadas en los espacios de plantasia.space, tanto online como presenciales:
+Las siguientes conductas no son aceptadas en los espacios de Plantasia Space, tanto online como presenciales:
 
 - Hablar o actuar de forma intimidante, abusiva, humillante, violenta o degradante  
 - Discriminación o comentarios prejuiciosos relacionados con género, identidad o expresión de género, edad, orientación sexual, raza, etnia, religión, creencias, discapacidad u otra característica personal  
@@ -105,12 +105,12 @@ Si consideras que has sido acusada/o/ de forma injusta, contacta a la organizaci
 
 ## **Alcance**
 
-Este Código se aplica a todos los espacios de la comunidad: online, presenciales, en eventos, talleres y en comunicaciones uno a uno relacionadas con plantasia.space.
+Este Código se aplica a todos los espacios de la comunidad: online, presenciales, en eventos, talleres y en comunicaciones uno a uno relacionadas con Plantasia Space.
 
 ## **Outro**
 
-Este Código de Conducta preserva la integridad, creatividad y espíritu de plantasia.space. Tu compromiso garantiza que nuestra comunidad siga siendo armoniosa, inclusiva, regenerativa y llena de amor.
+Este Código de Conducta preserva la integridad, creatividad y espíritu de Plantasia Space. Tu compromiso garantiza que nuestra comunidad siga siendo armoniosa, inclusiva, regenerativa y llena de amor.
 
 ## **Licencia y Atribución**
 
-Basado en el [Berlin Code](https://berlincodeofconduct.org/en) of Conduct (CC BY-SA 4.0) y en el Código de Conducta de plantasia.space.
+Basado en el [Berlin Code](https://berlincodeofconduct.org/en) of Conduct (CC BY-SA 4.0) y en el Código de Conducta de Plantasia Space.

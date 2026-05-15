@@ -20,8 +20,8 @@
     "description": "The generated-index page description for category Ent Cards in sidebar xplorerGuidesSidebar"
   },
   "sidebar.xplorerGuidesSidebar.category.plantasia.space": {
-    "message": "plantasia.space",
-    "description": "The label for category plantasia.space in sidebar xplorerGuidesSidebar"
+    "message": "Plantasia Space",
+    "description": "The label for category Plantasia Space in sidebar xplorerGuidesSidebar"
   },
   "sidebar.xplorerGuidesSidebar.category.plantasia.space.link.generated-index.description": {
     "message": "Learn more.",

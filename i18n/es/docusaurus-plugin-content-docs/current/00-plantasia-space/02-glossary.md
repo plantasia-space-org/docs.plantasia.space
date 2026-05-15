@@ -66,5 +66,5 @@ Depende de la relación entre quien escucha y el ambiente, y puede referirse tan
 <a href="https://www.sfu.ca/sonic-studio-webdav/handbook/Soundscape.html" target="_blank">Truax – Handbook for Acoustic Ecology</a>
 
 
-### plantasia.space
-plantasia.space es una plataforma diseñada para música regenerativa — sonidos publicados con la intención de que el público pueda escucharlos, recrearlos y transformarlos en nuevas formas. Dentro de plantasia.space podés publicar sonidos, colocarlos dentro de **mundos entrelazados** — representaciones artísticas de mundos físicos — y usar **orbiters** — naves que transforman el sonido de diferentes maneras — para explorar y regenerar esos sonidos, fomentando la interacción lúdica y la exploración sensorial saludable.
+### Plantasia Space
+Plantasia Space es una plataforma diseñada para música regenerativa — sonidos publicados con la intención de que el público pueda escucharlos, recrearlos y transformarlos en nuevas formas. Dentro de Plantasia Space podés publicar sonidos, colocarlos dentro de **mundos entrelazados** — representaciones artísticas de mundos físicos — y usar **orbiters** — naves que transforman el sonido de diferentes maneras — para explorar y regenerar esos sonidos, fomentando la interacción lúdica y la exploración sensorial saludable.

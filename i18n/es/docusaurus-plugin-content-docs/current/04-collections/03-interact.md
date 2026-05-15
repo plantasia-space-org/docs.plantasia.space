@@ -7,5 +7,5 @@ sidebar_custom_props:
 ---
 
 :::warning En progreso
-Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo plantasia.space.
+Esta página describe funciones que aún están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo Plantasia Space.
 :::

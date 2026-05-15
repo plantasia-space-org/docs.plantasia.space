@@ -12,17 +12,17 @@ sidebar_custom_props:
 
 # Intro
 
-Welcome to the plantasia.space community: a space for music, landscape, creation, and collaboration. This Code of Conduct merges the spirit of plantasia.space with the principles of the [Berlin Code of Conduct](https://berlincodeofconduct.org/en). It exists to ensure a respectful, inclusive, and safe environment for all members, staff, contributors, and partners.
+Welcome to the Plantasia Space community: a space for music, landscape, creation, and collaboration. This Code of Conduct merges the spirit of Plantasia Space with the principles of the [Berlin Code of Conduct](https://berlincodeofconduct.org/en). It exists to ensure a respectful, inclusive, and safe environment for all members, staff, contributors, and partners.
 
 ## **Purpose**
 
 Our goal is to be as inclusive as possible, welcoming people from all backgrounds, identities, and abilities. We are committed to providing a friendly, safe, and welcoming environment regardless of gender, gender identity or expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, socioeconomic status, age, or religion (or lack thereof).
 
-This document outlines our expectations for everyone who participates in plantasia.space, as well as the consequences for unacceptable behavior.
+This document outlines our expectations for everyone who participates in Plantasia Space, as well as the consequences for unacceptable behavior.
 
 ## **Open Citizenship**
 
-We encourage everyone to recognize how their actions affect others. plantasia.space aims to counteract inequality, discrimination, and abuses of power. Positive action is essential.
+We encourage everyone to recognize how their actions affect others. Plantasia Space aims to counteract inequality, discrimination, and abuses of power. Positive action is essential.
 
 If you notice someone making an extra effort to ensure that the community is welcoming and accessible, we want to know.
 
@@ -80,7 +80,7 @@ We learn together through a simple three-step system: yellow signals the first i
 
 # Unacceptable Behavior
 
-The following behaviors are not accepted in plantasia.space spaces, online or offline:
+The following behaviors are not accepted in Plantasia Space spaces, online or offline:
 
 * Intimidating, abusive, bullying, derogatory, or demeaning speech or actions
 
@@ -110,12 +110,12 @@ If you feel you were unfairly accused of violating the Code of Conduct, contact 
 
 ## **Scope**
 
-This Code applies to all community spaces—online, offline, at events, in workshops, and in one-on-one communications related to plantasia.space.
+This Code applies to all community spaces—online, offline, at events, in workshops, and in one-on-one communications related to Plantasia Space.
 
 ## **Outro**
 
-This Code of Conduct preserves the integrity, creativity, and spirit of plantasia.space. Your commitment ensures that our community remains harmonious, inclusive, regenerative, and full of love.
+This Code of Conduct preserves the integrity, creativity, and spirit of Plantasia Space. Your commitment ensures that our community remains harmonious, inclusive, regenerative, and full of love.
 
 ## **License and Attribution**
 
-Based on the [Berlin Code of Conduct](https://berlincodeofconduct.org/en) (CC BY-SA 4.0) and the plantasia.space Code of Conduct.
+Based on the [Berlin Code of Conduct](https://berlincodeofconduct.org/en) (CC BY-SA 4.0) and the Plantasia Space Code of Conduct.

@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Plantasia Space',
-    titleId: 'homepage.features.plantasia.space',
+    titleId: 'homepage.features.plantasia_space',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
     link: '/docs/plantasia-space/introduction',
   },

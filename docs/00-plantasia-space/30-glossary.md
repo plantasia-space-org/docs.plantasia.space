@@ -49,8 +49,8 @@ An initiative exploring the intersection of digital and physical worlds through 
 Orbiters form a global network of intelligent music tools that use algorithmic approaches to support listening and creation, allowing users to shape their sound in new ways. These tools are designed to be accessible regardless of musical training and aim to reactivate auditory awareness while expanding the possibilities of musical exploration.
 
 
-### plantasia.space
-plantasia.space is a platform designed for regenerative music — sounds published with the intention that audiences can listen to, recreate, and transform them into new forms. Inside plantasia.space, you can publish sounds, place them inside entangled worlds — artistic representations of physical worlds — and use orbiters — spaceships that transform sound in different ways — to explore and regenerate those sounds, encouraging playful interaction and healthy sensory exploration.
+### Plantasia Space
+Plantasia Space is a platform designed for regenerative music — sounds published with the intention that audiences can listen to, recreate, and transform them into new forms. Inside Plantasia Space, you can publish sounds, place them inside entangled worlds — artistic representations of physical worlds — and use orbiters — spaceships that transform sound in different ways — to explore and regenerate those sounds, encouraging playful interaction and healthy sensory exploration.
 
 
 ### Regenerative Music

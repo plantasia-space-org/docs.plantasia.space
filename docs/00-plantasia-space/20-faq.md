@@ -10,7 +10,7 @@ sidebar_custom_props:
 
 <div class="ps-faq">
 <details open>
-  <summary>What is plantasia.space?</summary>
+  <summary>What is Plantasia Space?</summary>
   <div>A world-building project and regenerative music platform where you can listen to, reshape, and remix releases in real time.</div>
 </details>
 
@@ -66,7 +66,7 @@ sidebar_custom_props:
 
 <details>
   <summary>What licenses are used?</summary>
-  <div>We currently use Creative Commons licenses. Publishing under Creative Commons does not mean giving up your copyright: you remain the rights holder. By publishing, you grant plantasia.space a limited license to host and display your content, and you grant the public the permissions defined by the selected Creative Commons license (for example, remixing under its terms).</div>
+  <div>We currently use Creative Commons licenses. Publishing under Creative Commons does not mean giving up your copyright: you remain the rights holder. By publishing, you grant Plantasia Space a limited license to host and display your content, and you grant the public the permissions defined by the selected Creative Commons license (for example, remixing under its terms).</div>
 </details>
 
 <details>
@@ -81,7 +81,7 @@ sidebar_custom_props:
 
 <details>
   <summary>Are my audios used to train AI models?</summary>
-  <div>No. Audios published on plantasia.space are not used for AI training, machine learning, or model development. The platform does not currently request or collect consent for AI training because no models are being trained. If this were to change in the future, you would be clearly informed and asked for explicit consent before any such use.</div>
+  <div>No. Audios published on Plantasia Space are not used for AI training, machine learning, or model development. The platform does not currently request or collect consent for AI training because no models are being trained. If this were to change in the future, you would be clearly informed and asked for explicit consent before any such use.</div>
 </details>
 
 <details>
