@@ -502,3 +502,46 @@ ul li {
   margin: 0;
   color: var(--ifm-color-emphasis-700);
 }
+
+/* Copy as Markdown button */
+.copy-markdown-btn-wrapper {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1.25rem;
+}
+
+.copy-markdown-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.3rem 0.65rem;
+  font-size: 0.73rem;
+  font-family: inherit;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.4rem;
+  background: transparent;
+  color: var(--ifm-color-emphasis-600);
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+  line-height: 1;
+}
+
+.copy-markdown-btn:hover:not(:disabled) {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+}
+
+.copy-markdown-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.copy-markdown-btn--copied {
+  border-color: var(--ifm-color-success);
+  color: var(--ifm-color-success);
+}
+
+.copy-markdown-btn--error {
+  border-color: var(--ifm-color-danger);
+  color: var(--ifm-color-danger);
+}

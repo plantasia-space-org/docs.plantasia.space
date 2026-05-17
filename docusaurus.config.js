@@ -73,6 +73,7 @@ const config = {
   ],
   plugins: [
     './src/plugins/en-redirect',
+    './src/plugins/raw-markdown',
   ],
 
   // Theme configuration

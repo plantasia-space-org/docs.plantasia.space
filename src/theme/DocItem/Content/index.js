@@ -5,6 +5,7 @@ import { useDoc } from '@docusaurus/plugin-content-docs/client';
 import Heading from '@theme/Heading';
 import MDXContent from '@theme/MDXContent';
 import { resolveIcon } from '../../utils/iconResolver';
+import CopyMarkdownButton from '@site/src/components/CopyMarkdownButton';
 
 export default function DocItemContent({ children }) {
   const { metadata, frontMatter, contentTitle } = useDoc();
@@ -34,6 +35,11 @@ export default function DocItemContent({ children }) {
             <span>{metadata?.title}</span>
           </Heading>
         </header>
+      )}
+      {metadata.id !== 'index' && (
+        <div className="copy-markdown-btn-wrapper">
+          <CopyMarkdownButton />
+        </div>
       )}
       <MDXContent>{children}</MDXContent>
     </div>
