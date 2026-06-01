@@ -393,20 +393,40 @@
     "message": "Plantasia Space",
     "description": "Homepage feature: Plantasia Space"
   },
+  "homepage.features.plantasia_space.description": {
+    "message": "Empieza por la plataforma: su visión, sus conceptos clave y cómo encaja todo.",
+    "description": "Homepage feature subtitle: Plantasia Space"
+  },
   "homepage.features.audios": {
     "message": "Audios",
     "description": "Homepage feature: Audios"
+  },
+  "homepage.features.audios.description": {
+    "message": "Publica, edita e interactúa con tus pistas y paisajes sonoros.",
+    "description": "Homepage feature subtitle: Audios"
   },
   "homepage.features.entangled-worlds": {
     "message": "Mundos Entrelazados",
     "description": "Homepage feature: Entangled Worlds"
   },
+  "homepage.features.entangled-worlds.description": {
+    "message": "Publica, edita y explora mundos inmersivos e interactivos.",
+    "description": "Homepage feature subtitle: Entangled Worlds"
+  },
   "homepage.features.orbiters": {
     "message": "Orbitadores",
     "description": "Homepage feature: Orbiters"
   },
+  "homepage.features.orbiters.description": {
+    "message": "Publica, edita e interactúa con Orbitadores en todo el ecosistema.",
+    "description": "Homepage feature subtitle: Orbiters"
+  },
   "homepage.features.collections": {
     "message": "Colecciones",
     "description": "Homepage feature: Collections"
+  },
+  "homepage.features.collections.description": {
+    "message": "Agrupa tus pistas, mundos y orbitadores en colecciones seleccionadas.",
+    "description": "Homepage feature subtitle: Collections"
   }
 }

@@ -21,7 +21,7 @@ h3 {
   --ifm-background-color: #ffffff;
   --ifm-background-surface-color: #ffffff;
   /* Header: own knobs, matches the page background (light bg -> light header) */
-  --ps-header-bg: #ffffff;
+  --ps-header-bg: #f3f3f6;
   --ps-header-text: #000000;
   --ifm-navbar-background-color: var(--ps-header-bg);
   --ifm-navbar-link-color: var(--ps-header-text);
@@ -83,8 +83,14 @@ h3 {
   --ifm-footer-title-color: var(--ps-footer-text);
 }
 .footer--dark {
+  /* Infima's .footer--dark hardcodes white titles + light-grey links here,
+     overriding the :root values. Re-point them at our token so the footer
+     follows --ps-footer-text in both themes (dark text on light bg). */
   --ifm-footer-background-color: var(--ps-footer-bg);
   --ifm-footer-color: var(--ps-footer-text);
+  --ifm-footer-link-color: var(--ps-footer-text);
+  --ifm-footer-link-hover-color: var(--ps-footer-text);
+  --ifm-footer-title-color: var(--ps-footer-text);
 }
 
 /* Custom Search Icon - Telescope */

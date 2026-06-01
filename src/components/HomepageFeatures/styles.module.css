@@ -1,22 +1,55 @@
 .features {
   display: flex;
   align-items: center;
-  padding: 2rem 0;
+  padding: 3rem 0;
   width: 100%;
 }
 
 .featuresList {
   display: flex;
   flex-direction: column;
+  align-items: center;
   gap: 2rem;
   width: 100%;
 }
 
-.featureItem {
-  width: 100%;
+/* Clickable card: surface panel with icon, title and subtitle, lifts on hover. */
+.featureCard {
+  display: block;
+  width: min(100%, 640px);
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  background: var(--ifm-background-surface-color, #fff);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+  text-align: center;
+  color: inherit;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.featureCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 18px 32px rgba(0, 0, 0, 0.12);
+  color: inherit;
+  text-decoration: none;
+}
+
+.featureIcon {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
 }
 
 .featureSvg {
-  height: 200px;
-  width: 200px;
+  height: 96px;
+  width: 96px;
+}
+
+.featureTitle {
+  margin-bottom: 0.75rem;
+}
+
+.featureDescription {
+  margin-bottom: 0;
+  color: var(--ifm-color-emphasis-700);
 }
