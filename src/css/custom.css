@@ -8,7 +8,7 @@
 h1,
 h2,
 h3 {
-  font-family: 'Orbit', sans-serif;
+  font-family: 'Lato', sans-serif;
   font-weight: 600; /* Regular weight */
   font-style: bold;
 }
@@ -17,14 +17,22 @@ h3 {
 :root {
   --ifm-font-family-base: 'Lato', sans-serif;
   --ifm-color-primary: #000000;
-  --ifm-color-primary-dark: #ff3370;
-  --ifm-color-primary-darker: #ff3370;
-  --ifm-color-primary-darkest: #ff3370;
-  --ifm-color-primary-light: #ff3370;
-  --ifm-color-primary-lighter: #ff3370;
-  --ifm-color-primary-lightest: #ff3370;
+
   --ifm-background-color: #ffffff;
   --ifm-background-surface-color: #ffffff;
+  /* Header: own knobs, matches the page background (light bg -> light header) */
+  --ps-header-bg: #ffffff;
+  --ps-header-text: #000000;
+  --ifm-navbar-background-color: var(--ps-header-bg);
+  --ifm-navbar-link-color: var(--ps-header-text);
+  --ifm-navbar-link-hover-color: var(--ps-header-text);
+  /* Footer: own knobs (background + text) */
+  --ps-footer-bg: #f3f3f6;
+  --ps-footer-text: #1d1d20;
+  --ifm-footer-background-color: var(--ps-footer-bg);
+  --ifm-footer-color: var(--ps-footer-text);
+  --ifm-footer-link-color: var(--ps-footer-text);
+  --ifm-footer-title-color: var(--ps-footer-text);
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
@@ -56,21 +64,27 @@ h3 {
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
   --ifm-color-primary: #ffffff;
-  --ifm-color-primary-dark: #33b1ff;
-  --ifm-color-primary-darker: #33b1ff;
-  --ifm-color-primary-darkest: #33b1ff;
-  --ifm-color-primary-light: #33b1ff;
-  --ifm-color-primary-lighter: #33b1ff;
-  --ifm-color-primary-lightest: #33b1ff;
+
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
   --ifm-background-color: #000000 !important;
-  --ifm-footer-background-color: #ff3370 !important;
   --ifm-background-surface-color: #000000 !important;
-
+  /* Header: matches the page background (dark bg -> dark header) */
+  --ps-header-bg: #000000;
+  --ps-header-text: #f3f3f6;  
+  --ifm-navbar-background-color: var(--ps-header-bg);
+  --ifm-navbar-link-color: var(--ps-header-text);
+  --ifm-navbar-link-hover-color: var(--ps-header-text);
+  /* Footer: own knobs (background + text) */
+  --ps-footer-bg: #1d1d20;
+  --ps-footer-text: #f3f3f6;
+  --ifm-footer-background-color: var(--ps-footer-bg);
+  --ifm-footer-color: var(--ps-footer-text);
+  --ifm-footer-link-color: var(--ps-footer-text);
+  --ifm-footer-title-color: var(--ps-footer-text);
 }
 .footer--dark {
-  --ifm-footer-background-color: #ff3370;
-  --ifm-footer-color: var(--ifm-footer-link-color);
+  --ifm-footer-background-color: var(--ps-footer-bg);
+  --ifm-footer-color: var(--ps-footer-text);
 }
 
 /* Custom Search Icon - Telescope */
@@ -290,8 +304,8 @@ h3 {
 }
 
 .footer {
-  background-color: #020202;
-  color: var(--ifm-footer-color);
+  background-color: var(--ps-footer-bg);
+  color: var(--ps-footer-text);
   padding: var(--ifm-footer-padding-vertical) var(--ifm-footer-padding-horizontal);
 }
 
@@ -417,12 +431,14 @@ ul li {
   stroke: currentColor;
 }
 
+/* Plantasia logo is a filled mark — follow the sidebar text color so it
+   stays visible in both themes (dark on light bg, white on dark bg). */
 .sidebarItemIcon--plantasia,
 .sidebarItemIcon--plantasia svg,
 .sidebarItemIcon--plantasia * {
-  color: #fff;
-  stroke: #fff;
-  fill: #fff;
+  color: currentColor;
+  stroke: currentColor;
+  fill: currentColor;
 }
 
 .menu__link [class*="linkLabel"],
