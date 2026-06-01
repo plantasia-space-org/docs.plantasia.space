@@ -1,0 +1,20 @@
+# Local HTTPS reverse proxy for docs.plantasia.space development.
+# Serves the Docusaurus dev server (HTTP, localhost:3014) over HTTPS on the
+# shared local.plantasia.space origin, so it no longer trips Chrome's HSTS
+# auto-upgrade and shares cookies/origin with the rest of the stack.
+#
+# admin off: avoids colliding with the other Caddy instances (root :3000,
+# dev-docs :3001) on the shared admin endpoint :2019.
+
+{
+	admin off
+}
+
+https://local.plantasia.space:3004 {
+	# Rewrite the upstream Host to localhost so webpack-dev-server's
+	# allowedHosts check passes (it only trusts localhost by default).
+	reverse_proxy localhost:3014 {
+		header_up Host localhost:3014
+	}
+	tls .certs/local.plantasia.space.pem .certs/local.plantasia.space-key.pem
+}

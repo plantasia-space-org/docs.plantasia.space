@@ -20,3 +20,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local mkcert TLS certs for Caddy HTTPS dev proxy — NEVER commit (contains private key)
+.certs/
+
+# Agent skills system — kept local until validated; do not publish to this public repo
+.agents/
+/AGENTS.md
+/CLAUDE.md
