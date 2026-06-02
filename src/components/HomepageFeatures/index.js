@@ -12,7 +12,7 @@ const FeatureList = [
     description: 'Get started with the platform — its vision, core concepts, and how everything connects.',
     descriptionId: 'homepage.features.plantasia_space.description',
     image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
-    link: '/docs/plantasia-space/introduction',
+    link: '/docs/plantasia-space/',
   },
   {
     title: 'Audios',
@@ -56,6 +56,9 @@ function Feature({ image, title, titleId, description, descriptionId, link }) {
           src={image}
           className={clsx(styles.featureSvg, 'invert-on-dark')}
           alt={translate({message: title, id: titleId})}
+          width="96"
+          height="96"
+          loading="lazy"
         />
       </div>
       <div className={styles.featureContent}>

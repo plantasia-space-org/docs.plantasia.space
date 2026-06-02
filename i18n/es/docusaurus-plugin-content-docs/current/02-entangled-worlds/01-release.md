@@ -10,7 +10,7 @@ sidebar_custom_props:
 Esta página documenta funciones que todavía están en desarrollo y estarán disponibles pronto. Los detalles pueden cambiar mientras seguimos construyendo Plantasia Space.
 :::
 
-## Por dónde empezar
+### Por dónde empezar
 
 Ve a **Release → New Entangled World**.
 
@@ -21,9 +21,9 @@ Según tu tipo de usuario, puedes crear un número limitado de Mundos Entrelazad
 
 Lanzar un mundo abre un formulario de varios pasos.
 
-# PASO 1
+## PASO 1
 
-## 1) Elegir un exoplaneta
+### 1) Elegir un exoplaneta
 
 Empieza seleccionando un exoplaneta real con el que entrelazar tu mundo.
 
@@ -45,14 +45,14 @@ Puedes cambiar el exoplaneta seleccionado más adelante.
 </video>
 
 
-## Datos del exoplaneta
+### Datos del exoplaneta
 
 Al expandir el panel de información, puedes ver medidas astronómicas y físicas de la base de datos actual de exoplanetas.
 
 Por el momento, estos datos afectan principalmente al comportamiento del Cosmic LFO dentro de los Orbiters. Elegir un planeta es sobre todo una decisión artística y simbólica.
 
 
-## 2) Nombra tu mundo
+### 2) Nombra tu mundo
 
 Define un nombre para tu Mundo Entrelazado.
 
@@ -73,7 +73,7 @@ El nombre generado se puede editar más adelante.
   Tu navegador no soporta la etiqueta de vídeo.
 </video>
 
-## 3) Elementales de worldbuilding
+### 3) Elementales de worldbuilding
 
 Los Elementales de Worldbuilding definen la identidad de tu mundo.
 
@@ -102,7 +102,7 @@ Estos valores se usan después para generar visuales y narración.
   Tu navegador no soporta la etiqueta de vídeo.
 </video>
 
-## 4) Matriz Elemental
+### 4) Matriz Elemental
 
 La Matriz Elemental sitúa tu mundo entre **agua, fuego, tierra y aire**.
 
@@ -115,13 +115,13 @@ Esto influye en la generación visual y crea seis secciones del mundo:
 - Sociedad
 - ADN
 
-## Guardar borrador o continuar
+### Guardar borrador o continuar
 
 Después de completar el primer paso, puedes guardar el mundo como borrador o continuar al siguiente paso.
 
-# PASO 2
+## PASO 2
 
-## 5) Generación de textura del planeta
+### 5) Generación de textura del planeta
 
 En el segundo paso, puedes generar o regenerar la textura del planeta.
 
@@ -143,7 +143,7 @@ Cada mundo incluye un número limitado de créditos de textura según tu suscrip
   Tu navegador no soporta la etiqueta de vídeo.
 </video>
 
-## 6) Escena y atmósfera
+### 6) Escena y atmósfera
 
 En escritorio, puedes abrir el mundo a pantalla completa para ajustar los parámetros de la escena:
 
@@ -165,7 +165,7 @@ En escritorio, puedes abrir el mundo a pantalla completa para ajustar los parám
   Tu navegador no soporta la etiqueta de vídeo.
 </video>
 
-## 7) Narración e historia
+### 7) Narración e historia
 
 Puedes escribir la narración del mundo, incluyendo:
 
@@ -188,7 +188,7 @@ También puedes usar herramientas de escritura asistida para generar o traducir 
   Tu navegador no soporta la etiqueta de vídeo.
 </video>
 
-## 8) Colaboración y acceso
+### 8) Colaboración y acceso
 
 Define quién puede:
 
@@ -198,7 +198,7 @@ Define quién puede:
 
 También puedes definir reglas generales de acceso (privado, por enlace o abierto).
 
-## 9) Borrador y lanzamiento
+### 9) Borrador y lanzamiento
 
 Guarda tu mundo como borrador mientras iteras.
 

@@ -60,6 +60,7 @@ function HeroVideo() {
         muted
         playsInline
         controls
+        poster="/img/video-placeholder.svg"
         aria-label={label}
       >
         <source src={videoSrc} type="video/mp4" />
@@ -99,8 +100,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={siteConfig.title}
-      description={translate({message: 'Comprehensive Documentation', id: 'homepage.description'})}>
+      title={translate({message: 'Plantasia Space — Documentation & Guides', id: 'homepage.metaTitle'})}
+      description={translate({message: 'Official documentation for Plantasia Space — guides for Audios, Entangled Worlds, Orbiters, and Collections.', id: 'homepage.description'})}>
       <HomepageHeader />
               <HeroVideo />
       <main>

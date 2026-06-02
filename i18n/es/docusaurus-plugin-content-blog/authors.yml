@@ -1,23 +1,15 @@
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
+bruna:
+  name: Bruna Guarnieri Colasso
+  title: Fundadora
+  url: https://plantasia.space
+  image_url: https://dev-herbarium.plantasia.space/image-assets/entangled-space/landing/06b-bruna-profile-square-self-portrait_mid.webp
+  page: true
+
+plantasia:
+  name: Plantasia Space
+  title: Equipo
+  url: https://plantasia.space
+  image_url: https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg
   page: true
   socials:
-    x: yangshunz
-    github: yangshun
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: plantasia-space-org

@@ -1,0 +1,59 @@
+.blogHero {
+  position: relative;
+  overflow: hidden;
+  padding: 4rem 1rem;
+  text-align: center;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.blogHeroImage {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.35;
+  z-index: 0;
+}
+
+/* Darken the image so overlaid text stays legible in both color modes. */
+.blogHero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.25) 0%,
+    rgba(0, 0, 0, 0.55) 100%
+  );
+}
+
+.blogHeroInner {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+  margin: 0 auto;
+  color: #fff;
+}
+
+.blogHeroTitle {
+  margin-bottom: 0.5rem;
+  color: #fff;
+}
+
+.blogHeroSubtitle {
+  margin: 0;
+  font-size: 1.15rem;
+  opacity: 0.92;
+}
+
+@media screen and (max-width: 996px) {
+  .blogHero {
+    padding: 2.5rem 1rem;
+  }
+
+  .blogHeroSubtitle {
+    font-size: 1rem;
+  }
+}

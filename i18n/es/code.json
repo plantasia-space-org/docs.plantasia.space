@@ -1,4 +1,10 @@
 {
+  "blog.hero.title": {
+    "message": "Blog de Plantasia Space"
+  },
+  "blog.hero.subtitle": {
+    "message": "Noticias, novedades e historias de la comunidad aural regenerativa."
+  },
   "cookie.line1": {
     "message": "¿Sabes las similitudes entre un jardín perfecto y una selva? Bueno, ahora piensa que Plantasia Space es un software orgánico que crece en el medio."
   },
@@ -385,8 +391,16 @@
     "message": "Documentación Completa",
     "description": "The tagline of the site"
   },
+  "homepage.metaTitle": {
+    "message": "Plantasia Space — Documentación y guías",
+    "description": "The homepage meta title (SEO)"
+  },
+  "cookie.dialog.necessaryToggleLabel": {
+    "message": "Cookies necesarias (siempre activadas)",
+    "description": "Accessible name for the always-on necessary cookies toggle"
+  },
   "homepage.description": {
-    "message": "Documentación Completa",
+    "message": "Documentación oficial de Plantasia Space — guías de Audios, Mundos Entrelazados, Orbitadores y Colecciones.",
     "description": "The description of the site"
   },
   "homepage.features.plantasia_space": {

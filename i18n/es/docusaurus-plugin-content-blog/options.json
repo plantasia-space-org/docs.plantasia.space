@@ -1,14 +1,14 @@
 {
   "title": {
-    "message": "Blog",
+    "message": "Blog de Plantasia Space",
     "description": "The title for the blog used in SEO"
   },
   "description": {
-    "message": "Blog",
+    "message": "Noticias, novedades e historias del ecosistema de Plantasia Space.",
     "description": "The description for the blog used in SEO"
   },
   "sidebar.title": {
-    "message": "Recent posts",
+    "message": "Publicaciones recientes",
     "description": "The label for the left sidebar"
   }
 }

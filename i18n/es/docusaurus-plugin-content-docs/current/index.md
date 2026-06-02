@@ -3,6 +3,7 @@ id: index
 title: Documentación
 slug: /index
 sidebar_position: 0
+description: Explora la documentación de Plantasia Space — Audios, Mundos Entrelazados, Orbitadores y Colecciones — con tarjetas visuales rápidas.
 ---
 
 import useBaseUrl from '@docusaurus/useBaseUrl';

@@ -173,7 +173,12 @@ export const CookiePreferences = ({ onSave, onCancel }) => {
           <p><Translate id="cookie.dialog.necessaryDesc">Login/session and security for the site, plus Stripe checkout and billing to process payments and help prevent fraud. Always on.</Translate></p>
         </div>
         <label className="toggle-switch">
-          <input type="checkbox" checked disabled />
+          <input
+            type="checkbox"
+            checked
+            disabled
+            aria-label={translate({message: 'Necessary cookies (always enabled)', id: 'cookie.dialog.necessaryToggleLabel'})}
+          />
           <span className="slider"></span>
         </label>
       </div>

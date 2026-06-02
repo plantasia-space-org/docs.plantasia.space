@@ -6,7 +6,7 @@ sidebar_custom_props:
   icon: ReleaseIcon
 ---
 
-## Where to start
+### Where to start
 
 Go to **Release → New Entangled World**.
 
@@ -16,9 +16,9 @@ Depending on your user type, you can create a limited number of Entangled Worlds
 
 Releasing a world opens a multi-step form.
 
-# STEP 1
+## STEP 1
 
-## 1) Choose an exoplanet
+### 1) Choose an exoplanet
 
 Start by selecting a real exoplanet to entangle with your world.
 
@@ -39,13 +39,13 @@ You can change the selected exoplanet later.
   Your browser does not support the video tag.
 </video>
 
-## Exoplanet data
+### Exoplanet data
 
 By expanding the information panel, you can see astronomical and physical measurements from the current exoplanet database.
 
 At the moment, this data mainly affects Cosmic LFO behavior inside Orbiters. Choosing a planet is primarily an artistic and symbolic decision.
 
-## 2) Name your world
+### 2) Name your world
 
 Set a name for your Entangled World.
 
@@ -66,7 +66,7 @@ The generated name can be edited later.
   Your browser does not support the video tag.
 </video>
 
-## 3) Worldbuilding elementals
+### 3) Worldbuilding elementals
 
 Worldbuilding Elementals define the identity of your world.
 
@@ -95,7 +95,7 @@ These values are later used to generate visuals and narration.
   Your browser does not support the video tag.
 </video>
 
-## 4) Elemental Matrix
+### 4) Elemental Matrix
 
 The Elemental Matrix places your world between **water, fire, earth, and air**.
 
@@ -108,13 +108,13 @@ This influences visual generation and creates six world sections:
 - Society
 - DNA
 
-## Save draft or continue
+### Save draft or continue
 
 After completing the first step, you can save the world as a draft or continue to the next step.
 
-# STEP 2
+## STEP 2
 
-## 5) Planet texture generation
+### 5) Planet texture generation
 
 In the second step, you can generate or regenerate the planet texture.
 
@@ -136,7 +136,7 @@ Each world includes a limited number of texture credits based on your subscripti
   Your browser does not support the video tag.
 </video>
 
-## 6) Scene and atmosphere
+### 6) Scene and atmosphere
 
 On desktop, you can open the world in fullscreen to adjust scene parameters:
 
@@ -158,7 +158,7 @@ On desktop, you can open the world in fullscreen to adjust scene parameters:
   Your browser does not support the video tag.
 </video>
 
-## 7) Narration and story
+### 7) Narration and story
 
 You can write narration for the world, including:
 
@@ -181,7 +181,7 @@ You can also use assisted writing tools to generate or translate stories using d
   Your browser does not support the video tag.
 </video>
 
-## 8) Collaboration and access
+### 8) Collaboration and access
 
 Define who can:
 
@@ -191,7 +191,7 @@ Define who can:
 
 You can also set general access rules (private, link-based, or open).
 
-## 9) Draft and release
+### 9) Draft and release
 
 Save your world as a draft while iterating.
 

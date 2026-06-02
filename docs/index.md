@@ -1,6 +1,7 @@
 ---
 id: index
 title: xPlorer Guide
+description: Explore Plantasia Space documentation — Audios, Entangled Worlds, Orbiters, and Collections — through quick visual cards.
 slug: /index
 sidebar_position: 0
 sidebar_custom_props:
@@ -24,7 +25,7 @@ Explore the main sections through quick visual cards using our own symbols.
     }
     title="Plantasia Space"
     description=""
-    to="/docs/plantasia-space/introduction"
+    to="/docs/plantasia-space/"
   />
   <NavigationCard
     icon={

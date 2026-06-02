@@ -190,6 +190,22 @@ h3 {
   -webkit-mask: url("/img/symbols-12-25/xplorer-current.svg") center / contain no-repeat;
 }
 
+.nav-blog.navbar__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.nav-blog.navbar__item::before {
+  content: '';
+  display: inline-block;
+  width: 1.1rem;
+  height: 1.1rem;
+  background-color: currentColor;
+  mask: url("/img/pencil.svg") center / contain no-repeat;
+  -webkit-mask: url("/img/pencil.svg") center / contain no-repeat;
+}
+
 @media (max-width: 1024px) {
   .navbar__brand .navbar__title {
     display: none;
