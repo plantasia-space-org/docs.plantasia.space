@@ -9,7 +9,7 @@ sidebar_custom_props:
 ---
 
 import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
-import { Pencil, Power } from 'lucide-react';
+import { Pencil, Power, Clapperboard } from 'lucide-react';
 import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 
 
@@ -33,6 +33,12 @@ Los mundos entrelazados son representaciones artísticas de mundos físicos dond
     label="Usar"
     icon={<Power />}
     description="Explora y habita mundos."
+  />
+  <NavigationCard 
+    href="/docs/entangled-worlds/studio"
+    label="Studio y Clips"
+    icon={<Clapperboard />}
+    description="Crea y publica Clips."
   />
 </NavigationGrid>
 

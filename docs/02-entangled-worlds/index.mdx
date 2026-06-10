@@ -9,7 +9,7 @@ sidebar_custom_props:
 ---
 
 import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
-import { Pencil, Power } from 'lucide-react';
+import { Pencil, Power, Clapperboard } from 'lucide-react';
 import ReleaseIcon from '@site/static/img/symbols-12-25/release-current.svg';
 
 Entangled Worlds are world-building spaces where sound, visuals, and narrative come together.
@@ -32,6 +32,12 @@ Entangled Worlds are world-building spaces where sound, visuals, and narrative c
     label="Interact"
     icon={<Power />}
     description="Explore and inhabit worlds."
+  />
+  <NavigationCard 
+    href="/docs/entangled-worlds/studio"
+    label="Studio & Clips"
+    icon={<Clapperboard />}
+    description="Create and release Clips."
   />
 </NavigationGrid>
 
@@ -71,3 +77,4 @@ These sections act as visual and narrative anchors, helping communicate the iden
 - **Release**: create and publish a new Entangled World
 - **Edit**: refine an existing world over time
 - **Interact**: explore worlds, place Audios, and navigate them with Orbiters
+- **Studio & Clips**: create and release Clips — short music-backed videos made from your world
