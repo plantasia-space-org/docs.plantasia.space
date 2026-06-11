@@ -33,6 +33,8 @@ Choose the Audio that will back your Clip.
 
 You can search the tracks available to you, preview them, and trim the exact segment you want to use. The Clip's length follows the segment you select.
 
+![Studio — Select audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step1-audio.png)
+
 ## STEP 2 — Set animations
 
 This is the heart of the Studio: a live canvas of your world, paired with a timeline.
@@ -48,6 +50,8 @@ Here you can:
 
 Select any element to edit its details in the inspector. Scene settings define defaults; individual elements can override them.
 
+![Studio — canvas, timeline and inspector](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step2-animations.png)
+
 ## STEP 3 — Export
 
 Choose an aspect ratio and resolution, then capture the animation as a video:
@@ -61,6 +65,8 @@ Select **Capture video** to start recording. A capture window opens — accept t
 
 You can also choose **Release Clip without video** to skip the capture and release the animation directly.
 
+![Studio — export options](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step3-export.png)
+
 ## STEP 4 — Release Clip
 
 Review your Clip before publishing. You can:
@@ -70,6 +76,8 @@ Review your Clip before publishing. You can:
 - Save the Clip as a **draft** and come back later
 - **Download** the captured video
 - **Release Clip** to publish it
+
+![Studio — release review](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step4-release.png)
 
 A Clip is never more visible than its parent world: if the world is private, the Clip stays private too.
 
