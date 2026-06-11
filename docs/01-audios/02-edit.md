@@ -14,7 +14,7 @@ Editing an Audio allows you to refine its presentation and context.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/09-edit-audio.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/audios/09-edit-audio.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

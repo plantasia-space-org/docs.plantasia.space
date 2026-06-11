@@ -14,7 +14,7 @@ This page documents features that are still in development and will be available
 
 Go to **Release → New Orbiter**.
 
-![New Orbiter](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/new.png)
+![New Orbiter](https://herbarium.plantasia.space/docs/en/media/orbiters/new.png)
 
 The release form lets you define the Orbiter's **visual identity**, choose a **preview context**, and configure its **panel** and **engine** per dimension.
 
@@ -32,7 +32,7 @@ Orbiter images are displayed in a **hexagonal frame**. If needed, open the guide
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/01-release-orb-image.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/01-release-orb-image.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -55,7 +55,7 @@ Use fullscreen when you need a clearer view while testing.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/02-preview-audio-world.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/02-preview-audio-world.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -102,7 +102,7 @@ A useful strategy is to keep **equilibrium at 0** as a reliable “no effect” 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/03-panel-dimension.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/03-panel-dimension.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -130,6 +130,6 @@ After release, you can reuse the Orbiter across different Audios and Entangled W
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/04-collaborate-draft-release.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/04-collaborate-draft-release.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>

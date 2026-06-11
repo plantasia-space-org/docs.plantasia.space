@@ -9,7 +9,7 @@ plantasia:
   name: Plantasia Space
   title: Equipo
   url: https://plantasia.space
-  image_url: https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg
+  image_url: https://herbarium.plantasia.space/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg
   page: true
   socials:
     github: plantasia-space-org

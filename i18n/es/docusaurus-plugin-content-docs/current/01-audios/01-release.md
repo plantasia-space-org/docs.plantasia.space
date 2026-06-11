@@ -10,14 +10,14 @@ sidebar_custom_props:
 
 Ve a **Publicar → Nuevo Audio**.
 
-![Nuevo Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/new.png)
+![Nuevo Audio](https://herbarium.plantasia.space/docs/es/media/audios/new.png)
 
 <video
   className="ps-doc-video"
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/02-release-new-audio.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/02-release-new-audio.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -34,7 +34,7 @@ Este archivo se sube al servidor y se convierte en distintos formatos de Audio.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/03-release-upload.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/03-release-upload.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -52,7 +52,7 @@ La portada se para identificar tu lanzamiento.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/04-release-upload-image.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/04-release-upload-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -61,7 +61,7 @@ La portada se para identificar tu lanzamiento.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/05-release-regenerate-image.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/05-release-regenerate-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -76,7 +76,7 @@ Otrxs colaboradorxs que no estén en la plataforma pueden acreditarse más adela
 Es necesario tener al menos un Artista asociadx al lanzamiento.
 
 ## 4) Mundo entrelazado y orbitador (vista previa)
-![orbiter-on](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/audios/orbiter-on.png)
+![orbiter-on](https://herbarium.plantasia.space/docs/en/media/audios/orbiter-on.png)
 Cada Audio se asigna a un mundo entrelazado y a un orbitador predeterminados.
 
 Puedes cambiarlos para prever cómo se comporta el Audio en distintos contextos.
@@ -88,7 +88,7 @@ Estas selecciones serán las predeterminadas, pero no limitan usos futuros.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/06-release-select-ew-orb.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -105,7 +105,7 @@ Casi todos estos datos se muestran en la tarjeta del Audio y ayudan a que otrxs 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/07-release-details.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/07-release-details.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -142,7 +142,7 @@ Tú sigues siendo la persona dueña de tu contenido, pero al publicar un Audio o
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/08-release-privacy.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/audios/08-release-privacy.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -160,7 +160,7 @@ Publícalo cuando quieras que otrxs lo exploren y lo transformen.
 En la sección de "Configuración" general defines cómo se reproduce el Audio en la plataforma, para tu reproducción.
 
 
-![Configuracion de Audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/audios/audio-settings.png)
+![Configuracion de Audio](https://herbarium.plantasia.space/docs/es/media/audios/audio-settings.png)
 
 
 ### Calidad de audio

@@ -10,7 +10,7 @@ sidebar_custom_props:
 
 Go to **Release → New Entangled World**.
 
-![New Entangled World](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/new.png)
+![New Entangled World](https://herbarium.plantasia.space/docs/en/media/worlds/new.png)
 
 Depending on your user type, you can create a limited number of Entangled Worlds. Additional worlds can be added through add-ons.
 
@@ -35,7 +35,7 @@ You can change the selected exoplanet later.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/worlds/02-release-choose-exoplanet.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -62,7 +62,7 @@ The generated name can be edited later.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/03-release-choose-name.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/worlds/03-release-choose-name.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -91,7 +91,7 @@ These values are later used to generate visuals and narration.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/04-release-worldbuilding-elementals.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/worlds/04-release-worldbuilding-elementals.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -132,7 +132,7 @@ Each world includes a limited number of texture credits based on your subscripti
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/05-release-texture-gen.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/worlds/05-release-texture-gen.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -154,7 +154,7 @@ On desktop, you can open the world in fullscreen to adjust scene parameters:
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/06-release-scene.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/worlds/06-release-scene.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 
@@ -177,7 +177,7 @@ You can also use assisted writing tools to generate or translate stories using d
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/worlds/07-release-narrative.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/worlds/07-release-narrative.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

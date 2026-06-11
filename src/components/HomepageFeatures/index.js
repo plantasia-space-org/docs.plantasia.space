@@ -11,7 +11,7 @@ const FeatureList = [
     titleId: 'homepage.features.plantasia_space',
     description: 'Get started with the platform — its vision, core concepts, and how everything connects.',
     descriptionId: 'homepage.features.plantasia_space.description',
-    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
+    image: 'https://herbarium.plantasia.space/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg',
     link: '/docs/plantasia-space/',
   },
   {
@@ -19,7 +19,7 @@ const FeatureList = [
     titleId: 'homepage.features.audios',
     description: 'Release, edit, and interact with your tracks and soundscapes.',
     descriptionId: 'homepage.features.audios.description',
-    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg',
+    image: 'https://herbarium.plantasia.space/assets/symbols/current/track.svg',
     link: '/docs/audios',
   },
   {
@@ -27,7 +27,7 @@ const FeatureList = [
     titleId: 'homepage.features.entangled-worlds',
     description: 'Release, edit, and explore immersive, interactive worlds.',
     descriptionId: 'homepage.features.entangled-worlds.description',
-    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg',
+    image: 'https://herbarium.plantasia.space/assets/symbols/current/entangled-world.svg',
     link: '/docs/entangled-worlds',
   },
   {
@@ -35,7 +35,7 @@ const FeatureList = [
     titleId: 'homepage.features.orbiters',
     description: 'Release, edit, and interact with Orbiters across the ecosystem.',
     descriptionId: 'homepage.features.orbiters.description',
-    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/orbiter.svg',
+    image: 'https://herbarium.plantasia.space/assets/symbols/current/orbiter.svg',
     link: '/docs/orbiters',
   },
   {
@@ -43,7 +43,7 @@ const FeatureList = [
     titleId: 'homepage.features.collections',
     description: 'Group your tracks, worlds, and orbiters into curated collections.',
     descriptionId: 'homepage.features.collections.description',
-    image: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg',
+    image: 'https://herbarium.plantasia.space/assets/symbols/current/collection.svg',
     link: '/docs/collections',
   },
 ];

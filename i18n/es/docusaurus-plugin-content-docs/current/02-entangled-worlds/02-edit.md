@@ -13,7 +13,7 @@ Mira este recorrido rápido para editar un mundo entrelazado:
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/worlds/08-edit-world.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/worlds/08-edit-world.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 

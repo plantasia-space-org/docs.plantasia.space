@@ -16,7 +16,7 @@ Explore the main sections through quick visual cards using our own symbols.
   <NavigationCard
     icon={
       <img
-        src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg"
+        src="https://herbarium.plantasia.space/assets/logos/current/plantasia-space-logo-black-transparent-background-512.svg"
         alt="Plantasia Space"
         width="32"
         height="32"
@@ -30,7 +30,7 @@ Explore the main sections through quick visual cards using our own symbols.
   <NavigationCard
     icon={
       <img
-        src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/track.svg"
+        src="https://herbarium.plantasia.space/assets/symbols/current/track.svg"
         alt="Audios"
         width="32"
         height="32"
@@ -44,7 +44,7 @@ Explore the main sections through quick visual cards using our own symbols.
   <NavigationCard
     icon={
       <img
-        src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/entangled-world.svg"
+        src="https://herbarium.plantasia.space/assets/symbols/current/entangled-world.svg"
         alt="Entangled Worlds"
         width="32"
         height="32"
@@ -58,7 +58,7 @@ Explore the main sections through quick visual cards using our own symbols.
   <NavigationCard
     icon={
       <img
-        src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/orbiter.svg"
+        src="https://herbarium.plantasia.space/assets/symbols/current/orbiter.svg"
         alt="Orbiters"
         width="32"
         height="32"
@@ -72,7 +72,7 @@ Explore the main sections through quick visual cards using our own symbols.
   <NavigationCard
     icon={
       <img
-        src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/assets/symbols/current/collection.svg"
+        src="https://herbarium.plantasia.space/assets/symbols/current/collection.svg"
         alt="Collections"
         width="32"
         height="32"

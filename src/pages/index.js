@@ -11,12 +11,12 @@ import styles from './index.module.css';
 
 const HERO_VIDEO_SOURCES = {
   en: {
-    horizontal: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/ps-trailer-01-horizontal-small.mp4',
-    vertical: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/ps-trailer-01-vertical-small.mp4',
+    horizontal: 'https://herbarium.plantasia.space/docs/en/media/ps-trailer-01-horizontal-small.mp4',
+    vertical: 'https://herbarium.plantasia.space/docs/en/media/ps-trailer-01-vertical-small.mp4',
   },
   es: {
-    horizontal: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/ps-trailer-01-horizontal-small.mp4',
-    vertical: 'https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/ps-trailer-01-vertical-small.mp4',
+    horizontal: 'https://herbarium.plantasia.space/docs/es/media/ps-trailer-01-horizontal-small.mp4',
+    vertical: 'https://herbarium.plantasia.space/docs/es/media/ps-trailer-01-vertical-small.mp4',
   },
 };
 

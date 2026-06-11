@@ -10,9 +10,9 @@ sidebar_custom_props:
 
 Ve a **Publicar → Nueva Colección**.
 
-![Nueva Colección](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/collections/new.png)
+![Nueva Colección](https://herbarium.plantasia.space/docs/es/media/collections/new.png)
 
-![Nueva Colección](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/collections/new-2.png)
+![Nueva Colección](https://herbarium.plantasia.space/docs/es/media/collections/new-2.png)
 
 ## 1) Describe la colección
 

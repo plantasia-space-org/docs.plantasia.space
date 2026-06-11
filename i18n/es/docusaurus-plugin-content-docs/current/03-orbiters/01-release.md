@@ -10,7 +10,7 @@ sidebar_custom_props:
 
 Ve a **Publicar → Nuevo Orbitador**.
 
-![Nuevo Orbitador](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/new.png)
+![Nuevo Orbitador](https://herbarium.plantasia.space/docs/es/media/orbiters/new.png)
 
 El formulario de publicación te permite definir la **identidad visual** del Orbitador, elegir un **contexto de vista previa** y configurar su **panel** y **motor** por dimensión.
 
@@ -28,7 +28,7 @@ Las imágenes del Orbitador se muestran en un **marco hexagonal**. Si lo necesit
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/01-release-orb-image.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/orbiters/01-release-orb-image.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -51,7 +51,7 @@ Usa el modo pantalla completa cuando necesites una vista más clara durante las 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/02-preview-audio-world.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/orbiters/02-preview-audio-world.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -98,7 +98,7 @@ Una estrategia útil es mantener **el equilibrio en 0** como un punto confiable 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/03-panel-dimension.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/orbiters/03-panel-dimension.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -126,6 +126,6 @@ Después de publicar, puedes reutilizar el Orbitador en diferentes Audios y Mund
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/04-collaborate-draft-release.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/orbiters/04-collaborate-draft-release.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>

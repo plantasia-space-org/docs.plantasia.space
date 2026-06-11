@@ -17,7 +17,7 @@ Dependiendo del contexto, el Orbitador puede abrirse incrustado en la página o 
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/06-use-open.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/06-use-open.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -36,7 +36,7 @@ En escritorio puedes cambiar de dimensión con las teclas **1 / 2 / 3**.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/07-use-transport-jam.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/07-use-transport-jam.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -72,7 +72,7 @@ Usa los monitores para saber qué está ocurriendo en tiempo real:
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/10-use-monitor-playback.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/10-use-monitor-playback.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -98,7 +98,7 @@ El equilibrio suele representar un estado neutro o bypass.
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/09-use-level-num-keyboard.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/09-use-level-num-keyboard.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
@@ -119,7 +119,7 @@ Algunas fuentes son manuales; otras dependen del Mundo Entrelazado y de los dato
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/orbiters/08-use-cosmic-lfo.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/orbiters/08-use-cosmic-lfo.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 

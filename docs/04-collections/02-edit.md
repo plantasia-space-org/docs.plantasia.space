@@ -11,7 +11,7 @@ sidebar_custom_props:
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/en/media/collections/edit-collection.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/en/media/collections/edit-collection.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 

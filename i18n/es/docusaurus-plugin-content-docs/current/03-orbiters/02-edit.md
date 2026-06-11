@@ -15,7 +15,7 @@ Editar un Orbitador te permite perfeccionar un instrumento existente sin crear u
   controls
   poster="/img/video-placeholder.svg"
 >
-  <source src="https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/es/media/orbiters/05-edit-orbiter.mp4" type="video/mp4" />
+  <source src="https://herbarium.plantasia.space/docs/es/media/orbiters/05-edit-orbiter.mp4" type="video/mp4" />
   Tu navegador no soporta la etiqueta de video.
 </video>
 
