@@ -215,7 +215,8 @@ h3 {
     margin-right: 0;
   }
 
-  .nav-xplorer.navbar__item {
+  .nav-xplorer.navbar__item,
+  .nav-blog.navbar__item {
     width: 2.75rem;
     height: 2.75rem;
     padding: 0.25rem;
@@ -224,7 +225,8 @@ h3 {
     gap: 0;
   }
 
-  .nav-xplorer.navbar__item::before {
+  .nav-xplorer.navbar__item::before,
+  .nav-blog.navbar__item::before {
     margin: 0;
   }
 }

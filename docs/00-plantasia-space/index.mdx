@@ -9,7 +9,7 @@ sidebar_custom_props:
 ---
 
 import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
-import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie } from 'lucide-react';
+import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie, Bell, ShieldCheck, BarChart2 } from 'lucide-react';
 
 <NavigationGrid>
   <NavigationCard
@@ -42,17 +42,28 @@ import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie } fro
     icon={<Cookie />}
     description="Privacy and cookies explained."
   />
+  <NavigationCard
+    href="/docs/plantasia-space/notifications"
+    label="Notifications"
+    icon={<Bell />}
+    description="Manage email and in-app alerts."
+  />
+  <NavigationCard
+    href="/docs/plantasia-space/sharing"
+    label="Sharing"
+    icon={<Share2 />}
+    description="Share tracks, worlds, and collections."
+  />
+  <NavigationCard
+    href="/docs/plantasia-space/safety"
+    label="Safety & Moderation"
+    icon={<ShieldCheck />}
+    description="Tools for a safe community experience."
+  />
+  <NavigationCard
+    href="/docs/plantasia-space/stats"
+    label="Stats"
+    icon={<BarChart2 />}
+    description="How metrics and stats work."
+  />
 </NavigationGrid>
-
-## Notifications
-
-Plantasia Space can notify you by email and in-app. You control both from **Notification Preferences**:
-
-1. Open the account menu and choose **Notifications**, or go to **Settings → Notification Preferences**.
-2. Pick the **Email** or **In-app** tab.
-3. Turn each category on or off — **Newsletter**, **Product updates**, **News**, **Beta program**, and **Community activity** — or use the global switch to silence all non-essential notifications at once.
-4. Select **Save preferences** — changes apply immediately after you save.
-
-Essential account, security, and transaction emails are always sent. Every notification email also includes an unsubscribe link that takes you back to these preferences.
-
-![Notification preferences](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/notification-preferences.png)

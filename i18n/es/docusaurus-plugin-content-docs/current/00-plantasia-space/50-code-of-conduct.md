@@ -7,9 +7,6 @@ sidebar_custom_props:
 ---
 (v1.0)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nX2mLIPh9Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-*One Earth, One People, One Love by* Kronos Quartet and  Terry Riley *(VIDEO)* 
-
 ## Intro
 
 Bienvenidx a la comunidad de Plantasia Space: un espacio para la música, el paisaje, la creación y la colaboración. Este Código de Conducta une el espíritu de Plantasia Space con los principios del [Berlin Code of Conduct](https://berlincodeofconduct.org/en). Existe para garantizar un entorno respetuoso, inclusivo y seguro para todas las personas miembros, colaboradoras, participantes y aliadas.

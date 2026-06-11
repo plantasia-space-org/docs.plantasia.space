@@ -9,7 +9,7 @@ sidebar_custom_props:
 ---
 
 import { NavigationGrid, NavigationCard } from '@site/src/components/dashboard/NavigationGrid';
-import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie } from 'lucide-react';
+import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie, Bell, ShieldCheck, BarChart2 } from 'lucide-react';
 
 <NavigationGrid>
   <NavigationCard
@@ -42,17 +42,28 @@ import { Eye, CircleHelp, BookOpen, Scroll, HeartHandshake, Share2, Cookie } fro
     icon={<Cookie />}
     description="Privacidad y cookies explicadas."
   />
+  <NavigationCard
+    href="/docs/plantasia-space/notifications"
+    label="Notificaciones"
+    icon={<Bell />}
+    description="Gestiona los avisos por correo y en la app."
+  />
+  <NavigationCard
+    href="/docs/plantasia-space/sharing"
+    label="Compartir"
+    icon={<Share2 />}
+    description="Comparte pistas, mundos y colecciones."
+  />
+  <NavigationCard
+    href="/docs/plantasia-space/safety"
+    label="Seguridad y Moderación"
+    icon={<ShieldCheck />}
+    description="Herramientas para una comunidad segura."
+  />
+  <NavigationCard
+    href="/docs/plantasia-space/stats"
+    label="Estadísticas"
+    icon={<BarChart2 />}
+    description="Cómo funcionan las métricas y estadísticas."
+  />
 </NavigationGrid>
-
-## Notificaciones
-
-Plantasia Space puede notificarte por correo y dentro de la app. Controlas ambos canales desde **Preferencias de notificaciones**:
-
-1. Abre el menú de tu cuenta y elige **Notificaciones**, o ve a **Configuración → Preferencias de notificaciones**.
-2. Elige la pestaña **Email** o **En la app**.
-3. Activa o desactiva cada categoría — **Boletín**, **Actualizaciones de producto**, **Noticias**, **Programa beta** y **Actividad de la comunidad** — o usa el interruptor global para silenciar de una vez todas las notificaciones no esenciales.
-4. Selecciona **Guardar preferencias** — los cambios se aplican al guardar.
-
-Los correos esenciales de cuenta, seguridad y transacciones se envían siempre. Cada correo de notificación incluye además un enlace para darte de baja que te lleva de vuelta a estas preferencias.
-
-![Preferencias de notificaciones](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/notification-preferences.png)
