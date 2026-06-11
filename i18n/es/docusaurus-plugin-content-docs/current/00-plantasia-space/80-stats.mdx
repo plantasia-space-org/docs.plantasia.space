@@ -1,0 +1,164 @@
+---
+title: Sobre las estadísticas
+wrapperClassName: doc-wrapper-icon-stats
+sidebar_position: 8
+sidebar_custom_props:
+  icon: BarChart2
+---
+
+import { Eye, Play, AlarmClockCheck, Heart, Star, MessageSquare, Layers, MapPinned, Power } from 'lucide-react';
+import TrackIcon from '@site/static/img/sidebar-icons/track.svg';
+import EntangledWorldIcon from '@site/static/img/sidebar-icons/entangled-world.svg';
+import OrbiterIcon from '@site/static/img/sidebar-icons/orbiter.svg';
+import CollectionIcon from '@site/static/img/sidebar-icons/collection.svg';
+
+export const EI = ({ children }) => (
+  <span style={{
+    display: 'inline-flex',
+    verticalAlign: 'middle',
+    marginRight: '8px',
+    position: 'relative',
+    top: '-2px',
+    color: 'var(--ifm-color-primary)',
+  }}>
+    {children}
+  </span>
+);
+
+# Sobre las estadísticas
+
+Cada número que ves en una pista, mundo, orbitador o colección de Plantasia Space tiene un significado específico. Esta página explica qué cuenta cada estadística, cuándo sube y cómo se mantiene precisa.
+
+## <EI><TrackIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Estadísticas de pistas
+
+### <EI><Play size={18} /></EI> Reproducciones
+
+La cantidad de veces que esta pista fue escuchada genuinamente.
+
+**Cuándo sube:** después de unos 30 segundos de escucha. Para pistas de menos de 30 segundos, la pista completa debe reproducirse hasta el final.
+
+**Cuándo no sube:** abrir la página del audio, pasarlo de largo en un feed, pausar antes del umbral o que el audio quede cargando sin reproducirse.
+
+**Cómo se mantiene honesta:** cada sesión de escucha cuenta una vez por pista, aunque la repitas en la misma sesión.
+
+### <EI><AlarmClockCheck size={18} /></EI> Tiempo reproducido
+
+Tiempo total de escucha entre todas las personas que reprodujeron esta pista.
+
+**Cuándo sube:** cada vez que una reproducción válida termina, su duración de escucha se suma al total.
+
+**Cuándo no sube:** las reproducciones que no alcanzan el umbral no suman tiempo. Se oculta hasta que el total supera un minuto — nunca verás `0 min`.
+
+**Cómo se mantiene honesta:** cada segmento tiene un tope para que los loops o velocidades anormales no inflen el número. El mismo segmento de escucha no puede contarse dos veces.
+
+## <EI><EntangledWorldIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Estadísticas de Mundos Entrelazados
+
+### <EI><Eye size={18} /></EI> Vistas
+
+La cantidad de veces que la página de este mundo fue abierta intencionalmente.
+
+**Cuándo sube:** cuando alguien navega hasta la página del mundo y la abre.
+
+**Cuándo no sube:** ver el mundo en un feed o tarjeta, abrir un panel de información dentro de un orbitador, o cargar un mundo dentro de un orbitador sin abrir su propia página.
+
+**Cómo se mantiene honesta:** se cuenta a partir de eventos de navegación intencional distintos, no de renders pasivos.
+
+### <EI><MapPinned size={18} /></EI> Visitas
+
+La cantidad de sesiones que pasaron tiempo activo escuchando dentro de este mundo a través de un orbitador.
+
+**Cuándo sube:** cuando una sesión de escucha acumula al menos 30 segundos escuchando pistas dentro de este mundo a través de un orbitador. Una misma sesión cuenta como máximo una visita, sin importar cuánto dure.
+
+**Cuándo no sube:** abrir la página del mundo (eso es una Vista), cargar el mundo sin reproducir nada, o sesiones que suman menos de 30 segundos dentro del mundo.
+
+**Cómo se mantiene honesta:** cada sesión cuenta una vez por mundo.
+
+### <EI><AlarmClockCheck size={18} /></EI> Tiempo visitado
+
+Tiempo total de escucha acumulado dentro de este mundo en todas las sesiones de orbitador.
+
+**Cuándo sube:** cada segmento válido de escucha dentro del mundo suma su duración al total.
+
+**Cuándo no sube:** la carga pasiva sin reproducción no contribuye. Se oculta hasta que el total supera un minuto.
+
+**Cómo se mantiene honesta:** mismas reglas que Tiempo reproducido — tope por segmento, sin doble conteo.
+
+## <EI><OrbiterIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Estadísticas de Orbiters
+
+### <EI><Power size={18} /></EI> Usos
+
+La cantidad de veces que este orbitador fue abierto y cargado por completo en una sesión activa.
+
+**Cuándo sube:** cada vez que alguien abre y carga este orbitador en una sesión en vivo.
+
+**Cuándo no sube:** renders embebidos que no resultan en una sesión resuelta, o sesiones que no llegan a cargar.
+
+**Cómo se mantiene honesta:** se cuenta a partir de eventos de inicio de sesión resueltos, no de cargas de página ni vistas previas en tarjetas.
+
+### <EI><AlarmClockCheck size={18} /></EI> Tiempo de uso
+
+Tiempo total de escucha reproducido a través de este orbitador.
+
+**Cuándo sube:** cada segmento válido de escucha a través de este orbitador suma su duración al total.
+
+**Cuándo no sube:** el tiempo con el orbitador abierto pero sin reproducir no cuenta. Se oculta hasta que el total supera un minuto.
+
+**Cómo se mantiene honesta:** mismas reglas que Tiempo reproducido — tope por segmento, sin doble conteo.
+
+## <EI><CollectionIcon style={{width: 22, height: 22, fill: 'currentColor'}} /></EI> Estadísticas de colecciones
+
+### <EI><Eye size={18} /></EI> Vistas
+
+La cantidad de veces que la página de esta colección fue abierta intencionalmente.
+
+**Cuándo sube:** cuando alguien navega hasta la página de la colección y la abre.
+
+**Cuándo no sube:** ver la colección en un feed o tarjeta.
+
+**Cómo se mantiene honesta:** se cuenta a partir de eventos de navegación intencional distintos.
+
+### <EI><Layers size={18} /></EI> Elementos
+
+La cantidad actual de pistas visibles en esta colección.
+
+**Cuándo sube:** cuando se agregan nuevas pistas a la colección.
+
+**Cuándo no sube:** las pistas ocultas, eliminadas o pendientes de moderación no se cuentan.
+
+**Cómo se mantiene honesta:** refleja el estado visible actual, no las adiciones históricas.
+
+## Estadísticas sociales
+
+Estas estadísticas aparecen en todos los tipos de contenido y funcionan igual en todas partes.
+
+### <EI><Heart size={18} /></EI> Corazones
+
+El total de reacciones de corazón en este elemento. Toca el corazón para sumar el tuyo.
+
+**Cuándo sube:** cuando alguien agrega una reacción de corazón.
+
+**Cuándo no sube:** ver, reproducir o compartir no cuenta.
+
+**Cómo se mantiene honesta:** quitar un corazón lo resta de inmediato. Siempre refleja el estado en vivo.
+
+### <EI><Star size={18} /></EI> Estrellas
+
+El total de estrellas en este elemento. Las estrellas son una forma de guardar o destacar contenido al que quieres volver. Toca la estrella para sumar la tuya.
+
+**Cuándo sube:** cuando alguien agrega una estrella.
+
+**Cuándo no sube:** ver, reproducir o compartir no cuenta.
+
+**Cómo se mantiene honesta:** quitar una estrella la resta de inmediato. Siempre refleja el estado en vivo.
+
+### <EI><MessageSquare size={18} /></EI> Comentarios
+
+El total de comentarios en este elemento. Toca el botón de comentario para agregar el tuyo.
+
+**Cuándo sube:** cuando alguien agrega un comentario.
+
+**Cuándo no sube:** ver, reproducir o compartir no cuenta.
+
+**Cómo se mantiene honesta:** los comentarios eliminados se restan de inmediato. Siempre refleja el estado en vivo.
+
+_Última actualización: 2026-05-15_

@@ -87,7 +87,7 @@ Use **Block** when you want to stop someone from interacting with your content r
 If you believe content on Plantasia Space uses your work without permission, you can submit a copyright report through the same report flow:
 
 1. Open **More options** on the content in question and select **Report**.
-2. The **Report content** dialog guides you through three steps. As the reason, choose **Unauthorized use of my content**.
+2. The **Report content** dialog guides you through three steps. As the reason, choose **Copyright infringement** (or **Unauthorized use of my content**, depending on your case).
 3. Fill in the copyright details: whether you are the rights holder, the URL of your original work, the URL of the reported content, and any other useful rights information.
 4. Confirm that the information is accurate and submitted in good faith, then submit.
 

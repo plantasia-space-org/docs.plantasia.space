@@ -1,7 +1,7 @@
 ---
 title: Preguntas frecuentes
 wrapperClassName: doc-wrapper-icon-question
-sidebar_position: 2
+sidebar_position: 20
 sidebar_custom_props:
   icon: CircleHelp
 ---
@@ -86,7 +86,7 @@ sidebar_custom_props:
 
 <details>
   <summary>¿Cómo elimino mi cuenta?</summary>
-  <div>En la configuración de tu cuenta, abrí la <strong>Zona de peligro</strong> y elegí <strong>Eliminar cuenta</strong>. La eliminación se programa, no es inmediata: durante un período de gracia (la fecha límite exacta se muestra en el diálogo) tu cuenta queda deshabilitada y tus elementos — Audios, Colecciones, Orbiters y Mundos Entrelazados — quedan inaccesibles, pero todavía podés restaurarlo todo iniciando sesión de nuevo y confirmando la restauración. Tu suscripción se pausa y no se realizan nuevos cargos durante este período. Pasada la fecha límite, tu cuenta y todos los datos relacionados se eliminan de forma permanente y no se pueden recuperar.</div>
+  <div>En la configuración de tu cuenta, abrí la <strong>Zona de peligro</strong> y elegí <strong>Eliminar cuenta</strong>. La eliminación se programa, no es inmediata: durante un período de gracia tu cuenta queda deshabilitada, y todavía podés restaurarla iniciando sesión de nuevo y confirmando la restauración. Pasada la fecha límite que se muestra en el diálogo, la eliminación se vuelve permanente. El diálogo explica exactamente qué se verá afectado antes de confirmar.</div>
 </details>
 
 <details>

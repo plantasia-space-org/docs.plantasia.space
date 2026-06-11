@@ -86,7 +86,7 @@ sidebar_custom_props:
 
 <details>
   <summary>How do I delete my account?</summary>
-  <div>In your account settings, open the <strong>Danger zone</strong> and choose <strong>Delete account</strong>. Deletion is scheduled, not immediate: during a grace period (the exact deadline is shown in the dialog) your account is disabled and your items — Audios, Collections, Orbiters, and Entangled Worlds — become inaccessible, but you can still restore everything by logging in again and confirming the restore. Your subscription is paused and no new charges are made during this period. After the deadline passes, your account and all related data are permanently deleted and cannot be recovered.</div>
+  <div>In your account settings, open the <strong>Danger zone</strong> and choose <strong>Delete account</strong>. Deletion is scheduled, not immediate: during a grace period your account is disabled, and you can still restore it by logging in again and confirming the restore. After the deadline shown in the dialog, deletion becomes permanent. The dialog explains exactly what will be affected before you confirm.</div>
 </details>
 
 <details>
