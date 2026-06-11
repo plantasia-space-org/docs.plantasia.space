@@ -6,10 +6,6 @@ sidebar_custom_props:
   icon: Pencil
 ---
 
-:::warning Work in progress
-This section is under active development and may change.
-:::
-
 Editing an Orbiter allows you to refine an existing instrument without creating a new one.
 
 ### Video: Editing an Orbiter
