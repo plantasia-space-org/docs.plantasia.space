@@ -13,17 +13,29 @@ Released collections appear in several places:
 - **Public profiles** — every profile includes a **Collections** filter alongside Audios, Entangled Worlds, Orbiters, and Stars. Open someone's profile and select it to browse everything they have released.
 - **Home feed** — the feed has a **Collections** tab for discovery.
 
-![Collections filter on a public profile](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/profile-collections-tab.gif)
-
-![Collections tab in the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/home-feed-collections-tab.png)
+![Collections tab in the home feed](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/home-feed-collections-tab.png)
 
 Drafts and archived collections stay private to their owner and collaborators — only released collections are visible to visitors.
 
 ## Inside a collection
 
-Opening a collection shows its artwork, description, and items in the order set by the curator.
+Opening a collection shows its artwork, description, and items in the order set by the curator. Each category has its own page layout:
 
-![Browsing a collection page](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/collection-page.gif)
+**Audio collections** show a tracklist:
+
+![Audio collection page](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/collection-page-audio.png)
+
+**World collections** show a world atlas:
+
+![World collection page](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/collection-page-world.png)
+
+**Orbiter collections** show an orbiter roster:
+
+![Orbiter collection page](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/collection-page-orbiters.png)
+
+**Mixed collections** open as a station (see below):
+
+![Mixed collection page](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/collection-page-mixed.png)
 
 ## Playing a mixed collection
 

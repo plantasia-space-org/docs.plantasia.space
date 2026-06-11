@@ -20,7 +20,7 @@ El contenido público de Plantasia Space — audios, Mundos Entrelazados, Orbite
 - **Editar y eliminar** — usa **Editar** en tu propio comentario para cambiarlo (mostrará la marca *editado*), o **Eliminar** para quitarlo de forma permanente.
 - **Reaccionar** — toca el corazón para dar **Me gusta**, o la estrella para guardarlo para más tarde. Mira [Sobre las estadísticas](80-stats.mdx) para saber exactamente cómo funcionan estos conteos.
 
-![Comentarios en la página de una pista](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/track-page-comments-es.gif)
+![Comentarios en la página de una pista](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/track-page-comments.png)
 
 Los comentarios siguen las normas de la comunidad — mira el [Código de Conducta](50-code-of-conduct.md). Si un comentario cruza la línea, puedes reportarlo desde su menú de **Más opciones** (ver Reportar más abajo).
 

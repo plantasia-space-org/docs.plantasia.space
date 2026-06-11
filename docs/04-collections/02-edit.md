@@ -15,6 +15,12 @@ sidebar_custom_props:
   Your browser does not support the video tag.
 </video>
 
+## Your collections
+
+All of your collections live in one place, grouped as released, unreleased, and archived:
+
+![My Collections page](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/my-collections-page.png)
+
 ## What you can edit
 
 You can update a collection's name, description, category and subtype, artwork, and the items it contains.

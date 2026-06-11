@@ -15,9 +15,15 @@ sidebar_custom_props:
   Tu navegador no soporta la etiqueta de video.
 </video>
 
+## Tus colecciones
+
+Todas tus colecciones viven en un mismo lugar, agrupadas en publicadas, sin publicar y archivadas:
+
+![Página Mis Colecciones](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/my-collections-page.png)
+
 ## Qué puedes editar
 
-Puedes actualizar el nombre, la descripción, la categoría y el subtipo, el arte y los elementos que contiene la colección.
+Puedes actualizar el nombre, la descripción, la categoría y el subtipo, la portada y los elementos que contiene la colección.
 
 ## Reordenar elementos
 

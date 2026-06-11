@@ -17,7 +17,7 @@ Los Clips publicados aparecen:
 
 Puedes encontrar todos tus Clips en **Mis Clips**.
 
-![Pestaña Clips en el feed de inicio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/home-feed-clips-tab-es.png)
+![Pestaña Clips en el feed de inicio](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/home-feed-clips-tab.png)
 
 ## Abrir el Studio
 
@@ -33,7 +33,7 @@ Elige el Audio que acompañará tu Clip.
 
 Puedes buscar entre las pistas disponibles para ti, previsualizarlas y recortar el segmento exacto que quieres usar. La duración del Clip sigue al segmento que selecciones.
 
-![Studio — Seleccionar audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/studio-step1-audio-es.png)
+![Studio — Seleccionar audio](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step1-audio.png)
 
 ## PASO 2 — Configurar animaciones
 
@@ -50,7 +50,7 @@ Aquí puedes:
 
 Selecciona cualquier elemento para editar sus detalles en el inspector. Los ajustes de escena definen los valores por defecto; cada elemento puede sobrescribirlos.
 
-![Studio — lienzo, línea de tiempo e inspector](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/studio-step2-animations-es.png)
+![Studio — lienzo, línea de tiempo e inspector](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step2-animations.png)
 
 ## PASO 3 — Exportar
 
@@ -65,7 +65,7 @@ Selecciona **Capturar video** para empezar a grabar. Se abre una ventana de capt
 
 También puedes elegir **Publicar Clip sin video** para omitir la captura y publicar la animación directamente.
 
-![Studio — opciones de exportación](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/studio-step3-export-es.png)
+![Studio — opciones de exportación](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step3-export%20.png)
 
 ## PASO 4 — Publicar Clip
 
@@ -77,13 +77,13 @@ Revisa tu Clip antes de publicarlo. Puedes:
 - **Descargar** el video capturado
 - **Publicar Clip** para hacerlo público
 
-![Studio — revisión de publicación](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/studio-step4-release-es.png)
+![Studio — revisión de publicación](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step4-release.png)
 
 Un Clip nunca es más visible que su mundo: si el mundo es privado, el Clip también permanece privado.
 
 ## Gestiona tus Clips
 
-![Abrir un Clip desde el feed de inicio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/clip-page-es.gif)
+![Abrir un Clip desde el feed de inicio](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/clip-page.png)
 
 Desde **Mis Clips** o la página del Clip, puedes:
 

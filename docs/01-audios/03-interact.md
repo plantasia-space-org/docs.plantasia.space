@@ -17,7 +17,7 @@ Audios can be listened to directly in normal audio player ![Play audio](https://
 .
 You can open an Audio from the homepage, search results, collections, or world views.
 
-![Audios tab in the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/home-feed-audios-tab.png)
+![Audios tab in the home feed](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/home-feed-audios-tab.png)
 
 ## Playback and looping
 

@@ -17,7 +17,7 @@ Released Clips appear:
 
 You can find all of your own Clips under **My Clips**.
 
-![Clips tab in the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/home-feed-clips-tab.png)
+![Clips tab in the home feed](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/home-feed-clips-tab.png)
 
 ## Open the Studio
 
@@ -33,7 +33,7 @@ Choose the Audio that will back your Clip.
 
 You can search the tracks available to you, preview them, and trim the exact segment you want to use. The Clip's length follows the segment you select.
 
-![Studio — Select audio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step1-audio.png)
+![Studio — Select audio](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step1-audio.png)
 
 ## STEP 2 — Set animations
 
@@ -50,7 +50,7 @@ Here you can:
 
 Select any element to edit its details in the inspector. Scene settings define defaults; individual elements can override them.
 
-![Studio — canvas, timeline and inspector](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step2-animations.png)
+![Studio — canvas, timeline and inspector](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step2-animations.png)
 
 ## STEP 3 — Export
 
@@ -65,7 +65,7 @@ Select **Capture video** to start recording. A capture window opens — accept t
 
 You can also choose **Release Clip without video** to skip the capture and release the animation directly.
 
-![Studio — export options](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step3-export.png)
+![Studio — export options](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step3-export%20.png)
 
 ## STEP 4 — Release Clip
 
@@ -77,13 +77,13 @@ Review your Clip before publishing. You can:
 - **Download** the captured video
 - **Release Clip** to publish it
 
-![Studio — release review](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/studio-step4-release.png)
+![Studio — release review](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step4-release.png)
 
 A Clip is never more visible than its parent world: if the world is private, the Clip stays private too.
 
 ## Manage your Clips
 
-![Opening a Clip from the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/clip-page.gif)
+![Opening a Clip from the home feed](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/clip-page.png)
 
 From **My Clips** or the Clip's page, you can:
 

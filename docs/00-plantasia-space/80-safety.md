@@ -20,7 +20,7 @@ Public content on Plantasia Space — audios, Entangled Worlds, Orbiters, collec
 - **Editing and deleting** — use **Edit** on your own comment to change it (it will show an *edited* mark), or **Delete** to remove it permanently.
 - **Reacting** — tap the heart to **Like** content, or the star to save it for later. See [About Stats](80-stats.mdx) for exactly how these counts work.
 
-![Comments on a track page](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/track-page-comments.gif)
+![Comments on a track page](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/track-page-comments.png)
 
 Comments follow the platform's community guidelines — see the [Code of Conduct](50-code-of-conduct.md). If a comment crosses the line, you can report it from its **More options** menu (see Reporting below).
 
