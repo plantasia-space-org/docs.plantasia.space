@@ -8,6 +8,8 @@ sidebar_custom_props:
 
 ### How We Use Cookies
 
+**The most important thing to know: we use only first-party cookies. We don't use third-party cookies.**
+
 We currently use one cookie category on this site:
 
 #### The Essentials (Necessary)
@@ -25,7 +27,7 @@ Across the wider Plantasia Space platform, the strictly necessary services are:
 
 ### What We Don't Use
 
-We do not use analytics cookies, advertising identifiers, localStorage visitor IDs, third-party analytics providers, or tracking pixels.
+We do not use third-party cookies. We also do not use analytics cookies, advertising identifiers, localStorage visitor IDs, third-party analytics providers, or tracking pixels.
 
 To understand platform health, we use **first-party anonymous telemetry** instead: a session identifier stored only in `sessionStorage` groups events within your current browser tab, and IP addresses are truncated and processed with a daily rotating salt — so activity cannot be linked back to you or tracked across days.
 
