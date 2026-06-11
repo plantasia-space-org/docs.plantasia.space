@@ -96,6 +96,6 @@ Cuando las descargas directas están habilitadas, la página del audio muestra u
 - **Comprimido (MP3)** — un archivo más liviano para la escucha diaria
 - **Sin pérdida (WAV)** — calidad completa para archivo
 
-Los Clips publicados también pueden ofrecer la descarga del video (original o MP4 comprimido) desde la página del Clip.
+Los Clips publicados también pueden ofrecer la descarga del video (original o MP4 comprimido) desde la página del Clip — solo cuando el Clip tiene un video capturado, y durante dos semanas después de la captura.
 
 Los archivos descargados siguen cubiertos por la licencia Creative Commons de la publicación — revisa la licencia que se muestra en la página del contenido para saber qué puedes hacer con el archivo más allá de escucharlo.

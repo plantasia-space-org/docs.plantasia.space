@@ -97,6 +97,6 @@ When direct downloads are enabled, the audio page shows a **Download** button. I
 - **Compressed (MP3)** — a smaller file for everyday listening
 - **Lossless (WAV)** — full quality for archival use
 
-Released Clips can also offer a video download (original or compressed MP4) from the Clip page.
+Released Clips can also offer a video download (original or compressed MP4) from the Clip page — only when the Clip has a captured video, and for two weeks after the capture.
 
 Downloaded files remain covered by the release's Creative Commons license — check the license shown on the content page for what you may do with the file beyond listening.

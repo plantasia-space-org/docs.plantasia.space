@@ -63,6 +63,8 @@ Elige una relación de aspecto y una resolución, y luego captura la animación 
 
 Selecciona **Capturar video** para empezar a grabar. Se abre una ventana de captura — acepta ahí la solicitud para compartir y mantén ambas ventanas abiertas y sin cambios hasta que termine la grabación.
 
+La captura de video funciona en navegadores de escritorio; Safari no es compatible.
+
 También puedes elegir **Publicar Clip sin video** para omitir la captura y publicar la animación directamente.
 
 ![Studio — opciones de exportación](https://herbarium.plantasia.space/docs/2026-01-01_to_2026-06-09/studio-step3-export%20.png)
@@ -87,7 +89,7 @@ Un Clip nunca es más visible que su mundo: si el mundo es privado, el Clip tamb
 
 Desde **Mis Clips** o la página del Clip, puedes:
 
-- **Descargar** el video en versión original o MP4 comprimido
+- **Descargar** el video en versión original o MP4 comprimido — solo para Clips con video capturado, y durante dos semanas después de la captura. Pasado ese plazo, la animación del Clip permanece, y puedes hacer una nueva captura cuando quieras
 - **Archivar** un Clip — se oculta de los feeds y perfiles y permanece privado para ti. Los Clips archivados no se pueden editar y no cuentan para los límites de tu plan, y puedes restaurarlos en cualquier momento.
 - **Eliminar** un Clip de forma permanente — sus archivos se borran y los enlaces directos dejan de funcionar. Esto no se puede deshacer.
 
