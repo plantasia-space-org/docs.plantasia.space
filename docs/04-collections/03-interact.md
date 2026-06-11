@@ -13,7 +13,17 @@ Released collections appear in several places:
 - **Public profiles** — every profile includes a **Collections** filter alongside Audios, Entangled Worlds, Orbiters, and Stars. Open someone's profile and select it to browse everything they have released.
 - **Home feed** — the feed has a **Collections** tab for discovery.
 
+![Collections filter on a public profile](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/profile-collections-tab.gif)
+
+![Collections tab in the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/home-feed-collections-tab.png)
+
 Drafts and archived collections stay private to their owner and collaborators — only released collections are visible to visitors.
+
+## Inside a collection
+
+Opening a collection shows its artwork, description, and items in the order set by the curator.
+
+![Browsing a collection page](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/collection-page.gif)
 
 ## Playing a mixed collection
 

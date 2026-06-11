@@ -13,7 +13,17 @@ Las colecciones publicadas aparecen en varios lugares:
 - **Perfiles públicos** — cada perfil incluye un filtro de **Colecciones** junto a Audios, Mundos entrelazados, Orbitadores y Estrellas. Abre el perfil de alguien y selecciónalo para explorar todo lo que ha publicado.
 - **Feed de inicio** — el feed tiene una pestaña de **Colecciones** para descubrir.
 
+![Filtro de Colecciones en un perfil público](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/profile-collections-tab-es.gif)
+
+![Pestaña de Colecciones en el feed de inicio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/home-feed-collections-tab-es.png)
+
 Los borradores y las colecciones archivadas permanecen privados para su dueño y colaboradores — los visitantes solo ven las colecciones publicadas.
+
+## Dentro de una colección
+
+Abrir una colección muestra su arte, su descripción y sus elementos en el orden definido por quien la cura.
+
+![Recorriendo la página de una colección](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/collection-page-es.gif)
 
 ## Reproducir una colección mixta
 

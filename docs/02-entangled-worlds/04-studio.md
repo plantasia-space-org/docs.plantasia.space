@@ -17,6 +17,8 @@ Released Clips appear:
 
 You can find all of your own Clips under **My Clips**.
 
+![Clips tab in the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/home-feed-clips-tab.png)
+
 ## Open the Studio
 
 Go to **Release → New Clip**, select the Entangled World you want to use, then choose **Open video studio**. You can also start a new Clip directly from your world's page.
@@ -72,6 +74,8 @@ Review your Clip before publishing. You can:
 A Clip is never more visible than its parent world: if the world is private, the Clip stays private too.
 
 ## Manage your Clips
+
+![Opening a Clip from the home feed](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/en/clip-page.gif)
 
 From **My Clips** or the Clip's page, you can:
 

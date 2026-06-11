@@ -13,6 +13,8 @@ Puedes escuchar los Audios directamente en el reproductor normal ![Reproducir au
 .
 Abre un Audio desde el home, resultados de búsqueda, colecciones o vistas de mundos.
 
+![Pestaña Audios en el feed de inicio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/home-feed-audios-tab-es.png)
+
 ## Reproducción y loops
 
 Los Audios se pueden escuchar con el reproductor estándar.

@@ -17,6 +17,8 @@ Los Clips publicados aparecen:
 
 Puedes encontrar todos tus Clips en **Mis Clips**.
 
+![Pestaña Clips en el feed de inicio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/home-feed-clips-tab-es.png)
+
 ## Abrir el Studio
 
 Ve a **Publicar → Nuevo Clip**, selecciona el Mundo Entrelazado que quieres usar y elige **Abrir estudio de video**. También puedes empezar un nuevo Clip directamente desde la página de tu mundo.
@@ -72,6 +74,8 @@ Revisa tu Clip antes de publicarlo. Puedes:
 Un Clip nunca es más visible que su mundo: si el mundo es privado, el Clip también permanece privado.
 
 ## Gestiona tus Clips
+
+![Abrir un Clip desde el feed de inicio](https://plantasia-prod-public.fra1.digitaloceanspaces.com/docs/2026-01-01_to_2026-06-09/es/clip-page-es.gif)
 
 Desde **Mis Clips** o la página del Clip, puedes:
 
