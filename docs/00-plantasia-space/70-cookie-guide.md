@@ -33,17 +33,10 @@ To understand platform health, we use **first-party anonymous telemetry** instea
 
 We also honor **Do Not Track** and **Global Privacy Control (GPC)** signals: if enabled, non-essential event collection is disabled automatically.
 
-### Your Control Center
+### One Category, Always On
 
-You can manage your cookie preferences at any time using the controls below:
+Because everything we use is strictly necessary and first-party, there is nothing to opt in or out of:
 
-import { CookiePreferences } from '@site/src/components/CookieConsent';
-
-<CookiePreferences />
-
-When you first visit, you will see a banner at the bottom of the screen explaining that only necessary cookies are used on this site.
-
-*   **OK:** Dismisses the notice.
-*   **Details:** Opens the cookie panel so you can review what is considered necessary.
+> **NECESSARY** — Login/session and security for the site, plus Stripe checkout and billing to process payments and help prevent fraud. Always on.
 
 For the full picture, see the **Privacy and Cookies Policy** in the Legal section of plantasia.space (last updated May 11, 2026).

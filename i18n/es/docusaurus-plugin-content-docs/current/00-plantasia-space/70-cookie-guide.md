@@ -39,17 +39,10 @@ Para entender la salud de la plataforma usamos en cambio **telemetría anónima 
 
 También respetamos las señales **Do Not Track** y **Global Privacy Control (GPC)**: si están activadas, la recolección de eventos no esenciales se desactiva automáticamente.
 
-### Tu Centro de Control
+### Una Sola Categoría, Siempre Activa
 
-Puedes gestionar tus preferencias de cookies en cualquier momento utilizando los controles a continuación:
+Como todo lo que usamos es estrictamente necesario y de primera parte, no hay nada que activar ni desactivar:
 
-import { CookiePreferences } from '@site/src/components/CookieConsent';
-
-<CookiePreferences />
-
-Cuando nos visites por primera vez, verás un banner en la parte inferior de la pantalla explicando que este sitio solo utiliza cookies necesarias.
-
-*   **OK:** Cierra el aviso.
-*   **Detalles:** Abre el panel de cookies para revisar qué se considera necesario.
+> **NECESARIAS** — Inicio de sesión/sesión y seguridad del sitio, más el checkout y la facturación de Stripe para procesar pagos y ayudar a prevenir fraude. Siempre activas.
 
 Para el panorama completo, mira la **Política de Privacidad y Cookies** en la sección Legal de plantasia.space (última actualización: 11 de mayo de 2026).
