@@ -86,3 +86,16 @@ Otras personas no podran abrir, editar ni publicar dentro de ese Mundo a menos q
 Audio = switch maestro de visibilidad
 Entidades = capa de colaboracion y contribucion
 :::
+
+## Descargar contenido
+
+Algunos audios se pueden descargar directamente. Las descargas las habilita cada creador por publicación: al publicar o editar un audio, la opción **Habilitar descargas directas** permite que los oyentes lo descarguen.
+
+Cuando las descargas directas están habilitadas, la página del audio muestra un botón de **Descargar**. Se abre un diálogo donde eliges la versión:
+
+- **Comprimido (MP3)** — un archivo más liviano para la escucha diaria
+- **Sin pérdida (WAV)** — calidad completa para archivo
+
+Los Clips publicados también pueden ofrecer la descarga del video (original o MP4 comprimido) desde la página del Clip.
+
+Los archivos descargados siguen cubiertos por la licencia Creative Commons de la publicación — revisa la licencia que se muestra en la página del contenido para saber qué puedes hacer con el archivo más allá de escucharlo.

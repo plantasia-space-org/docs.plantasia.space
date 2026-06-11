@@ -87,3 +87,16 @@ Others will not be able to open, edit, or publish inside that World unless you i
 	Audio = master visibility switch
 	Entities = collaboration & contribution layer
 :::
+
+## Downloading Content
+
+Some audios can be downloaded directly. Downloads are enabled per release by the creator: when publishing or editing an audio, the **Enable Direct Downloads** option allows listeners to download it.
+
+When direct downloads are enabled, the audio page shows a **Download** button. It opens a dialog where you choose the version:
+
+- **Compressed (MP3)** — a smaller file for everyday listening
+- **Lossless (WAV)** — full quality for archival use
+
+Released Clips can also offer a video download (original or compressed MP4) from the Clip page.
+
+Downloaded files remain covered by the release's Creative Commons license — check the license shown on the content page for what you may do with the file beyond listening.

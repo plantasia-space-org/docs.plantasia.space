@@ -85,6 +85,11 @@ sidebar_custom_props:
 </details>
 
 <details>
+  <summary>¿Cómo elimino mi cuenta?</summary>
+  <div>En la configuración de tu cuenta, abrí la <strong>Zona de peligro</strong> y elegí <strong>Eliminar cuenta</strong>. La eliminación se programa, no es inmediata: durante un período de gracia (la fecha límite exacta se muestra en el diálogo) tu cuenta queda deshabilitada y tus elementos — Audios, Colecciones, Orbiters y Mundos Entrelazados — quedan inaccesibles, pero todavía podés restaurarlo todo iniciando sesión de nuevo y confirmando la restauración. Tu suscripción se pausa y no se realizan nuevos cargos durante este período. Pasada la fecha límite, tu cuenta y todos los datos relacionados se eliminan de forma permanente y no se pueden recuperar.</div>
+</details>
+
+<details>
   <summary>¿Cómo obtengo soporte?</summary>
   <div>Podés enviar un formulario de soporte (requiere login y cookies del formulario) o usar los enlaces de contacto dentro de la app.</div>
 </details>

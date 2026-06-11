@@ -12,6 +12,18 @@ Plantasia Space provides a few distinct tools for managing your experience and k
 
 ---
 
+## Comments and reactions
+
+Public content on Plantasia Space — audios, Entangled Worlds, Orbiters, collections, and Clips — can receive comments and reactions.
+
+- **Commenting** — open the content page and use the **Add a comment…** field. You need to be signed in to comment. You can reply to other comments, and on audios a comment can carry a timestamp (**Stamp**) that links it to a specific moment of the track.
+- **Editing and deleting** — use **Edit** on your own comment to change it (it will show an *edited* mark), or **Delete** to remove it permanently.
+- **Reacting** — tap the heart to **Like** content, or the star to save it for later. See [About Stats](80-stats.mdx) for exactly how these counts work.
+
+Comments follow the platform's community guidelines — see the [Code of Conduct](50-code-of-conduct.md). If a comment crosses the line, you can report it from its **More options** menu (see Reporting below).
+
+---
+
 ## Blocking
 
 ### What blocking does
@@ -69,6 +81,17 @@ If both options are available, here is the difference:
 | **Report** | Asks the moderation team to review and decide |
 
 Use **Block** when you want to stop someone from interacting with your content right now. Use **Report** when you believe there is a platform safety or community issue that the moderation team should review.
+
+### Reporting copyright infringement
+
+If you believe content on Plantasia Space uses your work without permission, you can submit a copyright report through the same report flow:
+
+1. Open **More options** on the content in question and select **Report**.
+2. The **Report content** dialog guides you through three steps. As the reason, choose **Unauthorized use of my content**.
+3. Fill in the copyright details: whether you are the rights holder, the URL of your original work, the URL of the reported content, and any other useful rights information.
+4. Confirm that the information is accurate and submitted in good faith, then submit.
+
+Copyright reports are reviewed individually by the moderation team — outcomes are not automatic.
 
 ---
 
