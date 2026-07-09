@@ -455,6 +455,12 @@ ul li {
   stroke: currentColor;
 }
 
+@media (min-width: 997px) {
+  .theme-doc-sidebar-container {
+    border-right: 0 !important;
+  }
+}
+
 /* Plantasia logo is a filled mark — follow the sidebar text color so it
    stays visible in both themes (dark on light bg, white on dark bg). */
 .sidebarItemIcon--plantasia,
