@@ -387,6 +387,29 @@ ul li {
   margin-top: 0;
 }
 
+.ps-doc-themed-figure {
+  margin: 1.5rem 0;
+}
+
+.ps-doc-themed-image {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  height: auto;
+}
+
+.ps-doc-themed-image--dark {
+  display: none;
+}
+
+[data-theme='dark'] .ps-doc-themed-image--light {
+  display: none;
+}
+
+[data-theme='dark'] .ps-doc-themed-image--dark {
+  display: block;
+}
+
 @media (min-width: 996px) {
   .ps-doc-video {
     width: 77%;

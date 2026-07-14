@@ -57,6 +57,19 @@ Abre el panel de **Reproducción** para trabajar con la forma de onda:
 
 Los loops se mantienen disponibles en todos los paneles.
 
+### Loops
+
+Define un loop de tres maneras: **arrastra** una región sobre la forma de onda, elige un **tamaño de
+loop** (1 compás, 4 compases…), o marca puntos de **IN** y **OUT** en el cabezal.
+
+- Los tamaños predefinidos crean el loop hacia delante desde el loop en el que estás — o **desde el
+  cabezal** cuando el loop está apagado o estás fuera de él.
+- **IN y OUT son independientes.** Con un loop ya definido, marcar un nuevo IN mueve el loop al
+  momento, conservando el OUT anterior. Un IN más allá del OUT actual borra el OUT: marca uno nuevo
+  cuando quieras. Un OUT antes del IN se ignora.
+- Un loop puede **apagarse conservando sus marcadores**: quedan inertes hasta que lo vuelvas a
+  activar.
+
 
 ## Monitoreo
 

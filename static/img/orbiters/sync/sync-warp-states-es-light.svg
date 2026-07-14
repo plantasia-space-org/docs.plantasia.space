@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 720 380" width="720" height="380" xmlns="http://www.w3.org/2000/svg" font-family="Lato, sans-serif">
+
+        <text x="20" y="40" font-size="10" font-weight="700" letter-spacing="1" fill="#999">PULSO COMPARTIDO</text>
+        <text x="200" y="40" text-anchor="middle" font-size="11" font-weight="700" fill="#888">1</text><text x="320" y="40" text-anchor="middle" font-size="11" font-weight="700" fill="#888">2</text><text x="440" y="40" text-anchor="middle" font-size="11" font-weight="700" fill="#888">3</text><text x="560" y="40" text-anchor="middle" font-size="11" font-weight="700" fill="#888">4</text><text x="680" y="40" text-anchor="middle" font-size="11" font-weight="700" fill="#888">5</text>
+
+        <line x1="200" y1="193" x2="200" y2="332" stroke="#d2d2d2"></line><line x1="320" y1="193" x2="320" y2="332" stroke="#d2d2d2"></line><line x1="440" y1="193" x2="440" y2="332" stroke="#d2d2d2"></line><line x1="560" y1="193" x2="560" y2="332" stroke="#d2d2d2"></line><line x1="680" y1="193" x2="680" y2="332" stroke="#d2d2d2"></line>
+
+        <g transform="translate(16,52)"><polygon points="20,0 37.3,10 37.3,30 20,40 2.7,30 2.7,10" fill="#5ac9a4" stroke="#1f7d61" stroke-width="1.5"></polygon></g>
+        <text x="66" y="68" font-size="12.5" font-weight="700" fill="#999">SYNC apagado</text>
+        <text x="66" y="84" font-size="10.5" fill="#aaa">Warp activado — su propio tempo</text>
+        <line x1="210" y1="50" x2="210" y2="100" stroke="#2fae87" stroke-dasharray="3 3" opacity="0.75"></line><line x1="310" y1="50" x2="310" y2="100" stroke="#2fae87" stroke-dasharray="3 3" opacity="0.75"></line><line x1="410" y1="50" x2="410" y2="100" stroke="#2fae87" stroke-dasharray="3 3" opacity="0.75"></line><line x1="510" y1="50" x2="510" y2="100" stroke="#2fae87" stroke-dasharray="3 3" opacity="0.75"></line><line x1="610" y1="50" x2="610" y2="100" stroke="#2fae87" stroke-dasharray="3 3" opacity="0.75"></line>
+        <rect x="214" y="62" width="72" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="314" y="62" width="72" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="414" y="62" width="72" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="514" y="62" width="72" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect>
+
+        <g transform="translate(16,127)"><polygon points="20,0 37.3,10 37.3,30 20,40 2.7,30 2.7,10" fill="#5ac9a4" stroke="#1f7d61" stroke-width="1.5"></polygon></g>
+        <text x="66" y="143" font-size="12.5" font-weight="700" fill="#999">SYNC apagado</text>
+        <text x="66" y="159" font-size="10.5" fill="#aaa">Warp apagado — velocidad natural</text>
+        <rect x="204" y="137" width="95" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="309" y="137" width="64" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="383" y="137" width="110" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="503" y="137" width="80" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="593" y="137" width="100" height="26" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect>
+
+        <g transform="translate(16,202)"><polygon points="20,0 37.3,10 37.3,30 20,40 2.7,30 2.7,10" fill="#5ac9a4" stroke="#1f7d61" stroke-width="1.5"></polygon></g>
+        <text x="66" y="218" font-size="12.5" font-weight="700" fill="#e0238f" text-decoration="underline">SYNC activado</text>
+        <text x="66" y="234" font-size="10.5" fill="#555">Warp activado — estirado</text>
+        <rect x="204" y="210" width="112" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="324" y="210" width="112" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="444" y="210" width="112" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="564" y="210" width="112" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect>
+
+        <g transform="translate(16,277)"><polygon points="20,0 37.3,10 37.3,30 20,40 2.7,30 2.7,10" fill="#5ac9a4" stroke="#1f7d61" stroke-width="1.5"></polygon></g>
+        <text x="66" y="293" font-size="12.5" font-weight="700" fill="#e0238f" text-decoration="underline">SYNC activado</text>
+        <text x="66" y="309" font-size="10.5" fill="#555">Warp apagado — duración libre</text>
+        <rect x="205" y="285" width="88" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="305" y="285" width="88" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="405" y="285" width="88" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="505" y="285" width="88" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect><rect x="605" y="285" width="88" height="30" rx="3" fill="#5ac9a4" stroke="#1f7d61"></rect>
+
+        <text x="20" y="356" font-size="10.5" fill="#888">Las filas 3 y 4 comparten el pulso: con Warp activado cada nota se ancla a él; con Warp apagado mantiene su duración natural.</text>
+        <text x="20" y="370" font-size="10.5" fill="#888">Las filas 1 y 2 no están sincronizadas: con Warp activado siguen el tempo propio del reproductor; con Warp apagado no hay rejilla.</text>
+      </svg>

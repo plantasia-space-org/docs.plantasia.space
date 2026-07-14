@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 720 300" width="720" height="300" xmlns="http://www.w3.org/2000/svg" font-family="Lato, sans-serif">
+        <defs>
+          <marker id="ahD" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2fd6d2"></path></marker>
+        </defs>
+        <rect x="248" y="32" width="224" height="92" rx="14" fill="#000" stroke="#2fd6d2" stroke-width="2"></rect>
+        <text x="360" y="55" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1.5" fill="#2fd6d2">SHARED TEMPO</text>
+        <text x="360" y="90" text-anchor="middle" font-size="27" font-weight="900" fill="#fff">120 BPM</text>
+        <polyline points="288,110 312,110 320,99 332,121 342,110 432,110" fill="none" stroke="#2fd6d2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" opacity="0.9"></polyline>
+        <path d="M300,124 Q214,150 170,176" fill="none" stroke="#2fd6d2" stroke-width="2" marker-start="url(#ahD)" marker-end="url(#ahD)"></path>
+        <path d="M420,124 Q506,150 550,176" fill="none" stroke="#2fd6d2" stroke-width="2" marker-start="url(#ahD)" marker-end="url(#ahD)"></path>
+        <text x="360" y="166" text-anchor="middle" font-size="12.5" fill="#aaa">change it on any one — both follow</text>
+        <g transform="translate(122,176)"><polygon points="48,0 89.6,24 89.6,72 48,96 6.4,72 6.4,24" fill="#5ac9a4" stroke="#bdeede" stroke-width="2"></polygon><text x="48" y="56" text-anchor="middle" font-size="20" font-weight="900" fill="#0f3a2c">A</text></g>
+        <text x="170" y="292" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Orbiter A</text>
+        <g transform="translate(502,176)"><polygon points="48,0 89.6,24 89.6,72 48,96 6.4,72 6.4,24" fill="#5ac9a4" stroke="#bdeede" stroke-width="2"></polygon><text x="48" y="56" text-anchor="middle" font-size="20" font-weight="900" fill="#0f3a2c">B</text></g>
+        <text x="550" y="292" text-anchor="middle" font-size="12" font-weight="700" fill="#fff">Orbiter B</text>
+      </svg>

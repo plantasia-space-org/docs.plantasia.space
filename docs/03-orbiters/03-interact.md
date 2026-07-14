@@ -56,6 +56,19 @@ Open the **Playback** panel to work with the waveform:
 
 Looping remains available across all panels.
 
+### Loops
+
+Set a loop three ways: **drag** a region on the waveform, pick a **loop size** (1 bar, 4 bars, …),
+or mark **IN** and **OUT** points at the playhead.
+
+- The size presets loop forward from the loop you're inside — or **from the playhead** when the
+  loop is off or you're outside it.
+- **IN and OUT are independent.** With a loop already set, marking a new IN moves the loop right
+  away, keeping the old OUT. An IN past the current OUT clears the OUT — mark a new one when you're
+  ready. An OUT before the IN is ignored.
+- A loop can be **switched off while keeping its markers** — they sit inert until you enable it
+  again.
+
 
 ## Monitoring
 
