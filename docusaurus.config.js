@@ -55,7 +55,7 @@ const config = {
           // Path to your sidebar configuration
           sidebarPath: require.resolve('./sidebars.js'),
           // Edit URL for the documentation pages
-          editUrl: 'https://github.com/plantasia-space-org/docs.plantasia.space/edit/main/', // Update to your GitHub repo
+          editUrl: 'https://github.com/plantasia-space/docs.plantasia.space/edit/main/', // Update to your GitHub repo
           routeBasePath: 'docs', // Base path for documentation
           remarkPlugins: [require("remark-breaks")],
         },
@@ -64,7 +64,7 @@ const config = {
           blogTitle: 'Plantasia Space Blog',
           blogDescription: 'News, updates, and stories from the Plantasia Space ecosystem.',
           blogSidebarTitle: 'Recent posts',
-          editUrl: 'https://github.com/plantasia-space-org/docs.plantasia.space/edit/main/blog/', // Update to your GitHub repo
+          editUrl: 'https://github.com/plantasia-space/docs.plantasia.space/edit/main/blog/', // Update to your GitHub repo
           path: './blog',
           routeBasePath: 'blog', // Base path for blog
         },
@@ -123,7 +123,7 @@ const config = {
             className: 'nav-discord',
           },
           {
-            href: 'https://github.com/plantasia-space-org/docs.plantasia.space',
+            href: 'https://github.com/plantasia-space/docs.plantasia.space',
             label: 'GitHub',
             position: 'right',
             className: 'nav-github',
@@ -164,7 +164,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/plantasia-space-org/docs.plantasia.space',
+                href: 'https://github.com/plantasia-space/docs.plantasia.space',
               },
             ],
           },
