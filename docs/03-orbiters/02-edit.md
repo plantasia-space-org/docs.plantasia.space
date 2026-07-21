@@ -51,8 +51,14 @@ You can:
 - Preview behavior in different Entangled Worlds
 - Refine mappings gradually
 
-## Save and publish changes
+## Saving and publishing changes
 
-Save drafts while experimenting.
+Your edits save themselves. A couple of seconds after you stop changing something, the Orbiter's draft is saved for you — there is no save button to remember.
 
-Publish changes when you are ready for them to apply to the public Orbiter.
+The small disk icon at the top of the page shows where that has got to, and its dot changes colour as it goes: unsaved changes, saving, saved, or couldn't save. Hover it to read the current state. You can also click it to save straight away instead of waiting.
+
+Saving only ever updates your draft. Anyone listening to your Orbiter keeps hearing the version you last published, so you can experiment freely.
+
+When you are ready for your changes to reach everyone, press **Release Orbiter**. That step is always yours to take.
+
+Images are the exception: a cover you upload is applied when you choose it, not by autosave.

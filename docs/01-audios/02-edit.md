@@ -35,8 +35,12 @@ Audios are meant to evolve.
 
 You can revisit an Audio to improve its description, adjust visuals, or refine how it is presented to other xPlorers, release new audio versions.
 
-## Save and publish changes
+## Saving and publishing changes
 
-Save drafts while iterating, this wont be released till you explicit press release audio.
+Your edits save themselves. A couple of seconds after you stop typing, the Audio's draft is saved for you — there is no save button to remember.
 
-Publish updates when you want changes to apply to the public version of the Audio.
+The small disk icon at the top of the page shows where that has got to, and its dot changes colour as it goes: unsaved changes, saving, saved, or couldn't save. Hover it to read the current state. You can also click it to save straight away instead of waiting.
+
+Saving only ever updates your draft. Nothing reaches other xPlorers until you press release — listeners keep hearing the version you last published while you work.
+
+Audio files and cover images are the exception: those are applied when you upload them, not by autosave.

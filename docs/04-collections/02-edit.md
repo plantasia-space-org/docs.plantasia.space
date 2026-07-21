@@ -31,9 +31,15 @@ Collections can hold a mix of content types, and you can arrange the items in an
 
 Open the collection you want to curate and drag items into their new positions. The new order is saved as you go; there is no separate save step for reordering.
 
-## Publishing changes
+## Saving and publishing changes
 
-A collection that is already released keeps showing its released version while you work. Publish your latest edits with **Release changes**, or save a draft to revisit later.
+While a collection is still a draft, your edits save themselves. A couple of seconds after you stop, the draft is saved for you — there is no save button to remember.
+
+The small disk icon at the top of the dialog shows where that has got to, and its dot changes colour as it goes: unsaved changes, saving, saved, or couldn't save. Hover it to read the current state. You can also click it to save straight away instead of waiting.
+
+Once a collection has been released it works differently: your edits are held until you publish them with **Release changes**, so nothing reaches visitors before you say so.
+
+Artwork is the exception: an image you upload is applied when you choose it, not by autosave.
 
 ## Archived collections
 

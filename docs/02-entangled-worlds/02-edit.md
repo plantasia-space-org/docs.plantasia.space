@@ -35,8 +35,14 @@ Entangled Worlds are designed to evolve.
 
 You can revisit a world, regenerate textures, rewrite narration, or adjust visuals as your ideas develop.
 
-## Save and publish changes
+## Saving and publishing changes
 
-Save drafts while experimenting.
+Your edits save themselves. A couple of seconds after you stop changing something, the world's draft is saved for you — there is no save button to remember.
 
-Publish updates when you want changes to apply to the public version of the world.
+The small disk icon at the top of the page shows where that has got to, and its dot changes colour as it goes: unsaved changes, saving, saved, or couldn't save. Hover it to read the current state. You can also click it to save straight away instead of waiting.
+
+Saving only ever updates your draft. Visitors keep seeing the version you last published, so you can regenerate textures and rewrite narration without anyone watching over your shoulder.
+
+Publish when you want those changes to apply to the public version of the world. That step is always yours to take.
+
+Uploads are the exception: images you add are applied when you choose them, not by autosave.
